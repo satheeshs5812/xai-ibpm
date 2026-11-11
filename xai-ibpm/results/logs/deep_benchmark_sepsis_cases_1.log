@@ -1,0 +1,18 @@
+[deep benchmark/sepsis_cases_1 07:26:49 +0s] cases fit/val/test 500 125 157 K 29
+[deep benchmark/sepsis_cases_1 07:26:51 +2s] LSTM {'h': 64, 'lr': 0.001} val auc 0.5067 epochs 4 0s
+[deep benchmark/sepsis_cases_1 07:26:56 +6s] LSTM {'h': 128, 'lr': 0.001} val auc 0.5736 epochs 19 4s
+[deep benchmark/sepsis_cases_1 07:26:57 +8s] LSTM {'h': 64, 'lr': 0.003} val auc 0.5713 epochs 16 2s
+[deep benchmark/sepsis_cases_1 07:26:57 +8s] LSTM seed 0 test auc 0.3907 epochs 19
+[deep benchmark/sepsis_cases_1 07:27:02 +12s] LSTM seed 1 test auc 0.4001 epochs 19
+[deep benchmark/sepsis_cases_1 07:27:06 +16s] LSTM seed 2 test auc 0.377 epochs 19
+[deep benchmark/sepsis_cases_1 07:27:07 +17s] LSTM seed 3 test auc 0.4672 epochs 4
+[deep benchmark/sepsis_cases_1 07:27:11 +22s] LSTM seed 4 test auc 0.3926 epochs 21
+[deep benchmark/sepsis_cases_1 07:27:12 +22s] Transformer {'d': 32, 'layers': 1, 'lr': 0.001} val auc 0.5037 epochs 4 0s
+[deep benchmark/sepsis_cases_1 07:27:17 +28s] Transformer {'d': 64, 'layers': 2, 'lr': 0.001} val auc 0.6175 epochs 16 6s
+[deep benchmark/sepsis_cases_1 07:27:19 +29s] Transformer {'d': 64, 'layers': 2, 'lr': 0.0003} val auc 0.4954 epochs 4 2s
+[deep benchmark/sepsis_cases_1 07:27:19 +29s] Transformer seed 0 test auc 0.3625 epochs 16
+[deep benchmark/sepsis_cases_1 07:27:26 +37s] Transformer seed 1 test auc 0.4135 epochs 18
+[deep benchmark/sepsis_cases_1 07:27:31 +42s] Transformer seed 2 test auc 0.3893 epochs 14
+[deep benchmark/sepsis_cases_1 07:27:37 +48s] Transformer seed 3 test auc 0.4166 epochs 16
+[deep benchmark/sepsis_cases_1 07:27:43 +54s] Transformer seed 4 test auc 0.3981 epochs 15
+[deep benchmark/sepsis_cases_1 07:27:43 +54s] DONE

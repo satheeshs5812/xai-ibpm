@@ -1,0 +1,4 @@
+[eval strict/traffic_fines_1 09:08:06 +42s] stack calibrators ['venn-abers', 'venn-abers', 'venn-abers', 'venn-abers', 'venn-abers']
+[eval strict/traffic_fines_1 09:08:11 +47s] mean test AUC {'Best tuned GBM + isotonic': 0.7829, 'CatBoost': 0.7843, 'CatBoost-default': 0.7706, 'LGBM': 0.7769, 'LGBM-default': 0.7594, 'LR': 0.7083, 'LSTM': 0.7896, 'RF': 0.7642, 'Stack (proposed)': 0.7914, 'Stack of default GBMs (untuned)': 0.7667, 'Stack w/o Transformer': 0.7804, 'Stack w/o post-calibration': 0.7914, 'Transformer': 0.7908, 'XGB': 0.7773, 'XGB-default': 0.7687}
+[eval strict/traffic_fines_1 09:09:15 +111s] best baseline Transformer delta 0.0017
+[eval strict/traffic_fines_1 09:09:34 +131s] DONE

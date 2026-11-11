@@ -1,0 +1,20 @@
+# raw and parsed event logs (public, download from 4TU.ResearchData; see data/README.md)
+data/raw/
+data/parsed/
+*.xes
+*.xes.gz
+*.parquet
+# pipeline working directory: encoded datasets, trained models, per-prefix predictions (several GB)
+work/
+outputs/
+*.pkl
+*.npz
+!results/per_task/**/shap_sample.npz
+catboost_info/
+# Python / OS
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store

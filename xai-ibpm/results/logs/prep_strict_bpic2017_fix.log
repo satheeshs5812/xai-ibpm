@@ -1,0 +1,5 @@
+08:28:55 strict bpic2017_accepted tasks ['bpic2017_accepted'] K {'bpic2017_accepted': 20} events 1057567 cases 31413
+08:28:57 fit (79985, 253)
+08:28:58 val (49998, 253)
+08:28:58 test (121335, 253)
+08:29:02 done bpic2017_accepted 12s

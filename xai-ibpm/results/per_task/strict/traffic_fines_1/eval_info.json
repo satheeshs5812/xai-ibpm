@@ -1,0 +1,15 @@
+{
+ "best_baseline": "Transformer",
+ "top_baselines": [
+  "Transformer",
+  "LSTM",
+  "CatBoost"
+ ],
+ "aurc": {
+  "LGBM": 0.1781892893181374,
+  "LR": 0.3081816832817721,
+  "Stack (proposed)": 0.16635414566909565,
+  "Transformer": 0.17596236505232013
+ },
+ "runtime_s": 130.54537391662598
+}

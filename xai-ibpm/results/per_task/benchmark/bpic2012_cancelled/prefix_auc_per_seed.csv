@@ -1,0 +1,1441 @@
+protocol,task,model,seed,prefix_len,n,auc
+benchmark,bpic2012_cancelled,LR,0,1,937,0.46109808325351476
+benchmark,bpic2012_cancelled,LR,0,2,937,0.45822461494423716
+benchmark,bpic2012_cancelled,LR,0,3,937,0.4526538296396605
+benchmark,bpic2012_cancelled,LR,0,4,937,0.4535180720238685
+benchmark,bpic2012_cancelled,LR,0,5,937,0.48630423533815553
+benchmark,bpic2012_cancelled,LR,0,6,937,0.48098666754742325
+benchmark,bpic2012_cancelled,LR,0,7,937,0.47897193689379175
+benchmark,bpic2012_cancelled,LR,0,8,937,0.5030331054375708
+benchmark,bpic2012_cancelled,LR,0,9,937,0.5201252876220673
+benchmark,bpic2012_cancelled,LR,0,10,937,0.5160022459292533
+benchmark,bpic2012_cancelled,LR,0,11,937,0.5171142010987438
+benchmark,bpic2012_cancelled,LR,0,12,937,0.5310741927315564
+benchmark,bpic2012_cancelled,LR,0,13,937,0.528426418293314
+benchmark,bpic2012_cancelled,LR,0,14,937,0.5768460107232113
+benchmark,bpic2012_cancelled,LR,0,15,937,0.6060320815580584
+benchmark,bpic2012_cancelled,LR,0,16,937,0.6746925609098215
+benchmark,bpic2012_cancelled,LR,0,17,916,0.6803411280538574
+benchmark,bpic2012_cancelled,LR,0,18,915,0.7279115866400774
+benchmark,bpic2012_cancelled,LR,0,19,897,0.7431985435523987
+benchmark,bpic2012_cancelled,LR,0,20,895,0.778708768118753
+benchmark,bpic2012_cancelled,LR,0,21,872,0.7860889880004247
+benchmark,bpic2012_cancelled,LR,0,22,864,0.8136898065426951
+benchmark,bpic2012_cancelled,LR,0,23,830,0.8155863381622078
+benchmark,bpic2012_cancelled,LR,0,24,814,0.8298332820129326
+benchmark,bpic2012_cancelled,LR,0,25,770,0.8400648253912467
+benchmark,bpic2012_cancelled,LR,0,26,752,0.8570625058589478
+benchmark,bpic2012_cancelled,LR,0,27,706,0.8531414868105516
+benchmark,bpic2012_cancelled,LR,0,28,686,0.8624939171149371
+benchmark,bpic2012_cancelled,LR,0,29,642,0.8629987601021795
+benchmark,bpic2012_cancelled,LR,0,30,618,0.8789658634538152
+benchmark,bpic2012_cancelled,LR,0,31,582,0.877981565962201
+benchmark,bpic2012_cancelled,LR,0,32,547,0.8680573777661156
+benchmark,bpic2012_cancelled,LR,0,33,509,0.8566521404768008
+benchmark,bpic2012_cancelled,LR,0,34,483,0.8570695260366167
+benchmark,bpic2012_cancelled,LR,0,35,452,0.8454321946169773
+benchmark,bpic2012_cancelled,LR,0,36,424,0.8353949785670545
+benchmark,bpic2012_cancelled,LR,0,37,399,0.8530390217586765
+benchmark,bpic2012_cancelled,LR,0,38,382,0.8587721426838146
+benchmark,bpic2012_cancelled,LR,0,39,353,0.8502824858757062
+benchmark,bpic2012_cancelled,LR,0,40,337,0.8424516659810778
+benchmark,bpic2012_cancelled,RF,0,1,937,0.5281924673294359
+benchmark,bpic2012_cancelled,RF,0,2,937,0.5296814964054123
+benchmark,bpic2012_cancelled,RF,0,3,937,0.516343539100087
+benchmark,bpic2012_cancelled,RF,0,4,937,0.5007816714557805
+benchmark,bpic2012_cancelled,RF,0,5,937,0.5248428399995597
+benchmark,bpic2012_cancelled,RF,0,6,937,0.5322962424722837
+benchmark,bpic2012_cancelled,RF,0,7,937,0.5485517059153813
+benchmark,bpic2012_cancelled,RF,0,8,937,0.5515517829815811
+benchmark,bpic2012_cancelled,RF,0,9,937,0.5525206152084641
+benchmark,bpic2012_cancelled,RF,0,10,937,0.5419295174554943
+benchmark,bpic2012_cancelled,RF,0,11,937,0.5430304631678612
+benchmark,bpic2012_cancelled,RF,0,12,937,0.5399533199017956
+benchmark,bpic2012_cancelled,RF,0,13,937,0.5792460723761711
+benchmark,bpic2012_cancelled,RF,0,14,937,0.5961951316180599
+benchmark,bpic2012_cancelled,RF,0,15,937,0.667652013079235
+benchmark,bpic2012_cancelled,RF,0,16,937,0.6995078772665719
+benchmark,bpic2012_cancelled,RF,0,17,916,0.7356554939695982
+benchmark,bpic2012_cancelled,RF,0,18,915,0.7616099256057224
+benchmark,bpic2012_cancelled,RF,0,19,897,0.7774686530423859
+benchmark,bpic2012_cancelled,RF,0,20,895,0.7995138161552684
+benchmark,bpic2012_cancelled,RF,0,21,872,0.8235743867473716
+benchmark,bpic2012_cancelled,RF,0,22,864,0.8423444290031545
+benchmark,bpic2012_cancelled,RF,0,23,830,0.8448280069301534
+benchmark,bpic2012_cancelled,RF,0,24,814,0.8583908854968547
+benchmark,bpic2012_cancelled,RF,0,25,770,0.8596100713665075
+benchmark,bpic2012_cancelled,RF,0,26,752,0.8651869134542274
+benchmark,bpic2012_cancelled,RF,0,27,706,0.8621702637889688
+benchmark,bpic2012_cancelled,RF,0,28,686,0.8711743585022294
+benchmark,bpic2012_cancelled,RF,0,29,642,0.8745163651573773
+benchmark,bpic2012_cancelled,RF,0,30,618,0.8868139223560909
+benchmark,bpic2012_cancelled,RF,0,31,582,0.8811656270365887
+benchmark,bpic2012_cancelled,RF,0,32,547,0.8782253126913322
+benchmark,bpic2012_cancelled,RF,0,33,509,0.8787490387080237
+benchmark,bpic2012_cancelled,RF,0,34,483,0.8752923059373753
+benchmark,bpic2012_cancelled,RF,0,35,452,0.8710533126293996
+benchmark,bpic2012_cancelled,RF,0,36,424,0.8596856501326802
+benchmark,bpic2012_cancelled,RF,0,37,399,0.8656716417910447
+benchmark,bpic2012_cancelled,RF,0,38,382,0.8761465663673866
+benchmark,bpic2012_cancelled,RF,0,39,353,0.8680963910988123
+benchmark,bpic2012_cancelled,RF,0,40,337,0.8593857123268888
+benchmark,bpic2012_cancelled,RF,1,1,937,0.5240694256366218
+benchmark,bpic2012_cancelled,RF,1,2,937,0.521006044191961
+benchmark,bpic2012_cancelled,RF,1,3,937,0.5298796666336383
+benchmark,bpic2012_cancelled,RF,1,4,937,0.5170921821844965
+benchmark,bpic2012_cancelled,RF,1,5,937,0.546966344089573
+benchmark,bpic2012_cancelled,RF,1,6,937,0.5407900386431945
+benchmark,bpic2012_cancelled,RF,1,7,937,0.5454800673778775
+benchmark,bpic2012_cancelled,RF,1,8,937,0.5461956820909161
+benchmark,bpic2012_cancelled,RF,1,9,937,0.5465920225473682
+benchmark,bpic2012_cancelled,RF,1,10,937,0.5512104898107474
+benchmark,bpic2012_cancelled,RF,1,11,937,0.5625667448338122
+benchmark,bpic2012_cancelled,RF,1,12,937,0.5608107364225869
+benchmark,bpic2012_cancelled,RF,1,13,937,0.5882903414032654
+benchmark,bpic2012_cancelled,RF,1,14,937,0.6043861677180697
+benchmark,bpic2012_cancelled,RF,1,15,937,0.6747586176525635
+benchmark,bpic2012_cancelled,RF,1,16,937,0.6986271206966784
+benchmark,bpic2012_cancelled,RF,1,17,916,0.736422675262269
+benchmark,bpic2012_cancelled,RF,1,18,915,0.7568692308610869
+benchmark,bpic2012_cancelled,RF,1,19,897,0.7721800558988693
+benchmark,bpic2012_cancelled,RF,1,20,895,0.7994039075733479
+benchmark,bpic2012_cancelled,RF,1,21,872,0.8253937913702171
+benchmark,bpic2012_cancelled,RF,1,22,864,0.8444326796520562
+benchmark,bpic2012_cancelled,RF,1,23,830,0.8475040873264412
+benchmark,bpic2012_cancelled,RF,1,24,814,0.8531913957682664
+benchmark,bpic2012_cancelled,RF,1,25,770,0.8534204180456706
+benchmark,bpic2012_cancelled,RF,1,26,752,0.8626558480110825
+benchmark,bpic2012_cancelled,RF,1,27,706,0.8572062350119904
+benchmark,bpic2012_cancelled,RF,1,28,686,0.8681098996488367
+benchmark,bpic2012_cancelled,RF,1,29,642,0.8716780448454609
+benchmark,bpic2012_cancelled,RF,1,30,618,0.8789491298527444
+benchmark,bpic2012_cancelled,RF,1,31,582,0.8819290568848339
+benchmark,bpic2012_cancelled,RF,1,32,547,0.8765853231872649
+benchmark,bpic2012_cancelled,RF,1,33,509,0.8757241732889003
+benchmark,bpic2012_cancelled,RF,1,34,483,0.8728968231335197
+benchmark,bpic2012_cancelled,RF,1,35,452,0.8728002070393375
+benchmark,bpic2012_cancelled,RF,1,36,424,0.8557664829557055
+benchmark,bpic2012_cancelled,RF,1,37,399,0.8512857399748248
+benchmark,bpic2012_cancelled,RF,1,38,382,0.8570249939335113
+benchmark,bpic2012_cancelled,RF,1,39,353,0.8426150121065376
+benchmark,bpic2012_cancelled,RF,1,40,337,0.8338818044700398
+benchmark,bpic2012_cancelled,RF,2,1,937,0.5224317688894761
+benchmark,bpic2012_cancelled,RF,2,2,937,0.5293842410630731
+benchmark,bpic2012_cancelled,RF,2,3,937,0.5307273948321608
+benchmark,bpic2012_cancelled,RF,2,4,937,0.5125067432924882
+benchmark,bpic2012_cancelled,RF,2,5,937,0.5558014334313175
+benchmark,bpic2012_cancelled,RF,2,6,937,0.554722506633198
+benchmark,bpic2012_cancelled,RF,2,7,937,0.551160947253691
+benchmark,bpic2012_cancelled,RF,2,8,937,0.5511334236108818
+benchmark,bpic2012_cancelled,RF,2,9,937,0.5544555272979489
+benchmark,bpic2012_cancelled,RF,2,10,937,0.553291277207121
+benchmark,bpic2012_cancelled,RF,2,11,937,0.5600290649668065
+benchmark,bpic2012_cancelled,RF,2,12,937,0.5656906782926534
+benchmark,bpic2012_cancelled,RF,2,13,937,0.5950721669914457
+benchmark,bpic2012_cancelled,RF,2,14,937,0.6114872675628366
+benchmark,bpic2012_cancelled,RF,2,15,937,0.6733934449692286
+benchmark,bpic2012_cancelled,RF,2,16,937,0.7066034723827768
+benchmark,bpic2012_cancelled,RF,2,17,916,0.7395687132763995
+benchmark,bpic2012_cancelled,RF,2,18,915,0.7648937821668677
+benchmark,bpic2012_cancelled,RF,2,19,897,0.7809238698428166
+benchmark,bpic2012_cancelled,RF,2,20,895,0.8074918861605701
+benchmark,bpic2012_cancelled,RF,2,21,872,0.8270999256663482
+benchmark,bpic2012_cancelled,RF,2,22,864,0.8461459275435849
+benchmark,bpic2012_cancelled,RF,2,23,830,0.8526691665107653
+benchmark,bpic2012_cancelled,RF,2,24,814,0.8623146966964325
+benchmark,bpic2012_cancelled,RF,2,25,770,0.8641009870251589
+benchmark,bpic2012_cancelled,RF,2,26,752,0.8700511421042216
+benchmark,bpic2012_cancelled,RF,2,27,706,0.8664748201438848
+benchmark,bpic2012_cancelled,RF,2,28,686,0.8771717543698131
+benchmark,bpic2012_cancelled,RF,2,29,642,0.8792518785198905
+benchmark,bpic2012_cancelled,RF,2,30,618,0.8925284471218207
+benchmark,bpic2012_cancelled,RF,2,31,582,0.8925612140396612
+benchmark,bpic2012_cancelled,RF,2,32,547,0.8824018192950231
+benchmark,bpic2012_cancelled,RF,2,33,509,0.8798513201743142
+benchmark,bpic2012_cancelled,RF,2,34,483,0.8805965892887697
+benchmark,bpic2012_cancelled,RF,2,35,452,0.8681418219461698
+benchmark,bpic2012_cancelled,RF,2,36,424,0.8512349459073281
+benchmark,bpic2012_cancelled,RF,2,37,399,0.8538482287358389
+benchmark,bpic2012_cancelled,RF,2,38,382,0.8494054841057995
+benchmark,bpic2012_cancelled,RF,2,39,353,0.8402513547791999
+benchmark,bpic2012_cancelled,RF,2,40,337,0.8382010146716029
+benchmark,bpic2012_cancelled,RF,3,1,937,0.5312861247811871
+benchmark,bpic2012_cancelled,RF,3,2,937,0.5292080897490945
+benchmark,bpic2012_cancelled,RF,3,3,937,0.5311292400171748
+benchmark,bpic2012_cancelled,RF,3,4,937,0.5268355517389437
+benchmark,bpic2012_cancelled,RF,3,5,937,0.5430579868106704
+benchmark,bpic2012_cancelled,RF,3,6,937,0.5474287412887671
+benchmark,bpic2012_cancelled,RF,3,7,937,0.5483150025872224
+benchmark,bpic2012_cancelled,RF,3,8,937,0.5471480001321135
+benchmark,bpic2012_cancelled,RF,3,9,937,0.5470599244751242
+benchmark,bpic2012_cancelled,RF,3,10,937,0.5433607468815713
+benchmark,bpic2012_cancelled,RF,3,11,937,0.5502801906837973
+benchmark,bpic2012_cancelled,RF,3,12,937,0.5591207847541038
+benchmark,bpic2012_cancelled,RF,3,13,937,0.5913069326551508
+benchmark,bpic2012_cancelled,RF,3,14,937,0.6099954861225793
+benchmark,bpic2012_cancelled,RF,3,15,937,0.658563706223646
+benchmark,bpic2012_cancelled,RF,3,16,937,0.6899846968545981
+benchmark,bpic2012_cancelled,RF,3,17,916,0.7234935889811357
+benchmark,bpic2012_cancelled,RF,3,18,915,0.7493402433636244
+benchmark,bpic2012_cancelled,RF,3,19,897,0.7694235749634606
+benchmark,bpic2012_cancelled,RF,3,20,895,0.7979944916404826
+benchmark,bpic2012_cancelled,RF,3,21,872,0.8210612013734027
+benchmark,bpic2012_cancelled,RF,3,22,864,0.8424914889080068
+benchmark,bpic2012_cancelled,RF,3,23,830,0.8476016951220504
+benchmark,bpic2012_cancelled,RF,3,24,814,0.8512646813003123
+benchmark,bpic2012_cancelled,RF,3,25,770,0.853117769381718
+benchmark,bpic2012_cancelled,RF,3,26,752,0.8656764610913787
+benchmark,bpic2012_cancelled,RF,3,27,706,0.8665467625899281
+benchmark,bpic2012_cancelled,RF,3,28,686,0.8775794720713375
+benchmark,bpic2012_cancelled,RF,3,29,642,0.8758757712015058
+benchmark,bpic2012_cancelled,RF,3,30,618,0.891566265060241
+benchmark,bpic2012_cancelled,RF,3,31,582,0.8908295317009589
+benchmark,bpic2012_cancelled,RF,3,32,547,0.8827516837225575
+benchmark,bpic2012_cancelled,RF,3,33,509,0.8831581645731863
+benchmark,bpic2012_cancelled,RF,3,34,483,0.8786859065761706
+benchmark,bpic2012_cancelled,RF,3,35,452,0.8647289078674948
+benchmark,bpic2012_cancelled,RF,3,36,424,0.8372320881812614
+benchmark,bpic2012_cancelled,RF,3,37,399,0.8374393094767127
+benchmark,bpic2012_cancelled,RF,3,38,382,0.8429507401116234
+benchmark,bpic2012_cancelled,RF,3,39,353,0.8344286867289289
+benchmark,bpic2012_cancelled,RF,3,40,337,0.8225010283833813
+benchmark,bpic2012_cancelled,RF,4,1,937,0.5390835727890257
+benchmark,bpic2012_cancelled,RF,4,2,937,0.5392872477458135
+benchmark,bpic2012_cancelled,RF,4,3,937,0.5319934824013828
+benchmark,bpic2012_cancelled,RF,4,4,937,0.5216776210765047
+benchmark,bpic2012_cancelled,RF,4,5,937,0.5509958053968359
+benchmark,bpic2012_cancelled,RF,4,6,937,0.548094813444749
+benchmark,bpic2012_cancelled,RF,4,7,937,0.5482764694872896
+benchmark,bpic2012_cancelled,RF,4,8,937,0.5430084442536138
+benchmark,bpic2012_cancelled,RF,4,9,937,0.5381807973048849
+benchmark,bpic2012_cancelled,RF,4,10,937,0.5408038004645991
+benchmark,bpic2012_cancelled,RF,4,11,937,0.5321311006154287
+benchmark,bpic2012_cancelled,RF,4,12,937,0.5364192841650978
+benchmark,bpic2012_cancelled,RF,4,13,937,0.586407724235118
+benchmark,bpic2012_cancelled,RF,4,14,937,0.6078486419834638
+benchmark,bpic2012_cancelled,RF,4,15,937,0.674444848124539
+benchmark,bpic2012_cancelled,RF,4,16,937,0.7107044951613436
+benchmark,bpic2012_cancelled,RF,4,17,916,0.7459975735661442
+benchmark,bpic2012_cancelled,RF,4,18,915,0.7753842112176541
+benchmark,bpic2012_cancelled,RF,4,19,897,0.7868278673812149
+benchmark,bpic2012_cancelled,RF,4,20,895,0.8113904082134037
+benchmark,bpic2012_cancelled,RF,4,21,872,0.8316448975257513
+benchmark,bpic2012_cancelled,RF,4,22,864,0.8489400657357775
+benchmark,bpic2012_cancelled,RF,4,23,830,0.8524658169365793
+benchmark,bpic2012_cancelled,RF,4,24,814,0.8586196278537809
+benchmark,bpic2012_cancelled,RF,4,25,770,0.8555096701129563
+benchmark,bpic2012_cancelled,RF,4,26,752,0.8672596789817411
+benchmark,bpic2012_cancelled,RF,4,27,706,0.8678776978417266
+benchmark,bpic2012_cancelled,RF,4,28,686,0.8759617534491602
+benchmark,bpic2012_cancelled,RF,4,29,642,0.8769662837423999
+benchmark,bpic2012_cancelled,RF,4,30,618,0.8881358768406961
+benchmark,bpic2012_cancelled,RF,4,31,582,0.8874220277441579
+benchmark,bpic2012_cancelled,RF,4,32,547,0.8789687745998426
+benchmark,bpic2012_cancelled,RF,4,33,509,0.8807485260189695
+benchmark,bpic2012_cancelled,RF,4,34,483,0.8797980950208178
+benchmark,bpic2012_cancelled,RF,4,35,452,0.8783643892339544
+benchmark,bpic2012_cancelled,RF,4,36,424,0.8635639926515616
+benchmark,bpic2012_cancelled,RF,4,37,399,0.8676047473475994
+benchmark,bpic2012_cancelled,RF,4,38,382,0.8700800776510556
+benchmark,bpic2012_cancelled,RF,4,39,353,0.8636573273377147
+benchmark,bpic2012_cancelled,RF,4,40,337,0.8532839709310298
+benchmark,bpic2012_cancelled,XGB,0,1,937,0.49087316004447823
+benchmark,bpic2012_cancelled,XGB,0,2,937,0.49087316004447823
+benchmark,bpic2012_cancelled,XGB,0,3,937,0.49087316004447823
+benchmark,bpic2012_cancelled,XGB,0,4,937,0.4879886822780768
+benchmark,bpic2012_cancelled,XGB,0,5,937,0.5452571258711233
+benchmark,bpic2012_cancelled,XGB,0,6,937,0.5524407966443174
+benchmark,bpic2012_cancelled,XGB,0,7,937,0.5261392035758716
+benchmark,bpic2012_cancelled,XGB,0,8,937,0.5295796589270183
+benchmark,bpic2012_cancelled,XGB,0,9,937,0.5138581541544186
+benchmark,bpic2012_cancelled,XGB,0,10,937,0.5201060210721009
+benchmark,bpic2012_cancelled,XGB,0,11,937,0.5148682718455153
+benchmark,bpic2012_cancelled,XGB,0,12,937,0.5110645044092875
+benchmark,bpic2012_cancelled,XGB,0,13,937,0.5400441479230659
+benchmark,bpic2012_cancelled,XGB,0,14,937,0.5704715350486067
+benchmark,bpic2012_cancelled,XGB,0,15,937,0.6352566854928383
+benchmark,bpic2012_cancelled,XGB,0,16,937,0.6785513756316677
+benchmark,bpic2012_cancelled,XGB,0,17,916,0.7092263957941813
+benchmark,bpic2012_cancelled,XGB,0,18,915,0.7396707784531245
+benchmark,bpic2012_cancelled,XGB,0,19,897,0.7554712941357471
+benchmark,bpic2012_cancelled,XGB,0,20,895,0.7881350453211271
+benchmark,bpic2012_cancelled,XGB,0,21,872,0.8092102934409401
+benchmark,bpic2012_cancelled,XGB,0,22,864,0.8226236957624689
+benchmark,bpic2012_cancelled,XGB,0,23,830,0.8224026158889224
+benchmark,bpic2012_cancelled,XGB,0,24,814,0.8288259358641622
+benchmark,bpic2012_cancelled,XGB,0,25,770,0.8363939899833055
+benchmark,bpic2012_cancelled,XGB,0,26,752,0.8414594769131418
+benchmark,bpic2012_cancelled,XGB,0,27,706,0.8341486810551559
+benchmark,bpic2012_cancelled,XGB,0,28,686,0.849999342390804
+benchmark,bpic2012_cancelled,XGB,0,29,642,0.8401502815912519
+benchmark,bpic2012_cancelled,XGB,0,30,618,0.8534303882195449
+benchmark,bpic2012_cancelled,XGB,0,31,582,0.8521832231635788
+benchmark,bpic2012_cancelled,XGB,0,32,547,0.8419596781247267
+benchmark,bpic2012_cancelled,XGB,0,33,509,0.8478338887464754
+benchmark,bpic2012_cancelled,XGB,0,34,483,0.8455769121085952
+benchmark,bpic2012_cancelled,XGB,0,35,452,0.8356301759834368
+benchmark,bpic2012_cancelled,XGB,0,36,424,0.8241273729332518
+benchmark,bpic2012_cancelled,XGB,0,37,399,0.8304486603128933
+benchmark,bpic2012_cancelled,XGB,0,38,382,0.8314244115505945
+benchmark,bpic2012_cancelled,XGB,0,39,353,0.8206791191052693
+benchmark,bpic2012_cancelled,XGB,0,40,337,0.808446455505279
+benchmark,bpic2012_cancelled,XGB,1,1,937,0.5417616232343583
+benchmark,bpic2012_cancelled,XGB,1,2,937,0.5417616232343583
+benchmark,bpic2012_cancelled,XGB,1,3,937,0.5417616232343583
+benchmark,bpic2012_cancelled,XGB,1,4,937,0.5438947055520692
+benchmark,bpic2012_cancelled,XGB,1,5,937,0.5720761634243815
+benchmark,bpic2012_cancelled,XGB,1,6,937,0.5692880184078123
+benchmark,bpic2012_cancelled,XGB,1,7,937,0.561278638350343
+benchmark,bpic2012_cancelled,XGB,1,8,937,0.5566243903513117
+benchmark,bpic2012_cancelled,XGB,1,9,937,0.5533876099569531
+benchmark,bpic2012_cancelled,XGB,1,10,937,0.5578546971848819
+benchmark,bpic2012_cancelled,XGB,1,11,937,0.5524628155585648
+benchmark,bpic2012_cancelled,XGB,1,12,937,0.5567950369367287
+benchmark,bpic2012_cancelled,XGB,1,13,937,0.5834654468188174
+benchmark,bpic2012_cancelled,XGB,1,14,937,0.5939492023648313
+benchmark,bpic2012_cancelled,XGB,1,15,937,0.6623096740099745
+benchmark,bpic2012_cancelled,XGB,1,16,937,0.6928086226068193
+benchmark,bpic2012_cancelled,XGB,1,17,916,0.7096218807241239
+benchmark,bpic2012_cancelled,XGB,1,18,915,0.7273652723212687
+benchmark,bpic2012_cancelled,XGB,1,19,897,0.7525962204159082
+benchmark,bpic2012_cancelled,XGB,1,20,895,0.793640172233213
+benchmark,bpic2012_cancelled,XGB,1,21,872,0.8100952178683941
+benchmark,bpic2012_cancelled,XGB,1,22,864,0.8221531040669418
+benchmark,bpic2012_cancelled,XGB,1,23,830,0.8234071627854012
+benchmark,bpic2012_cancelled,XGB,1,24,814,0.8346896582061321
+benchmark,bpic2012_cancelled,XGB,1,25,770,0.8374679045973308
+benchmark,bpic2012_cancelled,XGB,1,26,752,0.8458706136010916
+benchmark,bpic2012_cancelled,XGB,1,27,706,0.8410251798561151
+benchmark,bpic2012_cancelled,XGB,1,28,686,0.85338602975024
+benchmark,bpic2012_cancelled,XGB,1,29,642,0.8572399575745805
+benchmark,bpic2012_cancelled,XGB,1,30,618,0.8688169344042838
+benchmark,bpic2012_cancelled,XGB,1,31,582,0.8706358812028675
+benchmark,bpic2012_cancelled,XGB,1,32,547,0.8592998338143969
+benchmark,bpic2012_cancelled,XGB,1,33,509,0.8596770058959242
+benchmark,bpic2012_cancelled,XGB,1,34,483,0.8525494781269606
+benchmark,bpic2012_cancelled,XGB,1,35,452,0.8392048395445134
+benchmark,bpic2012_cancelled,XGB,1,36,424,0.8311900387834252
+benchmark,bpic2012_cancelled,XGB,1,37,399,0.8292798057903255
+benchmark,bpic2012_cancelled,XGB,1,38,382,0.8282941033729677
+benchmark,bpic2012_cancelled,XGB,1,39,353,0.8138763980168339
+benchmark,bpic2012_cancelled,XGB,1,40,337,0.8127656657068422
+benchmark,bpic2012_cancelled,XGB,2,1,937,0.5342366592903303
+benchmark,bpic2012_cancelled,XGB,2,2,937,0.5342366592903303
+benchmark,bpic2012_cancelled,XGB,2,3,937,0.5337852715482598
+benchmark,bpic2012_cancelled,XGB,2,4,937,0.5218482676619215
+benchmark,bpic2012_cancelled,XGB,2,5,937,0.536210104479748
+benchmark,bpic2012_cancelled,XGB,2,6,937,0.5583033325626714
+benchmark,bpic2012_cancelled,XGB,2,7,937,0.5398817584304918
+benchmark,bpic2012_cancelled,XGB,2,8,937,0.5436937829595623
+benchmark,bpic2012_cancelled,XGB,2,9,937,0.5273805198665653
+benchmark,bpic2012_cancelled,XGB,2,10,937,0.5316907223304819
+benchmark,bpic2012_cancelled,XGB,2,11,937,0.5269208750316522
+benchmark,bpic2012_cancelled,XGB,2,12,937,0.5349880547390209
+benchmark,bpic2012_cancelled,XGB,2,13,937,0.5677054089462849
+benchmark,bpic2012_cancelled,XGB,2,14,937,0.5814479638009049
+benchmark,bpic2012_cancelled,XGB,2,15,937,0.6565627373914192
+benchmark,bpic2012_cancelled,XGB,2,16,937,0.6828560733670223
+benchmark,bpic2012_cancelled,XGB,2,17,916,0.7231575754692295
+benchmark,bpic2012_cancelled,XGB,2,18,915,0.7430382240903717
+benchmark,bpic2012_cancelled,XGB,2,19,897,0.767320956947614
+benchmark,bpic2012_cancelled,XGB,2,20,895,0.7983888694932567
+benchmark,bpic2012_cancelled,XGB,2,21,872,0.817560440338395
+benchmark,bpic2012_cancelled,XGB,2,22,864,0.8308369914484667
+benchmark,bpic2012_cancelled,XGB,2,23,830,0.8305894697456504
+benchmark,bpic2012_cancelled,XGB,2,24,814,0.8445871640346633
+benchmark,bpic2012_cancelled,XGB,2,25,770,0.8472698161653438
+benchmark,bpic2012_cancelled,XGB,2,26,752,0.8559219640234568
+benchmark,bpic2012_cancelled,XGB,2,27,706,0.8474820143884892
+benchmark,bpic2012_cancelled,XGB,2,28,686,0.8639801138979127
+benchmark,bpic2012_cancelled,XGB,2,29,642,0.8622070181204344
+benchmark,bpic2012_cancelled,XGB,2,30,618,0.8712851405622489
+benchmark,bpic2012_cancelled,XGB,2,31,582,0.8681035285355182
+benchmark,bpic2012_cancelled,XGB,2,32,547,0.8573646461995976
+benchmark,bpic2012_cancelled,XGB,2,33,509,0.8543194052806972
+benchmark,bpic2012_cancelled,XGB,2,34,483,0.8492271716192322
+benchmark,bpic2012_cancelled,XGB,2,35,452,0.8342391304347826
+benchmark,bpic2012_cancelled,XGB,2,36,424,0.8267809757093285
+benchmark,bpic2012_cancelled,XGB,2,37,399,0.8323143319546844
+benchmark,bpic2012_cancelled,XGB,2,38,382,0.8334384858044164
+benchmark,bpic2012_cancelled,XGB,2,39,353,0.826386486798109
+benchmark,bpic2012_cancelled,XGB,2,40,337,0.814548196901138
+benchmark,bpic2012_cancelled,XGB,3,1,937,0.5033771509726856
+benchmark,bpic2012_cancelled,XGB,3,2,937,0.5033771509726856
+benchmark,bpic2012_cancelled,XGB,3,3,937,0.5060496966894563
+benchmark,bpic2012_cancelled,XGB,3,4,937,0.49934768966542264
+benchmark,bpic2012_cancelled,XGB,3,5,937,0.4937108476181039
+benchmark,bpic2012_cancelled,XGB,3,6,937,0.4979880217106495
+benchmark,bpic2012_cancelled,XGB,3,7,937,0.49716231242637426
+benchmark,bpic2012_cancelled,XGB,3,8,937,0.5058129933612974
+benchmark,bpic2012_cancelled,XGB,3,9,937,0.4972311215333972
+benchmark,bpic2012_cancelled,XGB,3,10,937,0.5084139776067642
+benchmark,bpic2012_cancelled,XGB,3,11,937,0.5099250255969878
+benchmark,bpic2012_cancelled,XGB,3,12,937,0.5053698627120697
+benchmark,bpic2012_cancelled,XGB,3,13,937,0.5396588169237375
+benchmark,bpic2012_cancelled,XGB,3,14,937,0.5595006110248704
+benchmark,bpic2012_cancelled,XGB,3,15,937,0.6435137783355902
+benchmark,bpic2012_cancelled,XGB,3,16,937,0.6854377910625228
+benchmark,bpic2012_cancelled,XGB,3,17,916,0.7194852154054762
+benchmark,bpic2012_cancelled,XGB,3,18,915,0.7423187609710662
+benchmark,bpic2012_cancelled,XGB,3,19,897,0.7624266006820688
+benchmark,bpic2012_cancelled,XGB,3,20,895,0.793640172233213
+benchmark,bpic2012_cancelled,XGB,3,21,872,0.8133729779476833
+benchmark,bpic2012_cancelled,XGB,3,22,864,0.8234362017367775
+benchmark,bpic2012_cancelled,XGB,3,23,830,0.8228459179606478
+benchmark,bpic2012_cancelled,XGB,3,24,814,0.8343113535389082
+benchmark,bpic2012_cancelled,XGB,3,25,770,0.8332894004627596
+benchmark,bpic2012_cancelled,XGB,3,26,752,0.8379441082421073
+benchmark,bpic2012_cancelled,XGB,3,27,706,0.8361390887290168
+benchmark,bpic2012_cancelled,XGB,3,28,686,0.8515249957255402
+benchmark,bpic2012_cancelled,XGB,3,29,642,0.8491133983657251
+benchmark,bpic2012_cancelled,XGB,3,30,618,0.8595967202141902
+benchmark,bpic2012_cancelled,XGB,3,31,582,0.8485429662042641
+benchmark,bpic2012_cancelled,XGB,3,32,547,0.8427796728767603
+benchmark,bpic2012_cancelled,XGB,3,33,509,0.8460779287362215
+benchmark,bpic2012_cancelled,XGB,3,34,483,0.8392032167911938
+benchmark,bpic2012_cancelled,XGB,3,35,452,0.8254399585921325
+benchmark,bpic2012_cancelled,XGB,3,36,424,0.8176362522963869
+benchmark,bpic2012_cancelled,XGB,3,37,399,0.824874123359108
+benchmark,bpic2012_cancelled,XGB,3,38,382,0.821572433875273
+benchmark,bpic2012_cancelled,XGB,3,39,353,0.8217744725008648
+benchmark,bpic2012_cancelled,XGB,3,40,337,0.810914575620458
+benchmark,bpic2012_cancelled,XGB,4,1,937,0.5
+benchmark,bpic2012_cancelled,XGB,4,2,937,0.5
+benchmark,bpic2012_cancelled,XGB,4,3,937,0.5002449604210016
+benchmark,bpic2012_cancelled,XGB,4,4,937,0.4843060188702095
+benchmark,bpic2012_cancelled,XGB,4,5,937,0.4924750360559721
+benchmark,bpic2012_cancelled,XGB,4,6,937,0.5123195825213859
+benchmark,bpic2012_cancelled,XGB,4,7,937,0.4953760280080589
+benchmark,bpic2012_cancelled,XGB,4,8,937,0.4900667173101695
+benchmark,bpic2012_cancelled,XGB,4,9,937,0.49266219682707446
+benchmark,bpic2012_cancelled,XGB,4,10,937,0.49885776882341937
+benchmark,bpic2012_cancelled,XGB,4,11,937,0.5036964252292719
+benchmark,bpic2012_cancelled,XGB,4,12,937,0.49975228721471743
+benchmark,bpic2012_cancelled,XGB,4,13,937,0.5341320694476555
+benchmark,bpic2012_cancelled,XGB,4,14,937,0.5598556660171088
+benchmark,bpic2012_cancelled,XGB,4,15,937,0.6448046371833405
+benchmark,bpic2012_cancelled,XGB,4,16,937,0.6781522828109345
+benchmark,bpic2012_cancelled,XGB,4,17,916,0.7173918214905916
+benchmark,bpic2012_cancelled,XGB,4,18,915,0.741041042236366
+benchmark,bpic2012_cancelled,XGB,4,19,897,0.7610451550039745
+benchmark,bpic2012_cancelled,XGB,4,20,895,0.7875887350168742
+benchmark,bpic2012_cancelled,XGB,4,21,872,0.8098580581218364
+benchmark,bpic2012_cancelled,XGB,4,22,864,0.8312965536511296
+benchmark,bpic2012_cancelled,XGB,4,23,830,0.8329361238317567
+benchmark,bpic2012_cancelled,XGB,4,24,814,0.8447367263449611
+benchmark,bpic2012_cancelled,XGB,4,25,770,0.8483730193597516
+benchmark,bpic2012_cancelled,XGB,4,26,752,0.854661639255471
+benchmark,bpic2012_cancelled,XGB,4,27,706,0.8512410071942446
+benchmark,bpic2012_cancelled,XGB,4,28,686,0.867011692291505
+benchmark,bpic2012_cancelled,XGB,4,29,642,0.865590594702798
+benchmark,bpic2012_cancelled,XGB,4,30,618,0.8719042838018742
+benchmark,bpic2012_cancelled,XGB,4,31,582,0.8737827017968531
+benchmark,bpic2012_cancelled,XGB,4,32,547,0.8700362984343567
+benchmark,bpic2012_cancelled,XGB,4,33,509,0.8708279928223533
+benchmark,bpic2012_cancelled,XGB,4,34,483,0.8668225631666
+benchmark,bpic2012_cancelled,XGB,4,35,452,0.8575310559006212
+benchmark,bpic2012_cancelled,XGB,4,36,424,0.8467034088589508
+benchmark,bpic2012_cancelled,XGB,4,37,399,0.8509710483725949
+benchmark,bpic2012_cancelled,XGB,4,38,382,0.8455714632370783
+benchmark,bpic2012_cancelled,XGB,4,39,353,0.831834428686729
+benchmark,bpic2012_cancelled,XGB,4,40,337,0.8222953517071164
+benchmark,bpic2012_cancelled,LGBM,0,1,937,0.518608734903282
+benchmark,bpic2012_cancelled,LGBM,0,2,937,0.518608734903282
+benchmark,bpic2012_cancelled,LGBM,0,3,937,0.520604199006947
+benchmark,bpic2012_cancelled,LGBM,0,4,937,0.5078607523862999
+benchmark,bpic2012_cancelled,LGBM,0,5,937,0.5298796666336383
+benchmark,bpic2012_cancelled,LGBM,0,6,937,0.5325907454503418
+benchmark,bpic2012_cancelled,LGBM,0,7,937,0.5225446158249937
+benchmark,bpic2012_cancelled,LGBM,0,8,937,0.5279392498155916
+benchmark,bpic2012_cancelled,LGBM,0,9,937,0.5168609835848994
+benchmark,bpic2012_cancelled,LGBM,0,10,937,0.5220574473472713
+benchmark,bpic2012_cancelled,LGBM,0,11,937,0.5219941429688102
+benchmark,bpic2012_cancelled,LGBM,0,12,937,0.5216831258050665
+benchmark,bpic2012_cancelled,LGBM,0,13,937,0.5454085059065737
+benchmark,bpic2012_cancelled,LGBM,0,14,937,0.569698120685669
+benchmark,bpic2012_cancelled,LGBM,0,15,937,0.6316758595633649
+benchmark,bpic2012_cancelled,LGBM,0,16,937,0.6669308936376348
+benchmark,bpic2012_cancelled,LGBM,0,17,916,0.7179240906820183
+benchmark,bpic2012_cancelled,LGBM,0,18,915,0.7372526658944629
+benchmark,bpic2012_cancelled,LGBM,0,19,897,0.7576251955178338
+benchmark,bpic2012_cancelled,LGBM,0,20,895,0.7943028563300878
+benchmark,bpic2012_cancelled,LGBM,0,21,872,0.8199320378039715
+benchmark,bpic2012_cancelled,LGBM,0,22,864,0.8342193692600681
+benchmark,bpic2012_cancelled,LGBM,0,23,830,0.8356976110492025
+benchmark,bpic2012_cancelled,LGBM,0,24,814,0.8406589539436061
+benchmark,bpic2012_cancelled,LGBM,0,25,770,0.8385711077917388
+benchmark,bpic2012_cancelled,LGBM,0,26,752,0.8545054006478694
+benchmark,bpic2012_cancelled,LGBM,0,27,706,0.8577398081534772
+benchmark,bpic2012_cancelled,LGBM,0,28,686,0.8700498467770573
+benchmark,bpic2012_cancelled,LGBM,0,29,642,0.8647615064011593
+benchmark,bpic2012_cancelled,LGBM,0,30,618,0.8714357429718876
+benchmark,bpic2012_cancelled,LGBM,0,31,582,0.8681966297365236
+benchmark,bpic2012_cancelled,LGBM,0,32,547,0.8566102510277267
+benchmark,bpic2012_cancelled,LGBM,0,33,509,0.856549602665983
+benchmark,bpic2012_cancelled,LGBM,0,34,483,0.855843266982262
+benchmark,bpic2012_cancelled,LGBM,0,35,452,0.8469202898550725
+benchmark,bpic2012_cancelled,LGBM,0,36,424,0.8144519289650949
+benchmark,bpic2012_cancelled,LGBM,0,37,399,0.82401996043877
+benchmark,bpic2012_cancelled,LGBM,0,38,382,0.833487017714147
+benchmark,bpic2012_cancelled,LGBM,0,39,353,0.8134440216764671
+benchmark,bpic2012_cancelled,LGBM,0,40,337,0.7886329356917592
+benchmark,bpic2012_cancelled,LGBM,1,1,937,0.5459287027556671
+benchmark,bpic2012_cancelled,LGBM,1,2,937,0.5459287027556671
+benchmark,bpic2012_cancelled,LGBM,1,3,937,0.5452296022283141
+benchmark,bpic2012_cancelled,LGBM,1,4,937,0.5462644911979391
+benchmark,bpic2012_cancelled,LGBM,1,5,937,0.5485572106439431
+benchmark,bpic2012_cancelled,LGBM,1,6,937,0.551626096817166
+benchmark,bpic2012_cancelled,LGBM,1,7,937,0.5337384813554844
+benchmark,bpic2012_cancelled,LGBM,1,8,937,0.5264061829111206
+benchmark,bpic2012_cancelled,LGBM,1,9,937,0.5239152932368905
+benchmark,bpic2012_cancelled,LGBM,1,10,937,0.5265575629465711
+benchmark,bpic2012_cancelled,LGBM,1,11,937,0.5238382270370248
+benchmark,bpic2012_cancelled,LGBM,1,12,937,0.5186913058317093
+benchmark,bpic2012_cancelled,LGBM,1,13,937,0.5268080280961346
+benchmark,bpic2012_cancelled,LGBM,1,14,937,0.5660429809206108
+benchmark,bpic2012_cancelled,LGBM,1,15,937,0.6169589677533001
+benchmark,bpic2012_cancelled,LGBM,1,16,937,0.6578866246105404
+benchmark,bpic2012_cancelled,LGBM,1,17,916,0.6969336536860387
+benchmark,bpic2012_cancelled,LGBM,1,18,915,0.7258636542755812
+benchmark,bpic2012_cancelled,LGBM,1,19,897,0.748429446908895
+benchmark,bpic2012_cancelled,LGBM,1,20,895,0.7896996263108216
+benchmark,bpic2012_cancelled,LGBM,1,21,872,0.8160666879048529
+benchmark,bpic2012_cancelled,LGBM,1,22,864,0.8267266671078464
+benchmark,bpic2012_cancelled,LGBM,1,23,830,0.8325497596408034
+benchmark,bpic2012_cancelled,LGBM,1,24,814,0.8401442836405226
+benchmark,bpic2012_cancelled,LGBM,1,25,770,0.837780316121411
+benchmark,bpic2012_cancelled,LGBM,1,26,752,0.8509067047194475
+benchmark,bpic2012_cancelled,LGBM,1,27,706,0.8508033573141488
+benchmark,bpic2012_cancelled,LGBM,1,28,686,0.8704838688464219
+benchmark,bpic2012_cancelled,LGBM,1,29,642,0.866442090796373
+benchmark,bpic2012_cancelled,LGBM,1,30,618,0.8703229585006694
+benchmark,bpic2012_cancelled,LGBM,1,31,582,0.8745275114048972
+benchmark,bpic2012_cancelled,LGBM,1,32,547,0.8609944896352665
+benchmark,bpic2012_cancelled,LGBM,1,33,509,0.8616508587541656
+benchmark,bpic2012_cancelled,LGBM,1,34,483,0.8611760679860834
+benchmark,bpic2012_cancelled,LGBM,1,35,452,0.840045936853002
+benchmark,bpic2012_cancelled,LGBM,1,36,424,0.8210451112471933
+benchmark,bpic2012_cancelled,LGBM,1,37,399,0.8311904333752923
+benchmark,bpic2012_cancelled,LGBM,1,38,382,0.840305751031303
+benchmark,bpic2012_cancelled,LGBM,1,39,353,0.818257811599216
+benchmark,bpic2012_cancelled,LGBM,1,40,337,0.7950431921020156
+benchmark,bpic2012_cancelled,LGBM,2,1,937,0.5299429710120993
+benchmark,bpic2012_cancelled,LGBM,2,2,937,0.5299429710120993
+benchmark,bpic2012_cancelled,LGBM,2,3,937,0.5309585934317578
+benchmark,bpic2012_cancelled,LGBM,2,4,937,0.5170316301703163
+benchmark,bpic2012_cancelled,LGBM,2,5,937,0.508719490041946
+benchmark,bpic2012_cancelled,LGBM,2,6,937,0.5332045226849864
+benchmark,bpic2012_cancelled,LGBM,2,7,937,0.5253575321200912
+benchmark,bpic2012_cancelled,LGBM,2,8,937,0.5190298466382622
+benchmark,bpic2012_cancelled,LGBM,2,9,937,0.5139269632614416
+benchmark,bpic2012_cancelled,LGBM,2,10,937,0.5143040371679273
+benchmark,bpic2012_cancelled,LGBM,2,11,937,0.5198335370082902
+benchmark,bpic2012_cancelled,LGBM,2,12,937,0.5163242725501206
+benchmark,bpic2012_cancelled,LGBM,2,13,937,0.546660831654391
+benchmark,bpic2012_cancelled,LGBM,2,14,937,0.5658695819709129
+benchmark,bpic2012_cancelled,LGBM,2,15,937,0.6438027765850864
+benchmark,bpic2012_cancelled,LGBM,2,16,937,0.6737705188757142
+benchmark,bpic2012_cancelled,LGBM,2,17,916,0.72511418512263
+benchmark,bpic2012_cancelled,LGBM,2,18,915,0.7420978469842255
+benchmark,bpic2012_cancelled,LGBM,2,19,897,0.7604105233467525
+benchmark,bpic2012_cancelled,LGBM,2,20,895,0.7968533819517177
+benchmark,bpic2012_cancelled,LGBM,2,21,872,0.8223850483168739
+benchmark,bpic2012_cancelled,LGBM,2,22,864,0.8346495194817609
+benchmark,bpic2012_cancelled,LGBM,2,23,830,0.8380930690331134
+benchmark,bpic2012_cancelled,LGBM,2,24,814,0.8515242158975938
+benchmark,bpic2012_cancelled,LGBM,2,25,770,0.8528395278680843
+benchmark,bpic2012_cancelled,LGBM,2,26,752,0.8664680700365599
+benchmark,bpic2012_cancelled,LGBM,2,27,706,0.8609352517985612
+benchmark,bpic2012_cancelled,LGBM,2,28,686,0.8796049083950391
+benchmark,bpic2012_cancelled,LGBM,2,29,642,0.8747479123407179
+benchmark,bpic2012_cancelled,LGBM,2,30,618,0.8826221552878178
+benchmark,bpic2012_cancelled,LGBM,2,31,582,0.8737175309561492
+benchmark,bpic2012_cancelled,LGBM,2,32,547,0.8704408291786933
+benchmark,bpic2012_cancelled,LGBM,2,33,509,0.8674442450653679
+benchmark,bpic2012_cancelled,LGBM,2,34,483,0.8719272229510067
+benchmark,bpic2012_cancelled,LGBM,2,35,452,0.8575310559006211
+benchmark,bpic2012_cancelled,LGBM,2,36,424,0.8390079608083282
+benchmark,bpic2012_cancelled,LGBM,2,37,399,0.8432161481747887
+benchmark,bpic2012_cancelled,LGBM,2,38,382,0.8449890803203105
+benchmark,bpic2012_cancelled,LGBM,2,39,353,0.834774587801222
+benchmark,bpic2012_cancelled,LGBM,2,40,337,0.817941862059509
+benchmark,bpic2012_cancelled,LGBM,3,1,937,0.5393340379385893
+benchmark,bpic2012_cancelled,LGBM,3,2,937,0.5393340379385893
+benchmark,bpic2012_cancelled,LGBM,3,3,937,0.5399340533518292
+benchmark,bpic2012_cancelled,LGBM,3,4,937,0.5279420021798725
+benchmark,bpic2012_cancelled,LGBM,3,5,937,0.5274163006022173
+benchmark,bpic2012_cancelled,LGBM,3,6,937,0.5342586782045777
+benchmark,bpic2012_cancelled,LGBM,3,7,937,0.5175710935693761
+benchmark,bpic2012_cancelled,LGBM,3,8,937,0.5168774977705849
+benchmark,bpic2012_cancelled,LGBM,3,9,937,0.5143673415463883
+benchmark,bpic2012_cancelled,LGBM,3,10,937,0.5136434697405071
+benchmark,bpic2012_cancelled,LGBM,3,11,937,0.5217299159978421
+benchmark,bpic2012_cancelled,LGBM,3,12,937,0.5177830256190067
+benchmark,bpic2012_cancelled,LGBM,3,13,937,0.544335083837016
+benchmark,bpic2012_cancelled,LGBM,3,14,937,0.5676971518534422
+benchmark,bpic2012_cancelled,LGBM,3,15,937,0.6348135548436107
+benchmark,bpic2012_cancelled,LGBM,3,16,937,0.6705557573956029
+benchmark,bpic2012_cancelled,LGBM,3,17,916,0.7152924804339036
+benchmark,bpic2012_cancelled,LGBM,3,18,915,0.7337001301601327
+benchmark,bpic2012_cancelled,LGBM,3,19,897,0.7522180055898869
+benchmark,bpic2012_cancelled,LGBM,3,20,895,0.789580019912849
+benchmark,bpic2012_cancelled,LGBM,3,21,872,0.8178860925276981
+benchmark,bpic2012_cancelled,LGBM,3,22,864,0.8271126993580835
+benchmark,bpic2012_cancelled,LGBM,3,23,830,0.8318583710885709
+benchmark,bpic2012_cancelled,LGBM,3,24,814,0.8465094796111379
+benchmark,bpic2012_cancelled,LGBM,3,25,770,0.845126868367357
+benchmark,bpic2012_cancelled,LGBM,3,26,752,0.855895924255523
+benchmark,bpic2012_cancelled,LGBM,3,27,706,0.8520563549160671
+benchmark,bpic2012_cancelled,LGBM,3,28,686,0.8727789249404864
+benchmark,bpic2012_cancelled,LGBM,3,29,642,0.8671217938184373
+benchmark,bpic2012_cancelled,LGBM,3,30,618,0.8727660642570281
+benchmark,bpic2012_cancelled,LGBM,3,31,582,0.867051484964156
+benchmark,bpic2012_cancelled,LGBM,3,32,547,0.8630936762004724
+benchmark,bpic2012_cancelled,LGBM,3,33,509,0.8608946423993848
+benchmark,bpic2012_cancelled,LGBM,3,34,483,0.8587520675298009
+benchmark,bpic2012_cancelled,LGBM,3,35,452,0.8469041149068323
+benchmark,bpic2012_cancelled,LGBM,3,36,424,0.8247601551337007
+benchmark,bpic2012_cancelled,LGBM,3,37,399,0.8343373493975904
+benchmark,bpic2012_cancelled,LGBM,3,38,382,0.8346275175928173
+benchmark,bpic2012_cancelled,LGBM,3,39,353,0.8182866366885736
+benchmark,bpic2012_cancelled,LGBM,3,40,337,0.7966543260660907
+benchmark,bpic2012_cancelled,LGBM,4,1,937,0.5592088604110931
+benchmark,bpic2012_cancelled,LGBM,4,2,937,0.5592088604110931
+benchmark,bpic2012_cancelled,LGBM,4,3,937,0.5595529059462078
+benchmark,bpic2012_cancelled,LGBM,4,4,937,0.5515435258887385
+benchmark,bpic2012_cancelled,LGBM,4,5,937,0.5582317710913675
+benchmark,bpic2012_cancelled,LGBM,4,6,937,0.5605822901872709
+benchmark,bpic2012_cancelled,LGBM,4,7,937,0.5543922229194879
+benchmark,bpic2012_cancelled,LGBM,4,8,937,0.5466800982043576
+benchmark,bpic2012_cancelled,LGBM,4,9,937,0.5436167167596966
+benchmark,bpic2012_cancelled,LGBM,4,10,937,0.5425212757758915
+benchmark,bpic2012_cancelled,LGBM,4,11,937,0.5435561647455165
+benchmark,bpic2012_cancelled,LGBM,4,12,937,0.5454910768350013
+benchmark,bpic2012_cancelled,LGBM,4,13,937,0.5726899406590262
+benchmark,bpic2012_cancelled,LGBM,4,14,937,0.5862535918353866
+benchmark,bpic2012_cancelled,LGBM,4,15,937,0.6489111646904692
+benchmark,bpic2012_cancelled,LGBM,4,16,937,0.6801752705574088
+benchmark,bpic2012_cancelled,LGBM,4,17,916,0.7156284939458096
+benchmark,bpic2012_cancelled,LGBM,4,18,915,0.7367182928722401
+benchmark,bpic2012_cancelled,LGBM,4,19,897,0.755493730608477
+benchmark,bpic2012_cancelled,LGBM,4,20,895,0.7912545094844641
+benchmark,bpic2012_cancelled,LGBM,4,21,872,0.8171356766132174
+benchmark,bpic2012_cancelled,LGBM,4,22,864,0.8265318127339171
+benchmark,bpic2012_cancelled,LGBM,4,23,830,0.837287804719337
+benchmark,bpic2012_cancelled,LGBM,4,24,814,0.8508467866097743
+benchmark,bpic2012_cancelled,LGBM,4,25,770,0.8501010456023196
+benchmark,bpic2012_cancelled,LGBM,4,26,752,0.8654421031799765
+benchmark,bpic2012_cancelled,LGBM,4,27,706,0.8679016786570745
+benchmark,bpic2012_cancelled,LGBM,4,28,686,0.8785001249457473
+benchmark,bpic2012_cancelled,LGBM,4,29,642,0.8728805963460361
+benchmark,bpic2012_cancelled,LGBM,4,30,618,0.8782463186077643
+benchmark,bpic2012_cancelled,LGBM,4,31,582,0.8794339446978865
+benchmark,bpic2012_cancelled,LGBM,4,32,547,0.8723650835301321
+benchmark,bpic2012_cancelled,LGBM,4,33,509,0.871109971802102
+benchmark,bpic2012_cancelled,LGBM,4,34,483,0.8698454343238464
+benchmark,bpic2012_cancelled,LGBM,4,35,452,0.8533093944099379
+benchmark,bpic2012_cancelled,LGBM,4,36,424,0.8365993059808124
+benchmark,bpic2012_cancelled,LGBM,4,37,399,0.8462281963675596
+benchmark,bpic2012_cancelled,LGBM,4,38,382,0.8532395049745208
+benchmark,bpic2012_cancelled,LGBM,4,39,353,0.8324397555632422
+benchmark,bpic2012_cancelled,LGBM,4,40,337,0.814308240778829
+benchmark,bpic2012_cancelled,CatBoost,0,1,937,0.5394964274311634
+benchmark,bpic2012_cancelled,CatBoost,0,2,937,0.5394964274311634
+benchmark,bpic2012_cancelled,CatBoost,0,3,937,0.5413212449494116
+benchmark,bpic2012_cancelled,CatBoost,0,4,937,0.5407294866290143
+benchmark,bpic2012_cancelled,CatBoost,0,5,937,0.543669011681034
+benchmark,bpic2012_cancelled,CatBoost,0,6,937,0.5412606929352314
+benchmark,bpic2012_cancelled,CatBoost,0,7,937,0.5348339223392895
+benchmark,bpic2012_cancelled,CatBoost,0,8,937,0.5348119034250421
+benchmark,bpic2012_cancelled,CatBoost,0,9,937,0.5312145633098831
+benchmark,bpic2012_cancelled,CatBoost,0,10,937,0.5291310235492288
+benchmark,bpic2012_cancelled,CatBoost,0,11,937,0.5311017163743655
+benchmark,bpic2012_cancelled,CatBoost,0,12,937,0.5352880624456408
+benchmark,bpic2012_cancelled,CatBoost,0,13,937,0.5593987735464764
+benchmark,bpic2012_cancelled,CatBoost,0,14,937,0.5887389767810549
+benchmark,bpic2012_cancelled,CatBoost,0,15,937,0.6471964417434577
+benchmark,bpic2012_cancelled,CatBoost,0,16,937,0.6870589336239831
+benchmark,bpic2012_cancelled,CatBoost,0,17,916,0.719639841092371
+benchmark,bpic2012_cancelled,CatBoost,0,18,915,0.7411544845539328
+benchmark,bpic2012_cancelled,CatBoost,0,19,897,0.757045052437242
+benchmark,bpic2012_cancelled,CatBoost,0,20,895,0.788910870605273
+benchmark,bpic2012_cancelled,CatBoost,0,21,872,0.8049768149800007
+benchmark,bpic2012_cancelled,CatBoost,0,22,864,0.8231898763961499
+benchmark,bpic2012_cancelled,CatBoost,0,23,830,0.8271447279589396
+benchmark,bpic2012_cancelled,CatBoost,0,24,814,0.8379536356838078
+benchmark,bpic2012_cancelled,CatBoost,0,25,770,0.8390592507981137
+benchmark,bpic2012_cancelled,CatBoost,0,26,752,0.8509483683481412
+benchmark,bpic2012_cancelled,CatBoost,0,27,706,0.8468824940047963
+benchmark,bpic2012_cancelled,CatBoost,0,28,686,0.865979245853774
+benchmark,bpic2012_cancelled,CatBoost,0,29,642,0.8602500709580079
+benchmark,bpic2012_cancelled,CatBoost,0,30,618,0.8621151271753681
+benchmark,bpic2012_cancelled,CatBoost,0,31,582,0.8589144399962759
+benchmark,bpic2012_cancelled,CatBoost,0,32,547,0.8550249278404618
+benchmark,bpic2012_cancelled,CatBoost,0,33,509,0.8546782876185592
+benchmark,bpic2012_cancelled,CatBoost,0,34,483,0.8596931500598871
+benchmark,bpic2012_cancelled,CatBoost,0,35,452,0.8515786749482401
+benchmark,bpic2012_cancelled,CatBoost,0,36,424,0.8243723208818127
+benchmark,bpic2012_cancelled,CatBoost,0,37,399,0.8329437151591441
+benchmark,bpic2012_cancelled,CatBoost,0,38,382,0.8479980587236108
+benchmark,bpic2012_cancelled,CatBoost,0,39,353,0.8316038279718667
+benchmark,bpic2012_cancelled,CatBoost,0,40,337,0.82538050185109
+benchmark,bpic2012_cancelled,CatBoost,1,1,937,0.49204291486386803
+benchmark,bpic2012_cancelled,CatBoost,1,2,937,0.49204291486386803
+benchmark,bpic2012_cancelled,CatBoost,1,3,937,0.4921364952494192
+benchmark,bpic2012_cancelled,CatBoost,1,4,937,0.4815096167607975
+benchmark,bpic2012_cancelled,CatBoost,1,5,937,0.48433629487729957
+benchmark,bpic2012_cancelled,CatBoost,1,6,937,0.4781737512523257
+benchmark,bpic2012_cancelled,CatBoost,1,7,937,0.47862238663011525
+benchmark,bpic2012_cancelled,CatBoost,1,8,937,0.47430117470907507
+benchmark,bpic2012_cancelled,CatBoost,1,9,937,0.472374519712433
+benchmark,bpic2012_cancelled,CatBoost,1,10,937,0.47877651902984664
+benchmark,bpic2012_cancelled,CatBoost,1,11,937,0.48053527980535277
+benchmark,bpic2012_cancelled,CatBoost,1,12,937,0.48738591450055596
+benchmark,bpic2012_cancelled,CatBoost,1,13,937,0.5068836630665742
+benchmark,bpic2012_cancelled,CatBoost,1,14,937,0.5410184848785107
+benchmark,bpic2012_cancelled,CatBoost,1,15,937,0.6164470279970495
+benchmark,bpic2012_cancelled,CatBoost,1,16,937,0.665524435490086
+benchmark,bpic2012_cancelled,CatBoost,1,17,916,0.7044984180602802
+benchmark,bpic2012_cancelled,CatBoost,1,18,915,0.7229619192051873
+benchmark,bpic2012_cancelled,CatBoost,1,19,897,0.7517885073976256
+benchmark,bpic2012_cancelled,CatBoost,1,20,895,0.7870424247126213
+benchmark,bpic2012_cancelled,CatBoost,1,21,872,0.8083749247814236
+benchmark,bpic2012_cancelled,CatBoost,1,22,864,0.8267119611173612
+benchmark,bpic2012_cancelled,CatBoost,1,23,830,0.8302844453843714
+benchmark,bpic2012_cancelled,CatBoost,1,24,814,0.8429859675361808
+benchmark,bpic2012_cancelled,CatBoost,1,25,770,0.8433305021038964
+benchmark,bpic2012_cancelled,CatBoost,1,26,752,0.850380701407189
+benchmark,bpic2012_cancelled,CatBoost,1,27,706,0.8484412470023981
+benchmark,bpic2012_cancelled,CatBoost,1,28,686,0.8673865295332289
+benchmark,bpic2012_cancelled,CatBoost,1,29,642,0.8657847955662449
+benchmark,bpic2012_cancelled,CatBoost,1,30,618,0.877869812583668
+benchmark,bpic2012_cancelled,CatBoost,1,31,582,0.87593333954008
+benchmark,bpic2012_cancelled,CatBoost,1,32,547,0.8760714598093238
+benchmark,bpic2012_cancelled,CatBoost,1,33,509,0.872994104075878
+benchmark,bpic2012_cancelled,CatBoost,1,34,483,0.8806251069411966
+benchmark,bpic2012_cancelled,CatBoost,1,35,452,0.868255046583851
+benchmark,bpic2012_cancelled,CatBoost,1,36,424,0.8450908348642578
+benchmark,bpic2012_cancelled,CatBoost,1,37,399,0.8626595935982736
+benchmark,bpic2012_cancelled,CatBoost,1,38,382,0.8542344091239991
+benchmark,bpic2012_cancelled,CatBoost,1,39,353,0.8407413812982819
+benchmark,bpic2012_cancelled,CatBoost,1,40,337,0.8192787604552311
+benchmark,bpic2012_cancelled,CatBoost,2,1,937,0.522137265911418
+benchmark,bpic2012_cancelled,CatBoost,2,2,937,0.522137265911418
+benchmark,bpic2012_cancelled,CatBoost,2,3,937,0.5213418326342328
+benchmark,bpic2012_cancelled,CatBoost,2,4,937,0.5264777443824246
+benchmark,bpic2012_cancelled,CatBoost,2,5,937,0.538841364732305
+benchmark,bpic2012_cancelled,CatBoost,2,6,937,0.5455268575706532
+benchmark,bpic2012_cancelled,CatBoost,2,7,937,0.5405037927579791
+benchmark,bpic2012_cancelled,CatBoost,2,8,937,0.536477083814997
+benchmark,bpic2012_cancelled,CatBoost,2,9,937,0.5327228589358258
+benchmark,bpic2012_cancelled,CatBoost,2,10,937,0.536350475058075
+benchmark,bpic2012_cancelled,CatBoost,2,11,937,0.5348862172606269
+benchmark,bpic2012_cancelled,CatBoost,2,12,937,0.5407570102718235
+benchmark,bpic2012_cancelled,CatBoost,2,13,937,0.575890940317733
+benchmark,bpic2012_cancelled,CatBoost,2,14,937,0.6014934328588257
+benchmark,bpic2012_cancelled,CatBoost,2,15,937,0.661230747211855
+benchmark,bpic2012_cancelled,CatBoost,2,16,937,0.7042171725512215
+benchmark,bpic2012_cancelled,CatBoost,2,17,916,0.73606584675405
+benchmark,bpic2012_cancelled,CatBoost,2,18,915,0.7548810049795206
+benchmark,bpic2012_cancelled,CatBoost,2,19,897,0.7720742839559989
+benchmark,bpic2012_cancelled,CatBoost,2,20,895,0.7966820538681354
+benchmark,bpic2012_cancelled,CatBoost,2,21,872,0.8146897454957347
+benchmark,bpic2012_cancelled,CatBoost,2,22,864,0.8332193619070729
+benchmark,bpic2012_cancelled,CatBoost,2,23,830,0.8380401981438251
+benchmark,bpic2012_cancelled,CatBoost,2,24,814,0.846408305107113
+benchmark,bpic2012_cancelled,CatBoost,2,25,770,0.8490222495582305
+benchmark,bpic2012_cancelled,CatBoost,2,26,752,0.8583384544876936
+benchmark,bpic2012_cancelled,CatBoost,2,27,706,0.8634052757793765
+benchmark,bpic2012_cancelled,CatBoost,2,28,686,0.8751660463219918
+benchmark,bpic2012_cancelled,CatBoost,2,29,642,0.8733212829207809
+benchmark,bpic2012_cancelled,CatBoost,2,30,618,0.8801539491298527
+benchmark,bpic2012_cancelled,CatBoost,2,31,582,0.8753747323340471
+benchmark,bpic2012_cancelled,CatBoost,2,32,547,0.8817895565468381
+benchmark,bpic2012_cancelled,CatBoost,2,33,509,0.8810433222250705
+benchmark,bpic2012_cancelled,CatBoost,2,34,483,0.877730565219871
+benchmark,bpic2012_cancelled,CatBoost,2,35,452,0.8646965579710145
+benchmark,bpic2012_cancelled,CatBoost,2,36,424,0.839824453970198
+benchmark,bpic2012_cancelled,CatBoost,2,37,399,0.8485209494695198
+benchmark,bpic2012_cancelled,CatBoost,2,38,382,0.8463965057024995
+benchmark,bpic2012_cancelled,CatBoost,2,39,353,0.8299896229678312
+benchmark,bpic2012_cancelled,CatBoost,2,40,337,0.8094062799945152
+benchmark,bpic2012_cancelled,CatBoost,3,1,937,0.5414148253349628
+benchmark,bpic2012_cancelled,CatBoost,3,2,937,0.5414148253349628
+benchmark,bpic2012_cancelled,CatBoost,3,3,937,0.5412772071209169
+benchmark,bpic2012_cancelled,CatBoost,3,4,937,0.5364825885435589
+benchmark,bpic2012_cancelled,CatBoost,3,5,937,0.5452048309497859
+benchmark,bpic2012_cancelled,CatBoost,3,6,937,0.5492700729927006
+benchmark,bpic2012_cancelled,CatBoost,3,7,937,0.5310384119959045
+benchmark,bpic2012_cancelled,CatBoost,3,8,937,0.5323017472008456
+benchmark,bpic2012_cancelled,CatBoost,3,9,937,0.5307604232035317
+benchmark,bpic2012_cancelled,CatBoost,3,10,937,0.5379275797910406
+benchmark,bpic2012_cancelled,CatBoost,3,11,937,0.5345972190111306
+benchmark,bpic2012_cancelled,CatBoost,3,12,937,0.5296512203983222
+benchmark,bpic2012_cancelled,CatBoost,3,13,937,0.5532059539144124
+benchmark,bpic2012_cancelled,CatBoost,3,14,937,0.5791607490834627
+benchmark,bpic2012_cancelled,CatBoost,3,15,937,0.6376237187744273
+benchmark,bpic2012_cancelled,CatBoost,3,16,937,0.6791789146877166
+benchmark,bpic2012_cancelled,CatBoost,3,17,916,0.7145312462830363
+benchmark,bpic2012_cancelled,CatBoost,3,18,915,0.7412350883058882
+benchmark,bpic2012_cancelled,CatBoost,3,19,897,0.7584040616426062
+benchmark,bpic2012_cancelled,CatBoost,3,20,895,0.7910249945045709
+benchmark,bpic2012_cancelled,CatBoost,3,21,872,0.8139110119995753
+benchmark,bpic2012_cancelled,CatBoost,3,22,864,0.8311641997367628
+benchmark,bpic2012_cancelled,CatBoost,3,23,830,0.8360107693934489
+benchmark,bpic2012_cancelled,CatBoost,3,24,814,0.8436677957154797
+benchmark,bpic2012_cancelled,CatBoost,3,25,770,0.8414267443790333
+benchmark,bpic2012_cancelled,CatBoost,3,26,752,0.8468445009218077
+benchmark,bpic2012_cancelled,CatBoost,3,27,706,0.8422362110311751
+benchmark,bpic2012_cancelled,CatBoost,3,28,686,0.8609616876882407
+benchmark,bpic2012_cancelled,CatBoost,3,29,642,0.8665018449082027
+benchmark,bpic2012_cancelled,CatBoost,3,30,618,0.8778112449799197
+benchmark,bpic2012_cancelled,CatBoost,3,31,582,0.8755702448561586
+benchmark,bpic2012_cancelled,CatBoost,3,32,547,0.8757434619085105
+benchmark,bpic2012_cancelled,CatBoost,3,33,509,0.8803511920020508
+benchmark,bpic2012_cancelled,CatBoost,3,34,483,0.8806821422460502
+benchmark,bpic2012_cancelled,CatBoost,3,35,452,0.8661199534161492
+benchmark,bpic2012_cancelled,CatBoost,3,36,424,0.8371708511941213
+benchmark,bpic2012_cancelled,CatBoost,3,37,399,0.851398129832764
+benchmark,bpic2012_cancelled,CatBoost,3,38,382,0.8512496966755643
+benchmark,bpic2012_cancelled,CatBoost,3,39,353,0.8462757984549752
+benchmark,bpic2012_cancelled,CatBoost,3,40,337,0.8267174002468121
+benchmark,bpic2012_cancelled,CatBoost,4,1,937,0.48149860730367383
+benchmark,bpic2012_cancelled,CatBoost,4,2,937,0.48149860730367383
+benchmark,bpic2012_cancelled,CatBoost,4,3,937,0.4807334500335788
+benchmark,bpic2012_cancelled,CatBoost,4,4,937,0.4778627340885821
+benchmark,bpic2012_cancelled,CatBoost,4,5,937,0.48466382622672877
+benchmark,bpic2012_cancelled,CatBoost,4,6,937,0.48634276843808827
+benchmark,bpic2012_cancelled,CatBoost,4,7,937,0.49250806442734313
+benchmark,bpic2012_cancelled,CatBoost,4,8,937,0.48812354812784176
+benchmark,bpic2012_cancelled,CatBoost,4,9,937,0.48643910118792044
+benchmark,bpic2012_cancelled,CatBoost,4,10,937,0.4893318360471645
+benchmark,bpic2012_cancelled,CatBoost,4,11,937,0.49303927073356013
+benchmark,bpic2012_cancelled,CatBoost,4,12,937,0.49847794255265265
+benchmark,bpic2012_cancelled,CatBoost,4,13,937,0.5168224504849666
+benchmark,bpic2012_cancelled,CatBoost,4,14,937,0.5466415651044247
+benchmark,bpic2012_cancelled,CatBoost,4,15,937,0.6252600984245468
+benchmark,bpic2012_cancelled,CatBoost,4,16,937,0.6731347227268224
+benchmark,bpic2012_cancelled,CatBoost,4,17,916,0.7190927040464353
+benchmark,bpic2012_cancelled,CatBoost,4,18,915,0.7374317853432525
+benchmark,bpic2012_cancelled,CatBoost,4,19,897,0.7535866304264212
+benchmark,bpic2012_cancelled,CatBoost,4,20,895,0.7913773484877872
+benchmark,bpic2012_cancelled,CatBoost,4,21,872,0.8162507521857634
+benchmark,bpic2012_cancelled,CatBoost,4,22,864,0.8319252347443731
+benchmark,bpic2012_cancelled,CatBoost,4,23,830,0.8320373187138546
+benchmark,bpic2012_cancelled,CatBoost,4,24,814,0.8391897241895042
+benchmark,bpic2012_cancelled,CatBoost,4,25,770,0.8419588202559822
+benchmark,bpic2012_cancelled,CatBoost,4,26,752,0.8478912995927381
+benchmark,bpic2012_cancelled,CatBoost,4,27,706,0.8438968824940049
+benchmark,bpic2012_cancelled,CatBoost,4,28,686,0.8635460918285482
+benchmark,bpic2012_cancelled,CatBoost,4,29,642,0.8682720604711613
+benchmark,bpic2012_cancelled,CatBoost,4,30,618,0.8752008032128514
+benchmark,bpic2012_cancelled,CatBoost,4,31,582,0.8721906712596593
+benchmark,bpic2012_cancelled,CatBoost,4,32,547,0.8765743899239045
+benchmark,bpic2012_cancelled,CatBoost,4,33,509,0.8707767239169445
+benchmark,bpic2012_cancelled,CatBoost,4,34,483,0.8706439285917983
+benchmark,bpic2012_cancelled,CatBoost,4,35,452,0.856544384057971
+benchmark,bpic2012_cancelled,CatBoost,4,36,424,0.8345376607470912
+benchmark,bpic2012_cancelled,CatBoost,4,37,399,0.8458460708505663
+benchmark,bpic2012_cancelled,CatBoost,4,38,382,0.8432419315700073
+benchmark,bpic2012_cancelled,CatBoost,4,39,353,0.8376859218263576
+benchmark,bpic2012_cancelled,CatBoost,4,40,337,0.8150281091457562
+benchmark,bpic2012_cancelled,LSTM,0,1,937,0.4799462738492365
+benchmark,bpic2012_cancelled,LSTM,0,2,937,0.4667844678578899
+benchmark,bpic2012_cancelled,LSTM,0,3,937,0.4475674604485253
+benchmark,bpic2012_cancelled,LSTM,0,4,937,0.4717442282921029
+benchmark,bpic2012_cancelled,LSTM,0,5,937,0.4739791480882078
+benchmark,bpic2012_cancelled,LSTM,0,6,937,0.4700652860807434
+benchmark,bpic2012_cancelled,LSTM,0,7,937,0.47145247767832565
+benchmark,bpic2012_cancelled,LSTM,0,8,937,0.4872290297365437
+benchmark,bpic2012_cancelled,LSTM,0,9,937,0.4977981085752661
+benchmark,bpic2012_cancelled,LSTM,0,10,937,0.49392277966773457
+benchmark,bpic2012_cancelled,LSTM,0,11,937,0.4914676707291563
+benchmark,bpic2012_cancelled,LSTM,0,12,937,0.5086534332992041
+benchmark,bpic2012_cancelled,LSTM,0,13,937,0.5373220596492387
+benchmark,bpic2012_cancelled,LSTM,0,14,937,0.5837984828968084
+benchmark,bpic2012_cancelled,LSTM,0,15,937,0.6504552410520636
+benchmark,bpic2012_cancelled,LSTM,0,16,937,0.6801917847430943
+benchmark,bpic2012_cancelled,LSTM,0,17,916,0.7276506411018864
+benchmark,bpic2012_cancelled,LSTM,0,18,915,0.7654968176444598
+benchmark,bpic2012_cancelled,LSTM,0,19,897,0.7787571476191697
+benchmark,bpic2012_cancelled,LSTM,0,20,895,0.8092180974177948
+benchmark,bpic2012_cancelled,LSTM,0,21,872,0.8319563909242151
+benchmark,bpic2012_cancelled,LSTM,0,22,864,0.8456679828528151
+benchmark,bpic2012_cancelled,LSTM,0,23,830,0.833367224929031
+benchmark,bpic2012_cancelled,LSTM,0,24,814,0.8576518717283246
+benchmark,bpic2012_cancelled,LSTM,0,25,770,0.8591121655000049
+benchmark,bpic2012_cancelled,LSTM,0,26,752,0.8690720468299187
+benchmark,bpic2012_cancelled,LSTM,0,27,706,0.8697122302158273
+benchmark,bpic2012_cancelled,LSTM,0,28,686,0.8824983888574698
+benchmark,bpic2012_cancelled,LSTM,0,29,642,0.871812491597078
+benchmark,bpic2012_cancelled,LSTM,0,30,618,0.8837349397590362
+benchmark,bpic2012_cancelled,LSTM,0,31,582,0.8927660366818733
+benchmark,bpic2012_cancelled,LSTM,0,32,547,0.88036823230998
+benchmark,bpic2012_cancelled,LSTM,0,33,509,0.8972827480133299
+benchmark,bpic2012_cancelled,LSTM,0,34,483,0.8805965892887698
+benchmark,bpic2012_cancelled,LSTM,0,35,452,0.8806288819875776
+benchmark,bpic2012_cancelled,LSTM,0,36,424,0.8617268830373545
+benchmark,bpic2012_cancelled,LSTM,0,37,399,0.8841934903794283
+benchmark,bpic2012_cancelled,LSTM,0,38,382,0.8640135889347246
+benchmark,bpic2012_cancelled,LSTM,0,39,353,0.8766286175487144
+benchmark,bpic2012_cancelled,LSTM,0,40,337,0.869600987248046
+benchmark,bpic2012_cancelled,LSTM,1,1,937,0.45752551441688405
+benchmark,bpic2012_cancelled,LSTM,1,2,937,0.4650697449108784
+benchmark,bpic2012_cancelled,LSTM,1,3,937,0.4778049344386828
+benchmark,bpic2012_cancelled,LSTM,1,4,937,0.47812971342383104
+benchmark,bpic2012_cancelled,LSTM,1,5,937,0.5131287776199756
+benchmark,bpic2012_cancelled,LSTM,1,6,937,0.49808985918904336
+benchmark,bpic2012_cancelled,LSTM,1,7,937,0.4974237870330614
+benchmark,bpic2012_cancelled,LSTM,1,8,937,0.48556384934658875
+benchmark,bpic2012_cancelled,LSTM,1,9,937,0.5000990851141129
+benchmark,bpic2012_cancelled,LSTM,1,10,937,0.5066607215598198
+benchmark,bpic2012_cancelled,LSTM,1,11,937,0.5046845240061213
+benchmark,bpic2012_cancelled,LSTM,1,12,937,0.5297035153196595
+benchmark,bpic2012_cancelled,LSTM,1,13,937,0.5631447413328049
+benchmark,bpic2012_cancelled,LSTM,1,14,937,0.5683522145523003
+benchmark,bpic2012_cancelled,LSTM,1,15,937,0.6739329083682883
+benchmark,bpic2012_cancelled,LSTM,1,16,937,0.6735695962832072
+benchmark,bpic2012_cancelled,LSTM,1,17,916,0.7365535123819493
+benchmark,bpic2012_cancelled,LSTM,1,18,915,0.7645116606761162
+benchmark,bpic2012_cancelled,LSTM,1,19,897,0.7821995435780403
+benchmark,bpic2012_cancelled,LSTM,1,20,895,0.8021968785962735
+benchmark,bpic2012_cancelled,LSTM,1,21,872,0.8254575059289936
+benchmark,bpic2012_cancelled,LSTM,1,22,864,0.8391605820631034
+benchmark,bpic2012_cancelled,LSTM,1,23,830,0.8365882821841372
+benchmark,bpic2012_cancelled,LSTM,1,24,814,0.8665200369506885
+benchmark,bpic2012_cancelled,LSTM,1,25,770,0.8589754854582198
+benchmark,bpic2012_cancelled,LSTM,1,26,752,0.8709989896570043
+benchmark,bpic2012_cancelled,LSTM,1,27,706,0.8667625899280575
+benchmark,bpic2012_cancelled,LSTM,1,28,686,0.8842607815027685
+benchmark,bpic2012_cancelled,LSTM,1,29,642,0.8828968793415096
+benchmark,bpic2012_cancelled,LSTM,1,30,618,0.8906793842034807
+benchmark,bpic2012_cancelled,LSTM,1,31,582,0.894423238059771
+benchmark,bpic2012_cancelled,LSTM,1,32,547,0.8866657920055979
+benchmark,bpic2012_cancelled,LSTM,1,33,509,0.8960010253781082
+benchmark,bpic2012_cancelled,LSTM,1,34,483,0.884589060628529
+benchmark,bpic2012_cancelled,LSTM,1,35,452,0.8825375258799172
+benchmark,bpic2012_cancelled,LSTM,1,36,424,0.8735660338844662
+benchmark,bpic2012_cancelled,LSTM,1,37,399,0.889678115446862
+benchmark,bpic2012_cancelled,LSTM,1,38,382,0.8688667799077895
+benchmark,bpic2012_cancelled,LSTM,1,39,353,0.8872362504323763
+benchmark,bpic2012_cancelled,LSTM,1,40,337,0.8891402714932127
+benchmark,bpic2012_cancelled,LSTM,2,1,937,0.46477248956853934
+benchmark,bpic2012_cancelled,LSTM,2,2,937,0.46214673404454426
+benchmark,bpic2012_cancelled,LSTM,2,3,937,0.46824322092677606
+benchmark,bpic2012_cancelled,LSTM,2,4,937,0.4629807004216622
+benchmark,bpic2012_cancelled,LSTM,2,5,937,0.49900364413030796
+benchmark,bpic2012_cancelled,LSTM,2,6,937,0.5015413239973137
+benchmark,bpic2012_cancelled,LSTM,2,7,937,0.49828252468870765
+benchmark,bpic2012_cancelled,LSTM,2,8,937,0.5043267166496019
+benchmark,bpic2012_cancelled,LSTM,2,9,937,0.5173178760555317
+benchmark,bpic2012_cancelled,LSTM,2,10,937,0.503759729607733
+benchmark,bpic2012_cancelled,LSTM,2,11,937,0.5026312602525569
+benchmark,bpic2012_cancelled,LSTM,2,12,937,0.5157104953154761
+benchmark,bpic2012_cancelled,LSTM,2,13,937,0.5387863174466867
+benchmark,bpic2012_cancelled,LSTM,2,14,937,0.570598143805529
+benchmark,bpic2012_cancelled,LSTM,2,15,937,0.6290858847750217
+benchmark,bpic2012_cancelled,LSTM,2,16,937,0.6563618147989123
+benchmark,bpic2012_cancelled,LSTM,2,17,916,0.714775079096986
+benchmark,bpic2012_cancelled,LSTM,2,18,915,0.7558363087063993
+benchmark,bpic2012_cancelled,LSTM,2,19,897,0.7697633272648017
+benchmark,bpic2012_cancelled,LSTM,2,20,895,0.8042592808099617
+benchmark,bpic2012_cancelled,LSTM,2,21,872,0.8185055396269159
+benchmark,bpic2012_cancelled,LSTM,2,22,864,0.8410870668166678
+benchmark,bpic2012_cancelled,LSTM,2,23,830,0.8251275001830146
+benchmark,bpic2012_cancelled,LSTM,2,24,814,0.8601240487397176
+benchmark,bpic2012_cancelled,LSTM,2,25,770,0.8506087143289498
+benchmark,bpic2012_cancelled,LSTM,2,26,752,0.8648536044246774
+benchmark,bpic2012_cancelled,LSTM,2,27,706,0.8588369304556354
+benchmark,bpic2012_cancelled,LSTM,2,28,686,0.8776978417266189
+benchmark,bpic2012_cancelled,LSTM,2,29,642,0.8727834959143126
+benchmark,bpic2012_cancelled,LSTM,2,30,618,0.8819109772423025
+benchmark,bpic2012_cancelled,LSTM,2,31,582,0.886658597895913
+benchmark,bpic2012_cancelled,LSTM,2,32,547,0.8794279716609814
+benchmark,bpic2012_cancelled,LSTM,2,33,509,0.8922071263778519
+benchmark,bpic2012_cancelled,LSTM,2,34,483,0.8751497176752409
+benchmark,bpic2012_cancelled,LSTM,2,35,452,0.8734472049689439
+benchmark,bpic2012_cancelled,LSTM,2,36,424,0.8547866911614616
+benchmark,bpic2012_cancelled,LSTM,2,37,399,0.878169393993886
+benchmark,bpic2012_cancelled,LSTM,2,38,382,0.8562484833778208
+benchmark,bpic2012_cancelled,LSTM,2,39,353,0.8619278219762482
+benchmark,bpic2012_cancelled,LSTM,2,40,337,0.8679555738379268
+benchmark,bpic2012_cancelled,LSTM,3,1,937,0.4933998304543603
+benchmark,bpic2012_cancelled,LSTM,3,2,937,0.4650449736323502
+benchmark,bpic2012_cancelled,LSTM,3,3,937,0.47852054915172126
+benchmark,bpic2012_cancelled,LSTM,3,4,937,0.4765828846979555
+benchmark,bpic2012_cancelled,LSTM,3,5,937,0.5146701016172892
+benchmark,bpic2012_cancelled,LSTM,3,6,937,0.513745307218901
+benchmark,bpic2012_cancelled,LSTM,3,7,937,0.5104424700818002
+benchmark,bpic2012_cancelled,LSTM,3,8,937,0.5009743369554447
+benchmark,bpic2012_cancelled,LSTM,3,9,937,0.49588796776430955
+benchmark,bpic2012_cancelled,LSTM,3,10,937,0.514915062038291
+benchmark,bpic2012_cancelled,LSTM,3,11,937,0.5087690325990024
+benchmark,bpic2012_cancelled,LSTM,3,12,937,0.5104424700818002
+benchmark,bpic2012_cancelled,LSTM,3,13,937,0.5281787055080314
+benchmark,bpic2012_cancelled,LSTM,3,14,937,0.573394545914941
+benchmark,bpic2012_cancelled,LSTM,3,15,937,0.6411632592396869
+benchmark,bpic2012_cancelled,LSTM,3,16,937,0.694548116832359
+benchmark,bpic2012_cancelled,LSTM,3,17,916,0.7197112067940148
+benchmark,bpic2012_cancelled,LSTM,3,18,915,0.7613591583774166
+benchmark,bpic2012_cancelled,LSTM,3,19,897,0.7732185440652325
+benchmark,bpic2012_cancelled,LSTM,3,20,895,0.8021192960678588
+benchmark,bpic2012_cancelled,LSTM,3,21,872,0.8202399915047254
+benchmark,bpic2012_cancelled,LSTM,3,22,864,0.8424547239317937
+benchmark,bpic2012_cancelled,LSTM,3,23,830,0.8245906573071635
+benchmark,bpic2012_cancelled,LSTM,3,24,814,0.8570360269212158
+benchmark,bpic2012_cancelled,LSTM,3,25,770,0.8554315672319363
+benchmark,bpic2012_cancelled,LSTM,3,26,752,0.8637703500786401
+benchmark,bpic2012_cancelled,LSTM,3,27,706,0.8581294964028777
+benchmark,bpic2012_cancelled,LSTM,3,28,686,0.8755277313797957
+benchmark,bpic2012_cancelled,LSTM,3,29,642,0.8794610179112949
+benchmark,bpic2012_cancelled,LSTM,3,30,618,0.8811579651941098
+benchmark,bpic2012_cancelled,LSTM,3,31,582,0.8934922260497159
+benchmark,bpic2012_cancelled,LSTM,3,32,547,0.8831671477302545
+benchmark,bpic2012_cancelled,LSTM,3,33,509,0.8957959497564728
+benchmark,bpic2012_cancelled,LSTM,3,34,483,0.8805965892887697
+benchmark,bpic2012_cancelled,LSTM,3,35,452,0.8785261387163561
+benchmark,bpic2012_cancelled,LSTM,3,36,424,0.8575627679118187
+benchmark,bpic2012_cancelled,LSTM,3,37,399,0.8804171911526704
+benchmark,bpic2012_cancelled,LSTM,3,38,382,0.8571220577529727
+benchmark,bpic2012_cancelled,LSTM,3,39,353,0.8623890234059727
+benchmark,bpic2012_cancelled,LSTM,3,40,337,0.8642533936651583
+benchmark,bpic2012_cancelled,LSTM,4,1,937,0.4705992447512413
+benchmark,bpic2012_cancelled,LSTM,4,2,937,0.4379066618225055
+benchmark,bpic2012_cancelled,LSTM,4,3,937,0.47885633759399326
+benchmark,bpic2012_cancelled,LSTM,4,4,937,0.48035362376281227
+benchmark,bpic2012_cancelled,LSTM,4,5,937,0.4871244398938688
+benchmark,bpic2012_cancelled,LSTM,4,6,937,0.5056643656901278
+benchmark,bpic2012_cancelled,LSTM,4,7,937,0.4917704308000572
+benchmark,bpic2012_cancelled,LSTM,4,8,937,0.5086919663991368
+benchmark,bpic2012_cancelled,LSTM,4,9,937,0.5090938115841508
+benchmark,bpic2012_cancelled,LSTM,4,10,937,0.509352533826557
+benchmark,bpic2012_cancelled,LSTM,4,11,937,0.5027468595523554
+benchmark,bpic2012_cancelled,LSTM,4,12,937,0.5109764287522982
+benchmark,bpic2012_cancelled,LSTM,4,13,937,0.5636566810890554
+benchmark,bpic2012_cancelled,LSTM,4,14,937,0.5904812233708756
+benchmark,bpic2012_cancelled,LSTM,4,15,937,0.6648280873270139
+benchmark,bpic2012_cancelled,LSTM,4,16,937,0.6884378681287225
+benchmark,bpic2012_cancelled,LSTM,4,17,916,0.7355424982753289
+benchmark,bpic2012_cancelled,LSTM,4,18,915,0.7683806407699747
+benchmark,bpic2012_cancelled,LSTM,4,19,897,0.777257109156645
+benchmark,bpic2012_cancelled,LSTM,4,20,895,0.8067095956657226
+benchmark,bpic2012_cancelled,LSTM,4,21,872,0.8331457293547131
+benchmark,bpic2012_cancelled,LSTM,4,22,864,0.8466091662438695
+benchmark,bpic2012_cancelled,LSTM,4,23,830,0.8404031201958664
+benchmark,bpic2012_cancelled,LSTM,4,24,814,0.8643381867769322
+benchmark,bpic2012_cancelled,LSTM,4,25,770,0.8575793964599869
+benchmark,bpic2012_cancelled,LSTM,4,26,752,0.8705094420198527
+benchmark,bpic2012_cancelled,LSTM,4,27,706,0.868441247002398
+benchmark,bpic2012_cancelled,LSTM,4,28,686,0.8861283916194284
+benchmark,bpic2012_cancelled,LSTM,4,29,642,0.8835989901555101
+benchmark,bpic2012_cancelled,LSTM,4,30,618,0.8899263721552877
+benchmark,bpic2012_cancelled,LSTM,4,31,582,0.8951308071874127
+benchmark,bpic2012_cancelled,LSTM,4,32,547,0.8900988367007785
+benchmark,bpic2012_cancelled,LSTM,4,33,509,0.9006408613176109
+benchmark,bpic2012_cancelled,LSTM,4,34,483,0.8855871784634689
+benchmark,bpic2012_cancelled,LSTM,4,35,452,0.8809200310559008
+benchmark,bpic2012_cancelled,LSTM,4,36,424,0.8638905899163095
+benchmark,bpic2012_cancelled,LSTM,4,37,399,0.8850476532997663
+benchmark,bpic2012_cancelled,LSTM,4,38,382,0.8623635040038825
+benchmark,bpic2012_cancelled,LSTM,4,39,353,0.8774933702294476
+benchmark,bpic2012_cancelled,LSTM,4,40,337,0.8742629919100509
+benchmark,bpic2012_cancelled,Transformer,0,1,937,0.4610485406964583
+benchmark,bpic2012_cancelled,Transformer,0,2,937,0.4579989210732019
+benchmark,bpic2012_cancelled,Transformer,0,3,937,0.44461967830366284
+benchmark,bpic2012_cancelled,Transformer,0,4,937,0.45691999427508234
+benchmark,bpic2012_cancelled,Transformer,0,5,937,0.4547346170360339
+benchmark,bpic2012_cancelled,Transformer,0,6,937,0.4489106142176129
+benchmark,bpic2012_cancelled,Transformer,0,7,937,0.47021941848047477
+benchmark,bpic2012_cancelled,Transformer,0,8,937,0.4993834704010745
+benchmark,bpic2012_cancelled,Transformer,0,9,937,0.4956512644361506
+benchmark,bpic2012_cancelled,Transformer,0,10,937,0.501029384241063
+benchmark,bpic2012_cancelled,Transformer,0,11,937,0.5080479131574023
+benchmark,bpic2012_cancelled,Transformer,0,12,937,0.5118076427651352
+benchmark,bpic2012_cancelled,Transformer,0,13,937,0.5138361352401714
+benchmark,bpic2012_cancelled,Transformer,0,14,937,0.5627484008763528
+benchmark,bpic2012_cancelled,Transformer,0,15,937,0.6354933888209973
+benchmark,bpic2012_cancelled,Transformer,0,16,937,0.6409045369972807
+benchmark,bpic2012_cancelled,Transformer,0,17,916,0.7103206698860527
+benchmark,bpic2012_cancelled,Transformer,0,18,915,0.7418291678110409
+benchmark,bpic2012_cancelled,Transformer,0,19,897,0.7664683709838713
+benchmark,bpic2012_cancelled,Transformer,0,20,895,0.7852321657162807
+benchmark,bpic2012_cancelled,Transformer,0,21,872,0.8201338005734311
+benchmark,bpic2012_cancelled,Transformer,0,22,864,0.8276899094846286
+benchmark,bpic2012_cancelled,Transformer,0,23,830,0.8204911298915739
+benchmark,bpic2012_cancelled,Transformer,0,24,814,0.8492411912198126
+benchmark,bpic2012_cancelled,Transformer,0,25,770,0.8422321803395522
+benchmark,bpic2012_cancelled,Transformer,0,26,752,0.8563438082639807
+benchmark,bpic2012_cancelled,Transformer,0,27,706,0.8500239808153477
+benchmark,bpic2012_cancelled,Transformer,0,28,686,0.8743440348269829
+benchmark,bpic2012_cancelled,Transformer,0,29,642,0.8571129800869421
+benchmark,bpic2012_cancelled,Transformer,0,30,618,0.8755354752342704
+benchmark,bpic2012_cancelled,Transformer,0,31,582,0.8845545107531888
+benchmark,bpic2012_cancelled,Transformer,0,32,547,0.8745189364121404
+benchmark,bpic2012_cancelled,Transformer,0,33,509,0.8869264291207384
+benchmark,bpic2012_cancelled,Transformer,0,34,483,0.8754919295043632
+benchmark,bpic2012_cancelled,Transformer,0,35,452,0.8616071428571429
+benchmark,bpic2012_cancelled,Transformer,0,36,424,0.8429475403143499
+benchmark,bpic2012_cancelled,Transformer,0,37,399,0.8609512677575976
+benchmark,bpic2012_cancelled,Transformer,0,38,382,0.8307692307692309
+benchmark,bpic2012_cancelled,Transformer,0,39,353,0.8405972558514931
+benchmark,bpic2012_cancelled,Transformer,0,40,337,0.8294940353763883
+benchmark,bpic2012_cancelled,Transformer,1,1,937,0.46216600059451074
+benchmark,bpic2012_cancelled,Transformer,1,2,937,0.4605145820259603
+benchmark,bpic2012_cancelled,Transformer,1,3,937,0.4492464026598848
+benchmark,bpic2012_cancelled,Transformer,1,4,937,0.46948728958175073
+benchmark,bpic2012_cancelled,Transformer,1,5,937,0.4661101386090652
+benchmark,bpic2012_cancelled,Transformer,1,6,937,0.472140568748555
+benchmark,bpic2012_cancelled,Transformer,1,7,937,0.47288645946868363
+benchmark,bpic2012_cancelled,Transformer,1,8,937,0.47034602723739694
+benchmark,bpic2012_cancelled,Transformer,1,9,937,0.4718928559632724
+benchmark,bpic2012_cancelled,Transformer,1,10,937,0.49736323501888124
+benchmark,bpic2012_cancelled,Transformer,1,11,937,0.49495766863735946
+benchmark,bpic2012_cancelled,Transformer,1,12,937,0.482891303629818
+benchmark,bpic2012_cancelled,Transformer,1,13,937,0.5122260021358347
+benchmark,bpic2012_cancelled,Transformer,1,14,937,0.5505939602118219
+benchmark,bpic2012_cancelled,Transformer,1,15,937,0.6335832480100406
+benchmark,bpic2012_cancelled,Transformer,1,16,937,0.6503836795807598
+benchmark,bpic2012_cancelled,Transformer,1,17,916,0.7212277279539454
+benchmark,bpic2012_cancelled,Transformer,1,18,915,0.7519553873159549
+benchmark,bpic2012_cancelled,Transformer,1,19,897,0.7635965024744225
+benchmark,bpic2012_cancelled,Transformer,1,20,895,0.7756183974035713
+benchmark,bpic2012_cancelled,Transformer,1,21,872,0.8081342253371563
+benchmark,bpic2012_cancelled,Transformer,1,22,864,0.8244325325921514
+benchmark,bpic2012_cancelled,Transformer,1,23,830,0.8214021359839272
+benchmark,bpic2012_cancelled,Transformer,1,24,814,0.8560770685787182
+benchmark,bpic2012_cancelled,Transformer,1,25,770,0.8566519247478741
+benchmark,bpic2012_cancelled,Transformer,1,26,752,0.8593123418084097
+benchmark,bpic2012_cancelled,Transformer,1,27,706,0.8474580335731415
+benchmark,bpic2012_cancelled,Transformer,1,28,686,0.8659660936698539
+benchmark,bpic2012_cancelled,Transformer,1,29,642,0.8577105212052405
+benchmark,bpic2012_cancelled,Transformer,1,30,618,0.8754518072289156
+benchmark,bpic2012_cancelled,Transformer,1,31,582,0.873847872637557
+benchmark,bpic2012_cancelled,Transformer,1,32,547,0.8545219977258812
+benchmark,bpic2012_cancelled,Transformer,1,33,509,0.8751602153294027
+benchmark,bpic2012_cancelled,Transformer,1,34,483,0.8519648662522101
+benchmark,bpic2012_cancelled,Transformer,1,35,452,0.8483113354037267
+benchmark,bpic2012_cancelled,Transformer,1,36,424,0.8447846499285568
+benchmark,bpic2012_cancelled,Transformer,1,37,399,0.8703021039381406
+benchmark,bpic2012_cancelled,Transformer,1,38,382,0.8270808056297015
+benchmark,bpic2012_cancelled,Transformer,1,39,353,0.8588723625043237
+benchmark,bpic2012_cancelled,Transformer,1,40,337,0.8451940216646099
+benchmark,bpic2012_cancelled,Transformer,2,1,937,0.4707809007937819
+benchmark,bpic2012_cancelled,Transformer,2,2,937,0.46397155156279246
+benchmark,bpic2012_cancelled,Transformer,2,3,937,0.45053450914335413
+benchmark,bpic2012_cancelled,Transformer,2,4,937,0.45843929935814864
+benchmark,bpic2012_cancelled,Transformer,2,5,937,0.4936255243253955
+benchmark,bpic2012_cancelled,Transformer,2,6,937,0.4912144532153119
+benchmark,bpic2012_cancelled,Transformer,2,7,937,0.49015204060287787
+benchmark,bpic2012_cancelled,Transformer,2,8,937,0.4896731292179982
+benchmark,bpic2012_cancelled,Transformer,2,9,937,0.500432121192104
+benchmark,bpic2012_cancelled,Transformer,2,10,937,0.5081580077286388
+benchmark,bpic2012_cancelled,Transformer,2,11,937,0.5057854697184881
+benchmark,bpic2012_cancelled,Transformer,2,12,937,0.49378791381796966
+benchmark,bpic2012_cancelled,Transformer,2,13,937,0.5427001794541512
+benchmark,bpic2012_cancelled,Transformer,2,14,937,0.5960079708469576
+benchmark,bpic2012_cancelled,Transformer,2,15,937,0.6269995926500864
+benchmark,bpic2012_cancelled,Transformer,2,16,937,0.6563232816989795
+benchmark,bpic2012_cancelled,Transformer,2,17,916,0.7097675856983134
+benchmark,bpic2012_cancelled,Transformer,2,18,915,0.7276787313566507
+benchmark,bpic2012_cancelled,Transformer,2,19,897,0.7563078540475395
+benchmark,bpic2012_cancelled,Transformer,2,20,895,0.7834025110878362
+benchmark,bpic2012_cancelled,Transformer,2,21,872,0.8159357190895898
+benchmark,bpic2012_cancelled,Transformer,2,22,864,0.821748689328598
+benchmark,bpic2012_cancelled,Transformer,2,23,830,0.8083226913722843
+benchmark,bpic2012_cancelled,Transformer,2,24,814,0.8452733911054415
+benchmark,bpic2012_cancelled,Transformer,2,25,770,0.8431987034921751
+benchmark,bpic2012_cancelled,Transformer,2,26,752,0.8545106086014561
+benchmark,bpic2012_cancelled,Transformer,2,27,706,0.8531534772182254
+benchmark,bpic2012_cancelled,Transformer,2,28,686,0.8697539226388542
+benchmark,bpic2012_cancelled,Transformer,2,29,642,0.8569785333353251
+benchmark,bpic2012_cancelled,Transformer,2,30,618,0.8737282463186078
+benchmark,bpic2012_cancelled,Transformer,2,31,582,0.8803649567079416
+benchmark,bpic2012_cancelled,Transformer,2,32,547,0.858567305169247
+benchmark,bpic2012_cancelled,Transformer,2,33,509,0.8710330684439888
+benchmark,bpic2012_cancelled,Transformer,2,34,483,0.8549307021046028
+benchmark,bpic2012_cancelled,Transformer,2,35,452,0.8396415631469979
+benchmark,bpic2012_cancelled,Transformer,2,36,424,0.8304960195958359
+benchmark,bpic2012_cancelled,Transformer,2,37,399,0.8647725229275309
+benchmark,bpic2012_cancelled,Transformer,2,38,382,0.8316428051443825
+benchmark,bpic2012_cancelled,Transformer,2,39,353,0.8388677504900265
+benchmark,bpic2012_cancelled,Transformer,2,40,337,0.8530782942547649
+benchmark,bpic2012_cancelled,Transformer,3,1,937,0.47269654633330027
+benchmark,bpic2012_cancelled,Transformer,3,2,937,0.467648710242098
+benchmark,bpic2012_cancelled,Transformer,3,3,937,0.4828362563441997
+benchmark,bpic2012_cancelled,Transformer,3,4,937,0.4622485715229382
+benchmark,bpic2012_cancelled,Transformer,3,5,937,0.5122865541500149
+benchmark,bpic2012_cancelled,Transformer,3,6,937,0.5138278781473286
+benchmark,bpic2012_cancelled,Transformer,3,7,937,0.49866510332375513
+benchmark,bpic2012_cancelled,Transformer,3,8,937,0.5201528112648766
+benchmark,bpic2012_cancelled,Transformer,3,9,937,0.5145159692175578
+benchmark,bpic2012_cancelled,Transformer,3,10,937,0.5035285310081359
+benchmark,bpic2012_cancelled,Transformer,3,11,937,0.5090112406557232
+benchmark,bpic2012_cancelled,Transformer,3,12,937,0.526527286939481
+benchmark,bpic2012_cancelled,Transformer,3,13,937,0.5214023846484129
+benchmark,bpic2012_cancelled,Transformer,3,14,937,0.5750955070405479
+benchmark,bpic2012_cancelled,Transformer,3,15,937,0.6091257390098095
+benchmark,bpic2012_cancelled,Transformer,3,16,937,0.6380585923308122
+benchmark,bpic2012_cancelled,Transformer,3,17,916,0.7121404952779694
+benchmark,bpic2012_cancelled,Transformer,3,18,915,0.7362167584156286
+benchmark,bpic2012_cancelled,Transformer,3,19,897,0.7588592015179878
+benchmark,bpic2012_cancelled,Transformer,3,20,895,0.7728189611699445
+benchmark,bpic2012_cancelled,Transformer,3,21,872,0.796623128384836
+benchmark,bpic2012_cancelled,Transformer,3,22,864,0.8177118949404041
+benchmark,bpic2012_cancelled,Transformer,3,23,830,0.8007580872125654
+benchmark,bpic2012_cancelled,Transformer,3,24,814,0.8421589759380635
+benchmark,bpic2012_cancelled,Transformer,3,25,770,0.8413828115084595
+benchmark,bpic2012_cancelled,Transformer,3,26,752,0.8512816773776912
+benchmark,bpic2012_cancelled,Transformer,3,27,706,0.8514988009592327
+benchmark,bpic2012_cancelled,Transformer,3,28,686,0.8785921902331882
+benchmark,bpic2012_cancelled,Transformer,3,29,642,0.8629240674623923
+benchmark,bpic2012_cancelled,Transformer,3,30,618,0.8846887550200804
+benchmark,bpic2012_cancelled,Transformer,3,31,582,0.8874778884647613
+benchmark,bpic2012_cancelled,Transformer,3,32,547,0.8758855943321963
+benchmark,bpic2012_cancelled,Transformer,3,33,509,0.8873365803640093
+benchmark,bpic2012_cancelled,Transformer,3,34,483,0.8839901899275653
+benchmark,bpic2012_cancelled,Transformer,3,35,452,0.8592779503105591
+benchmark,bpic2012_cancelled,Transformer,3,36,424,0.8413145539906104
+benchmark,bpic2012_cancelled,Transformer,3,37,399,0.8583887789965834
+benchmark,bpic2012_cancelled,Transformer,3,38,382,0.8342635282698374
+benchmark,bpic2012_cancelled,Transformer,3,39,353,0.8501095353395596
+benchmark,bpic2012_cancelled,Transformer,3,40,337,0.844097079391197
+benchmark,bpic2012_cancelled,Transformer,4,1,937,0.4606164195043543
+benchmark,bpic2012_cancelled,Transformer,4,2,937,0.45379606081624113
+benchmark,bpic2012_cancelled,Transformer,4,3,937,0.4461087073796391
+benchmark,bpic2012_cancelled,Transformer,4,4,937,0.4603604496262289
+benchmark,bpic2012_cancelled,Transformer,4,5,937,0.4877299600356706
+benchmark,bpic2012_cancelled,Transformer,4,6,937,0.5062478669176822
+benchmark,bpic2012_cancelled,Transformer,4,7,937,0.5016789422113596
+benchmark,bpic2012_cancelled,Transformer,4,8,937,0.5062643811033678
+benchmark,bpic2012_cancelled,Transformer,4,9,937,0.5011064504409287
+benchmark,bpic2012_cancelled,Transformer,4,10,937,0.5185289163391353
+benchmark,bpic2012_cancelled,Transformer,4,11,937,0.5234446389448537
+benchmark,bpic2012_cancelled,Transformer,4,12,937,0.5107892679811958
+benchmark,bpic2012_cancelled,Transformer,4,13,937,0.54200658365536
+benchmark,bpic2012_cancelled,Transformer,4,14,937,0.5732349087866477
+benchmark,bpic2012_cancelled,Transformer,4,15,937,0.6247756823111053
+benchmark,bpic2012_cancelled,Transformer,4,16,937,0.6787605553170173
+benchmark,bpic2012_cancelled,Transformer,4,17,916,0.7001986345362419
+benchmark,bpic2012_cancelled,Transformer,4,18,915,0.7547615920136609
+benchmark,bpic2012_cancelled,Transformer,4,19,897,0.7632759814354214
+benchmark,bpic2012_cancelled,Transformer,4,20,895,0.7951497989319473
+benchmark,bpic2012_cancelled,Transformer,4,21,872,0.8197727514070298
+benchmark,bpic2012_cancelled,Transformer,4,22,864,0.8330943609879484
+benchmark,bpic2012_cancelled,Transformer,4,23,830,0.8222318022466061
+benchmark,bpic2012_cancelled,Transformer,4,24,814,0.8475960058065368
+benchmark,bpic2012_cancelled,Transformer,4,25,770,0.8407579884602991
+benchmark,bpic2012_cancelled,Transformer,4,26,752,0.8607705688126908
+benchmark,bpic2012_cancelled,Transformer,4,27,706,0.8488848920863309
+benchmark,bpic2012_cancelled,Transformer,4,28,686,0.8710954453987084
+benchmark,bpic2012_cancelled,Transformer,4,29,642,0.8702887617454177
+benchmark,bpic2012_cancelled,Transformer,4,30,618,0.8888052208835341
+benchmark,bpic2012_cancelled,Transformer,4,31,582,0.8887813052788381
+benchmark,bpic2012_cancelled,Transformer,4,32,547,0.8791218402868889
+benchmark,bpic2012_cancelled,Transformer,4,33,509,0.8946423993847732
+benchmark,bpic2012_cancelled,Transformer,4,34,483,0.8725546113043974
+benchmark,bpic2012_cancelled,Transformer,4,35,452,0.8732207556935818
+benchmark,bpic2012_cancelled,Transformer,4,36,424,0.858420085731782
+benchmark,bpic2012_cancelled,Transformer,4,37,399,0.8734939759036146
+benchmark,bpic2012_cancelled,Transformer,4,38,382,0.8562484833778208
+benchmark,bpic2012_cancelled,Transformer,4,39,353,0.8657903839501903
+benchmark,bpic2012_cancelled,Transformer,4,40,337,0.8585630056218292
+benchmark,bpic2012_cancelled,Stack (proposed),0,1,937,0.4864418535522014
+benchmark,bpic2012_cancelled,Stack (proposed),0,2,937,0.48521429908291225
+benchmark,bpic2012_cancelled,Stack (proposed),0,3,937,0.48343627175743964
+benchmark,bpic2012_cancelled,Stack (proposed),0,4,937,0.48273717123008664
+benchmark,bpic2012_cancelled,Stack (proposed),0,5,937,0.5373330691063624
+benchmark,bpic2012_cancelled,Stack (proposed),0,6,937,0.5359844106087128
+benchmark,bpic2012_cancelled,Stack (proposed),0,7,937,0.5203124483931698
+benchmark,bpic2012_cancelled,Stack (proposed),0,8,937,0.5217381730906849
+benchmark,bpic2012_cancelled,Stack (proposed),0,9,937,0.5021798725104865
+benchmark,bpic2012_cancelled,Stack (proposed),0,10,937,0.5016844469399213
+benchmark,bpic2012_cancelled,Stack (proposed),0,11,937,0.5024165758386454
+benchmark,bpic2012_cancelled,Stack (proposed),0,12,937,0.5030991621803129
+benchmark,bpic2012_cancelled,Stack (proposed),0,13,937,0.5278098886943884
+benchmark,bpic2012_cancelled,Stack (proposed),0,14,937,0.5643227532450376
+benchmark,bpic2012_cancelled,Stack (proposed),0,15,937,0.6515561867644306
+benchmark,bpic2012_cancelled,Stack (proposed),0,16,937,0.6850854884345653
+benchmark,bpic2012_cancelled,Stack (proposed),0,17,916,0.7269667197944668
+benchmark,bpic2012_cancelled,Stack (proposed),0,18,915,0.7566124929844882
+benchmark,bpic2012_cancelled,Stack (proposed),0,19,897,0.7687697120438985
+benchmark,bpic2012_cancelled,Stack (proposed),0,20,895,0.8011947709375848
+benchmark,bpic2012_cancelled,Stack (proposed),0,21,872,0.8233620048847828
+benchmark,bpic2012_cancelled,Stack (proposed),0,22,864,0.8371164493856572
+benchmark,bpic2012_cancelled,Stack (proposed),0,23,830,0.8308782261409944
+benchmark,bpic2012_cancelled,Stack (proposed),0,24,814,0.8476839836361237
+benchmark,bpic2012_cancelled,Stack (proposed),0,25,770,0.8452684298392056
+benchmark,bpic2012_cancelled,Stack (proposed),0,26,752,0.8581040965762912
+benchmark,bpic2012_cancelled,Stack (proposed),0,27,706,0.8552997601918465
+benchmark,bpic2012_cancelled,Stack (proposed),0,28,686,0.8718714242499968
+benchmark,bpic2012_cancelled,Stack (proposed),0,29,642,0.8603247635977951
+benchmark,bpic2012_cancelled,Stack (proposed),0,30,618,0.876321954484605
+benchmark,bpic2012_cancelled,Stack (proposed),0,31,582,0.8783167302858207
+benchmark,bpic2012_cancelled,Stack (proposed),0,32,547,0.8745298696755008
+benchmark,bpic2012_cancelled,Stack (proposed),0,33,509,0.8785695975390924
+benchmark,bpic2012_cancelled,Stack (proposed),0,34,483,0.868590657617065
+benchmark,bpic2012_cancelled,Stack (proposed),0,35,452,0.8578869047619049
+benchmark,bpic2012_cancelled,Stack (proposed),0,36,424,0.8347417840375586
+benchmark,bpic2012_cancelled,Stack (proposed),0,37,399,0.8537583168494874
+benchmark,bpic2012_cancelled,Stack (proposed),0,38,382,0.8440184421256977
+benchmark,bpic2012_cancelled,Stack (proposed),0,39,353,0.8444598178254352
+benchmark,bpic2012_cancelled,Stack (proposed),0,40,337,0.8253805018510901
+benchmark,bpic2012_cancelled,Stack (proposed),1,1,937,0.52775484140877
+benchmark,bpic2012_cancelled,Stack (proposed),1,2,937,0.5268410564675057
+benchmark,bpic2012_cancelled,Stack (proposed),1,3,937,0.5235327146018429
+benchmark,bpic2012_cancelled,Stack (proposed),1,4,937,0.5256575398267112
+benchmark,bpic2012_cancelled,Stack (proposed),1,5,937,0.5380707027336482
+benchmark,bpic2012_cancelled,Stack (proposed),1,6,937,0.5369532428355959
+benchmark,bpic2012_cancelled,Stack (proposed),1,7,937,0.5266428862392796
+benchmark,bpic2012_cancelled,Stack (proposed),1,8,937,0.5199161079367176
+benchmark,bpic2012_cancelled,Stack (proposed),1,9,937,0.5163490438286488
+benchmark,bpic2012_cancelled,Stack (proposed),1,10,937,0.5242538340434434
+benchmark,bpic2012_cancelled,Stack (proposed),1,11,937,0.5194592154660853
+benchmark,bpic2012_cancelled,Stack (proposed),1,12,937,0.5205216280785194
+benchmark,bpic2012_cancelled,Stack (proposed),1,13,937,0.5423864099261265
+benchmark,bpic2012_cancelled,Stack (proposed),1,14,937,0.5638218229459105
+benchmark,bpic2012_cancelled,Stack (proposed),1,15,937,0.6460569629311579
+benchmark,bpic2012_cancelled,Stack (proposed),1,16,937,0.6806706961279738
+benchmark,bpic2012_cancelled,Stack (proposed),1,17,916,0.7107310226705046
+benchmark,bpic2012_cancelled,Stack (proposed),1,18,915,0.7367421754654122
+benchmark,bpic2012_cancelled,Stack (proposed),1,19,897,0.761833636759917
+benchmark,bpic2012_cancelled,Stack (proposed),1,20,895,0.7959902763231055
+benchmark,bpic2012_cancelled,Stack (proposed),1,21,872,0.8194046228452091
+benchmark,bpic2012_cancelled,Stack (proposed),1,22,864,0.833726718578813
+benchmark,bpic2012_cancelled,Stack (proposed),1,23,830,0.8354007206708908
+benchmark,bpic2012_cancelled,Stack (proposed),1,24,814,0.854528658777988
+benchmark,bpic2012_cancelled,Stack (proposed),1,25,770,0.8504525085669098
+benchmark,bpic2012_cancelled,Stack (proposed),1,26,752,0.8630933161123667
+benchmark,bpic2012_cancelled,Stack (proposed),1,27,706,0.8535731414868106
+benchmark,bpic2012_cancelled,Stack (proposed),1,28,686,0.8705562058579828
+benchmark,bpic2012_cancelled,Stack (proposed),1,29,642,0.8674205643775862
+benchmark,bpic2012_cancelled,Stack (proposed),1,30,618,0.8804384203480589
+benchmark,bpic2012_cancelled,Stack (proposed),1,31,582,0.881370449678801
+benchmark,bpic2012_cancelled,Stack (proposed),1,32,547,0.882423685821744
+benchmark,bpic2012_cancelled,Stack (proposed),1,33,509,0.8791591899512945
+benchmark,bpic2012_cancelled,Stack (proposed),1,34,483,0.8874978611760679
+benchmark,bpic2012_cancelled,Stack (proposed),1,35,452,0.8670095755693582
+benchmark,bpic2012_cancelled,Stack (proposed),1,36,424,0.845805266380894
+benchmark,bpic2012_cancelled,Stack (proposed),1,37,399,0.8664358928250315
+benchmark,bpic2012_cancelled,Stack (proposed),1,38,382,0.8477553991749576
+benchmark,bpic2012_cancelled,Stack (proposed),1,39,353,0.8488412314078174
+benchmark,bpic2012_cancelled,Stack (proposed),1,40,337,0.8338132455779514
+benchmark,bpic2012_cancelled,Stack (proposed),2,1,937,0.5035175215510124
+benchmark,bpic2012_cancelled,Stack (proposed),2,2,937,0.4983265625172023
+benchmark,bpic2012_cancelled,Stack (proposed),2,3,937,0.4810527242901652
+benchmark,bpic2012_cancelled,Stack (proposed),2,4,937,0.4798361792779998
+benchmark,bpic2012_cancelled,Stack (proposed),2,5,937,0.5328907531569618
+benchmark,bpic2012_cancelled,Stack (proposed),2,6,937,0.5415882242846605
+benchmark,bpic2012_cancelled,Stack (proposed),2,7,937,0.5231914214310093
+benchmark,bpic2012_cancelled,Stack (proposed),2,8,937,0.5204610760643392
+benchmark,bpic2012_cancelled,Stack (proposed),2,9,937,0.5146508350673228
+benchmark,bpic2012_cancelled,Stack (proposed),2,10,937,0.5224427783465997
+benchmark,bpic2012_cancelled,Stack (proposed),2,11,937,0.5204225429644064
+benchmark,bpic2012_cancelled,Stack (proposed),2,12,937,0.5228941660886701
+benchmark,bpic2012_cancelled,Stack (proposed),2,13,937,0.5654677367858991
+benchmark,bpic2012_cancelled,Stack (proposed),2,14,937,0.6079807554689478
+benchmark,bpic2012_cancelled,Stack (proposed),2,15,937,0.6491286014686616
+benchmark,bpic2012_cancelled,Stack (proposed),2,16,937,0.6933646001915645
+benchmark,bpic2012_cancelled,Stack (proposed),2,17,916,0.7225479934343555
+benchmark,bpic2012_cancelled,Stack (proposed),2,18,915,0.7605949153959137
+benchmark,bpic2012_cancelled,Stack (proposed),2,19,897,0.7732505961691326
+benchmark,bpic2012_cancelled,Stack (proposed),2,20,895,0.8080672899129782
+benchmark,bpic2012_cancelled,Stack (proposed),2,21,872,0.8272344341793211
+benchmark,bpic2012_cancelled,Stack (proposed),2,22,864,0.8382488106530195
+benchmark,bpic2012_cancelled,Stack (proposed),2,23,830,0.830040425895348
+benchmark,bpic2012_cancelled,Stack (proposed),2,24,814,0.8525403598293231
+benchmark,bpic2012_cancelled,Stack (proposed),2,25,770,0.8515850003417
+benchmark,bpic2012_cancelled,Stack (proposed),2,26,752,0.8662805837074381
+benchmark,bpic2012_cancelled,Stack (proposed),2,27,706,0.8606834532374101
+benchmark,bpic2012_cancelled,Stack (proposed),2,28,686,0.88157773598306
+benchmark,bpic2012_cancelled,Stack (proposed),2,29,642,0.8752483530272926
+benchmark,bpic2012_cancelled,Stack (proposed),2,30,618,0.8865963855421687
+benchmark,bpic2012_cancelled,Stack (proposed),2,31,582,0.885746206126059
+benchmark,bpic2012_cancelled,Stack (proposed),2,32,547,0.8817895565468381
+benchmark,bpic2012_cancelled,Stack (proposed),2,33,509,0.880133299154063
+benchmark,bpic2012_cancelled,Stack (proposed),2,34,483,0.8684195517025038
+benchmark,bpic2012_cancelled,Stack (proposed),2,35,452,0.8576281055900621
+benchmark,bpic2012_cancelled,Stack (proposed),2,36,424,0.8459685650132681
+benchmark,bpic2012_cancelled,Stack (proposed),2,37,399,0.8773601870167237
+benchmark,bpic2012_cancelled,Stack (proposed),2,38,382,0.8600339723368114
+benchmark,bpic2012_cancelled,Stack (proposed),2,39,353,0.8562204542834083
+benchmark,bpic2012_cancelled,Stack (proposed),2,40,337,0.8523927053338817
+benchmark,bpic2012_cancelled,Stack (proposed),3,1,937,0.5044918585064571
+benchmark,bpic2012_cancelled,Stack (proposed),3,2,937,0.5033578844227191
+benchmark,bpic2012_cancelled,Stack (proposed),3,3,937,0.509814931025751
+benchmark,bpic2012_cancelled,Stack (proposed),3,4,937,0.4974017681188141
+benchmark,bpic2012_cancelled,Stack (proposed),3,5,937,0.5119177373363719
+benchmark,bpic2012_cancelled,Stack (proposed),3,6,937,0.5175435699265669
+benchmark,bpic2012_cancelled,Stack (proposed),3,7,937,0.503126685823122
+benchmark,bpic2012_cancelled,Stack (proposed),3,8,937,0.513613193733417
+benchmark,bpic2012_cancelled,Stack (proposed),3,9,937,0.5074423930156002
+benchmark,bpic2012_cancelled,Stack (proposed),3,10,937,0.5171307152844293
+benchmark,bpic2012_cancelled,Stack (proposed),3,11,937,0.5187766291244178
+benchmark,bpic2012_cancelled,Stack (proposed),3,12,937,0.5232189450738184
+benchmark,bpic2012_cancelled,Stack (proposed),3,13,937,0.5471480001321134
+benchmark,bpic2012_cancelled,Stack (proposed),3,14,937,0.5788111988197862
+benchmark,bpic2012_cancelled,Stack (proposed),3,15,937,0.6548480144444078
+benchmark,bpic2012_cancelled,Stack (proposed),3,16,937,0.6980271052834385
+benchmark,bpic2012_cancelled,Stack (proposed),3,17,916,0.7409365558912386
+benchmark,bpic2012_cancelled,Stack (proposed),3,18,915,0.7623502859940532
+benchmark,bpic2012_cancelled,Stack (proposed),3,19,897,0.7781673889074079
+benchmark,bpic2012_cancelled,Stack (proposed),3,20,895,0.8044079806560895
+benchmark,bpic2012_cancelled,Stack (proposed),3,21,872,0.8247283282007716
+benchmark,bpic2012_cancelled,Stack (proposed),3,22,864,0.8376458650431254
+benchmark,bpic2012_cancelled,Stack (proposed),3,23,830,0.8320413857053383
+benchmark,bpic2012_cancelled,Stack (proposed),3,24,814,0.8517397615800818
+benchmark,bpic2012_cancelled,Stack (proposed),3,25,770,0.8469281160608813
+benchmark,bpic2012_cancelled,Stack (proposed),3,26,752,0.8600518712177239
+benchmark,bpic2012_cancelled,Stack (proposed),3,27,706,0.8549640287769784
+benchmark,bpic2012_cancelled,Stack (proposed),3,28,686,0.8744755566661843
+benchmark,bpic2012_cancelled,Stack (proposed),3,29,642,0.8745163651573774
+benchmark,bpic2012_cancelled,Stack (proposed),3,30,618,0.8870481927710844
+benchmark,bpic2012_cancelled,Stack (proposed),3,31,582,0.886118610930081
+benchmark,bpic2012_cancelled,Stack (proposed),3,32,547,0.8907329659756844
+benchmark,bpic2012_cancelled,Stack (proposed),3,33,509,0.8941553447833889
+benchmark,bpic2012_cancelled,Stack (proposed),3,34,483,0.8923458620886329
+benchmark,bpic2012_cancelled,Stack (proposed),3,35,452,0.8708592132505176
+benchmark,bpic2012_cancelled,Stack (proposed),3,36,424,0.8504184527454582
+benchmark,bpic2012_cancelled,Stack (proposed),3,37,399,0.8685937780974645
+benchmark,bpic2012_cancelled,Stack (proposed),3,38,382,0.8583353554962388
+benchmark,bpic2012_cancelled,Stack (proposed),3,39,353,0.8682693416349591
+benchmark,bpic2012_cancelled,Stack (proposed),3,40,337,0.8505416152474977
+benchmark,bpic2012_cancelled,Stack (proposed),4,1,937,0.5177472448833549
+benchmark,bpic2012_cancelled,Stack (proposed),4,2,937,0.5153526879589567
+benchmark,bpic2012_cancelled,Stack (proposed),4,3,937,0.50333036077991
+benchmark,bpic2012_cancelled,Stack (proposed),4,4,937,0.5034349506225848
+benchmark,bpic2012_cancelled,Stack (proposed),4,5,937,0.5077726767293105
+benchmark,bpic2012_cancelled,Stack (proposed),4,6,937,0.5267199524391453
+benchmark,bpic2012_cancelled,Stack (proposed),4,7,937,0.5143948651891975
+benchmark,bpic2012_cancelled,Stack (proposed),4,8,937,0.5123195825213859
+benchmark,bpic2012_cancelled,Stack (proposed),4,9,937,0.5124737149211172
+benchmark,bpic2012_cancelled,Stack (proposed),4,10,937,0.5226519580319494
+benchmark,bpic2012_cancelled,Stack (proposed),4,11,937,0.5257841485836333
+benchmark,bpic2012_cancelled,Stack (proposed),4,12,937,0.5217326683621231
+benchmark,bpic2012_cancelled,Stack (proposed),4,13,937,0.5598859420241988
+benchmark,bpic2012_cancelled,Stack (proposed),4,14,937,0.5771432660655503
+benchmark,bpic2012_cancelled,Stack (proposed),4,15,937,0.6504056984950073
+benchmark,bpic2012_cancelled,Stack (proposed),4,16,937,0.686924067774218
+benchmark,bpic2012_cancelled,Stack (proposed),4,17,916,0.7255275114779838
+benchmark,bpic2012_cancelled,Stack (proposed),4,18,915,0.7613412464325376
+benchmark,bpic2012_cancelled,Stack (proposed),4,19,897,0.7715838867663273
+benchmark,bpic2012_cancelled,Stack (proposed),4,20,895,0.8038390421143824
+benchmark,bpic2012_cancelled,Stack (proposed),4,21,872,0.8276025627411421
+benchmark,bpic2012_cancelled,Stack (proposed),4,22,864,0.8436532621563395
+benchmark,bpic2012_cancelled,Stack (proposed),4,23,830,0.8385811080111598
+benchmark,bpic2012_cancelled,Stack (proposed),4,24,814,0.857722253991994
+benchmark,bpic2012_cancelled,Stack (proposed),4,25,770,0.8489392652471467
+benchmark,bpic2012_cancelled,Stack (proposed),4,26,752,0.8651348339183601
+benchmark,bpic2012_cancelled,Stack (proposed),4,27,706,0.8569424460431655
+benchmark,bpic2012_cancelled,Stack (proposed),4,28,686,0.878565885865348
+benchmark,bpic2012_cancelled,Stack (proposed),4,29,642,0.8818213053285728
+benchmark,bpic2012_cancelled,Stack (proposed),4,30,618,0.8954986613119144
+benchmark,bpic2012_cancelled,Stack (proposed),4,31,582,0.8964528442416907
+benchmark,bpic2012_cancelled,Stack (proposed),4,32,547,0.898167585060789
+benchmark,bpic2012_cancelled,Stack (proposed),4,33,509,0.9016406049730838
+benchmark,bpic2012_cancelled,Stack (proposed),4,34,483,0.887497861176068
+benchmark,bpic2012_cancelled,Stack (proposed),4,35,452,0.8817611283643892
+benchmark,bpic2012_cancelled,Stack (proposed),4,36,424,0.8707491324760155
+benchmark,bpic2012_cancelled,Stack (proposed),4,37,399,0.8811814421866571
+benchmark,bpic2012_cancelled,Stack (proposed),4,38,382,0.867799077893715
+benchmark,bpic2012_cancelled,Stack (proposed),4,39,353,0.8672892885967947
+benchmark,bpic2012_cancelled,Stack (proposed),4,40,337,0.867544220485397

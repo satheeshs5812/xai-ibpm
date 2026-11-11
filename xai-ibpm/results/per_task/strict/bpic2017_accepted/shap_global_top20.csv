@@ -1,0 +1,21 @@
+protocol,task,feature,mean_abs_shap,rank
+strict,bpic2017_accepted,cnt_Activity=O_Create Offer,0.28288016226503937,1
+strict,bpic2017_accepted,cnt_Resource=User_1,0.155280959207944,2
+strict,bpic2017_accepted,static_ApplicationType=New credit,0.10525400171801504,3
+strict,bpic2017_accepted,static_RequestedAmount,0.07787971012630365,4
+strict,bpic2017_accepted,FirstWithdrawalAmount_mean,0.06798482272526006,5
+strict,bpic2017_accepted,month_mean,0.06719810181005678,6
+strict,bpic2017_accepted,cnt_Action=Deleted,0.057962250723480754,7
+strict,bpic2017_accepted,cnt_Activity=W_Handle leads,0.055073548247182955,8
+strict,bpic2017_accepted,OfferedAmount_max,0.048873946479154336,9
+strict,bpic2017_accepted,FirstWithdrawalAmount_max,0.04211028600087112,10
+strict,bpic2017_accepted,static_LoanGoal=Home improvement,0.04203373577119534,11
+strict,bpic2017_accepted,static_ApplicationType=Limit raise,0.03809656641836493,12
+strict,bpic2017_accepted,cnt_Activity=W_Call after offers,0.03465941181200492,13
+strict,bpic2017_accepted,cnt_Activity=W_Validate application,0.028305257264987005,14
+strict,bpic2017_accepted,cnt_Activity=O_Created,0.026270693360818977,15
+strict,bpic2017_accepted,timesincemidnight_mean,0.024179110440656147,16
+strict,bpic2017_accepted,month_max,0.02161594923981485,17
+strict,bpic2017_accepted,NumberOfTerms_mean,0.02060531510800174,18
+strict,bpic2017_accepted,timesincemidnight_max,0.01953358268533503,19
+strict,bpic2017_accepted,static_LoanGoal=Existing loan takeover,0.018252214597418017,20

@@ -1,0 +1,4 @@
+[xai benchmark/sepsis_cases_2 07:57:40 +2s] global shap done; max additivity error 1.6547862848881323e-06
+[xai benchmark/sepsis_cases_2 07:57:40 +2s] waterfall case 1804 p 0.316 label 0
+[xai benchmark/sepsis_cases_2 07:58:11 +33s] LIME done 0.224s/inst; SHAP 0.0196s/inst
+[xai benchmark/sepsis_cases_2 07:59:01 +83s] DONE (full)

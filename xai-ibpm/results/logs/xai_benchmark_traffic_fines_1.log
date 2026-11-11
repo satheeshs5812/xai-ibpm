@@ -1,0 +1,4 @@
+[xai benchmark/traffic_fines_1 08:27:35 +1s] global shap done; max additivity error 5.538681198125062e-07
+[xai benchmark/traffic_fines_1 08:27:36 +1s] waterfall case 5352 p 0.425 label 0
+[xai benchmark/traffic_fines_1 08:28:02 +28s] LIME done 0.182s/inst; SHAP 0.0166s/inst
+[xai benchmark/traffic_fines_1 08:28:43 +69s] DONE (full)

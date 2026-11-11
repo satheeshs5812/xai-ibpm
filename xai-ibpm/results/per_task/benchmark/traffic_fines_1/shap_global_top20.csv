@@ -1,0 +1,21 @@
+protocol,task,feature,mean_abs_shap,rank
+benchmark,traffic_fines_1,cnt_Activity=Payment,0.5556405405140807,1
+benchmark,traffic_fines_1,cnt_Activity=Send Fine,0.35104915573278234,2
+benchmark,traffic_fines_1,idx_act_lag1,0.29494170117123186,3
+benchmark,traffic_fines_1,cnt_lastSent=N,0.18909794122962037,4
+benchmark,traffic_fines_1,static_amount,0.14938704136518174,5
+benchmark,traffic_fines_1,cnt_Activity=Insert Date Appeal to Prefecture,0.06512223917679398,6
+benchmark,traffic_fines_1,expense_max,0.06342988663793987,7
+benchmark,traffic_fines_1,idx_tsl_lag1,0.05095278137183722,8
+benchmark,traffic_fines_1,idx_act_lag2,0.04443846051386071,9
+benchmark,traffic_fines_1,expense_std,0.02943914785036781,10
+benchmark,traffic_fines_1,event_nr_sum,0.028849867940909747,11
+benchmark,traffic_fines_1,timesincelastevent_max,0.026943529471889174,12
+benchmark,traffic_fines_1,idx_act_lag3,0.02333343860967997,13
+benchmark,traffic_fines_1,event_nr_max,0.02189702105223032,14
+benchmark,traffic_fines_1,open_cases_min,0.020783901046906392,15
+benchmark,traffic_fines_1,idx_tsl_lag2,0.017245709218814534,16
+benchmark,traffic_fines_1,cnt_Activity=Add penalty,0.017073587717468502,17
+benchmark,traffic_fines_1,expense_mean,0.014621250696677407,18
+benchmark,traffic_fines_1,timesincelastevent_sum,0.013592055317660926,19
+benchmark,traffic_fines_1,cnt_dismissal=NIL,0.012308829240736164,20

@@ -1,0 +1,21 @@
+protocol,task,feature,mean_abs_shap,rank
+strict,sepsis_cases_1,weekday_mean,0.09453064824640169,1
+strict,sepsis_cases_1,static_Age,0.09065888348694377,2
+strict,sepsis_cases_1,static_SIRSCritHeartRate=False,0.09061738000022898,3
+strict,sepsis_cases_1,month_mean,0.09060735505508055,4
+strict,sepsis_cases_1,hour_mean,0.06492110298424764,5
+strict,sepsis_cases_1,static_Diagnose=other,0.06272142295665786,6
+strict,sepsis_cases_1,timesincemidnight_max,0.05397247274659276,7
+strict,sepsis_cases_1,month_max,0.05330665801319089,8
+strict,sepsis_cases_1,cnt_Activity=IV Liquid,0.048220668629629364,9
+strict,sepsis_cases_1,static_Diagnose=B,0.045664009689866475,10
+strict,sepsis_cases_1,static_SIRSCritTachypnea=False,0.04342144797547382,11
+strict,sepsis_cases_1,static_DiagnosticUrinarySediment=True,0.04203200498166868,12
+strict,sepsis_cases_1,Leucocytes_max,0.04048556337160638,13
+strict,sepsis_cases_1,static_DiagnosticECG=False,0.03942837032364748,14
+strict,sepsis_cases_1,static_SIRSCritTachypnea=True,0.03920134409420195,15
+strict,sepsis_cases_1,LacticAcid_max,0.03818378322754664,16
+strict,sepsis_cases_1,static_DiagnosticUrinarySediment=False,0.03299041322690516,17
+strict,sepsis_cases_1,static_Diagnose=C,0.032725411197027654,18
+strict,sepsis_cases_1,timesincemidnight_min,0.030343744784825655,19
+strict,sepsis_cases_1,month_min,0.02999078497471051,20

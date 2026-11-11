@@ -1,0 +1,12 @@
+protocol,task,metric,mean,sd,n
+benchmark,bpic2012_accepted,SHAP-LIME agreement: Jaccard top-5,0.125,0.041666666666666664,100
+benchmark,bpic2012_accepted,SHAP-LIME(no discretization) agreement: Jaccard top-5,0.28178571428571425,0.16669547653491776,100
+benchmark,bpic2012_accepted,SHAP-LIME agreement: Kendall tau on |attr| of LIME top-10,0.39849859144943767,0.13444496230573114,100
+benchmark,bpic2012_accepted,SHAP-LIME sign agreement on shared top-5,1.0,0.0,100
+benchmark,bpic2012_accepted,Stability SHAP: Jaccard top-5 under perturbation (10 reps),0.9833333333333333,0.042557151116012326,100
+benchmark,bpic2012_accepted,Stability SHAP: Jaccard top-5 across 5 training seeds (pairwise),0.5794563492063491,0.11547796124480961,100
+benchmark,bpic2012_accepted,Stability LIME: Jaccard top-5 under perturbation (3 reps),0.951851851851852,0.08927385772736263,30
+benchmark,bpic2012_accepted,Stability LIME: Jaccard top-5 across LIME sampling seeds (3),0.9777777777777777,0.08314794192830981,30
+benchmark,bpic2012_accepted,Runtime ensemble TreeSHAP (s/instance),0.019259397983551026,,100
+benchmark,bpic2012_accepted,Runtime LIME 1000 samples (s/instance),0.1665264892578125,,100
+benchmark,bpic2012_accepted,Perturbed continuous features (count),20.0,,164

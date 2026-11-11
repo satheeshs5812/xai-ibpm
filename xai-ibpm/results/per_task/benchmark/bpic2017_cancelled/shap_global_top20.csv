@@ -1,0 +1,21 @@
+protocol,task,feature,mean_abs_shap,rank
+benchmark,bpic2017_cancelled,cnt_Selected=False,1.0832156998672604,1
+benchmark,bpic2017_cancelled,cnt_Selected=True,0.4311035488350179,2
+benchmark,bpic2017_cancelled,CreditScore_mean,0.20724991581842844,3
+benchmark,bpic2017_cancelled,cnt_Activity=O_Create Offer,0.14470036743856843,4
+benchmark,bpic2017_cancelled,CreditScore_max,0.12403487455269818,5
+benchmark,bpic2017_cancelled,MonthlyCost_max,0.10820317642889916,6
+benchmark,bpic2017_cancelled,static_ApplicationType=New credit,0.07310408769684565,7
+benchmark,bpic2017_cancelled,cnt_Resource=User_1,0.06910885849178389,8
+benchmark,bpic2017_cancelled,CreditScore_sum,0.06528371421401682,9
+benchmark,bpic2017_cancelled,static_RequestedAmount,0.06185265917301335,10
+benchmark,bpic2017_cancelled,static_ApplicationType=Limit raise,0.051399447906384205,11
+benchmark,bpic2017_cancelled,cnt_Accepted=True,0.037966812923071296,12
+benchmark,bpic2017_cancelled,CreditScore_std,0.019373475609531947,13
+benchmark,bpic2017_cancelled,cnt_EventOrigin=Offer,0.018043164429979452,14
+benchmark,bpic2017_cancelled,cnt_Activity=O_Sent (mail and online),0.013949600396787104,15
+benchmark,bpic2017_cancelled,NumberOfTerms_sum,0.013899037316924044,16
+benchmark,bpic2017_cancelled,NumberOfTerms_mean,0.013232631126304122,17
+benchmark,bpic2017_cancelled,NumberOfTerms_max,0.013044100835732372,18
+benchmark,bpic2017_cancelled,cnt_Activity=O_Cancelled,0.011816621870218895,19
+benchmark,bpic2017_cancelled,static_LoanGoal=Car,0.01152118317992537,20

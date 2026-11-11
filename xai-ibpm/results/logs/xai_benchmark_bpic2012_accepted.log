@@ -1,0 +1,4 @@
+[xai benchmark/bpic2012_accepted 07:36:26 +2s] global shap done; max additivity error 1.8384085285205742e-06
+[xai benchmark/bpic2012_accepted 07:36:26 +2s] waterfall case 29075 p 0.5 label 1
+[xai benchmark/bpic2012_accepted 07:36:50 +26s] LIME done 0.167s/inst; SHAP 0.0193s/inst
+[xai benchmark/bpic2012_accepted 07:37:23 +59s] DONE (full)

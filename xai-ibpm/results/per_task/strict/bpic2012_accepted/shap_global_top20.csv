@@ -1,0 +1,21 @@
+protocol,task,feature,mean_abs_shap,rank
+strict,bpic2012_accepted,static_AMOUNT_REQ,0.1444191702571564,1
+strict,bpic2012_accepted,month_max,0.0611407950043129,2
+strict,bpic2012_accepted,cnt_Activity=O_SENT_BACK-COMPLETE,0.06097062219226301,3
+strict,bpic2012_accepted,timesincemidnight_max,0.058837297014872184,4
+strict,bpic2012_accepted,cnt_Activity=W_Afhandelen leads-SCHEDULE,0.05465053670898395,5
+strict,bpic2012_accepted,timesincemidnight_min,0.051072190225707866,6
+strict,bpic2012_accepted,timesincelastevent_max,0.04909836478740985,7
+strict,bpic2012_accepted,weekday_mean,0.047926161954111125,8
+strict,bpic2012_accepted,cnt_Activity=W_Completeren aanvraag-START,0.03838938320634525,9
+strict,bpic2012_accepted,weekday_max,0.03468658136989145,10
+strict,bpic2012_accepted,month_mean,0.032951739938142835,11
+strict,bpic2012_accepted,weekday_min,0.028134923031193308,12
+strict,bpic2012_accepted,timesincemidnight_std,0.027896054358428003,13
+strict,bpic2012_accepted,hour_std,0.023434060112117454,14
+strict,bpic2012_accepted,timesincelastevent_sum,0.023374607207807336,15
+strict,bpic2012_accepted,cnt_Activity=A_ACCEPTED-COMPLETE,0.022954023347738866,16
+strict,bpic2012_accepted,month_min,0.02228166140816063,17
+strict,bpic2012_accepted,timesincemidnight_mean,0.020741739833526632,18
+strict,bpic2012_accepted,cnt_Resource=10932,0.019476670389327606,19
+strict,bpic2012_accepted,cnt_Activity=W_Afhandelen leads-START,0.01863672781709367,20

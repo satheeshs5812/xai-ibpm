@@ -1,0 +1,281 @@
+protocol,task,feature,mean_abs_shap,rank
+benchmark,bpic2012_accepted,cnt_Activity=O_SENT_BACK-COMPLETE,0.4617135120267595,1
+benchmark,bpic2012_accepted,static_AMOUNT_REQ,0.1379714405129597,2
+benchmark,bpic2012_accepted,cnt_Activity=W_Valideren aanvraag-SCHEDULE,0.1037044870088317,3
+benchmark,bpic2012_accepted,cnt_Activity=O_ACCEPTED-COMPLETE,0.0823661936143244,4
+benchmark,bpic2012_accepted,cnt_Resource=11049,0.0627744251238212,5
+benchmark,bpic2012_accepted,cnt_Activity=A_CANCELLED-COMPLETE,0.0607985768978298,6
+benchmark,bpic2012_accepted,open_cases_max,0.04961319710848,7
+benchmark,bpic2012_accepted,open_cases_min,0.0428264326708187,8
+benchmark,bpic2012_accepted,cnt_Activity=W_Valideren aanvraag-START,0.0401961721337225,9
+benchmark,bpic2012_accepted,timesincelastevent_sum,0.036874697136573,10
+benchmark,bpic2012_accepted,open_cases_mean,0.035297804292301,11
+benchmark,bpic2012_accepted,cnt_Activity=O_DECLINED-COMPLETE,0.0345829678633889,12
+benchmark,bpic2012_accepted,cnt_Activity=A_DECLINED-COMPLETE,0.0332510424545618,13
+benchmark,bpic2012_accepted,cnt_Activity=A_APPROVED-COMPLETE,0.0331900644765331,14
+benchmark,bpic2012_accepted,idx_act_lag1,0.0297411205054991,15
+benchmark,bpic2012_accepted,cnt_Activity=W_Completeren aanvraag-START,0.0282559725315453,16
+benchmark,bpic2012_accepted,month_mean,0.0268175435524146,17
+benchmark,bpic2012_accepted,weekday_min,0.0233695075265612,18
+benchmark,bpic2012_accepted,cnt_Activity=W_Nabellen offertes-COMPLETE,0.0231878579234688,19
+benchmark,bpic2012_accepted,timesincecasestart_max,0.0209099483211195,20
+benchmark,bpic2012_cancelled,cnt_Activity=O_SENT_BACK-COMPLETE,0.5388073258101537,1
+benchmark,bpic2012_cancelled,open_cases_min,0.0628245478747338,2
+benchmark,bpic2012_cancelled,timesincelastevent_sum,0.058380685436489,3
+benchmark,bpic2012_cancelled,cnt_Activity=A_CANCELLED-COMPLETE,0.05158458394252,4
+benchmark,bpic2012_cancelled,timesincelastevent_max,0.0447787576199522,5
+benchmark,bpic2012_cancelled,open_cases_max,0.0376066516678435,6
+benchmark,bpic2012_cancelled,timesincemidnight_max,0.036489927631238,7
+benchmark,bpic2012_cancelled,timesincelastevent_std,0.0332309843282575,8
+benchmark,bpic2012_cancelled,cnt_Resource=11049,0.0329014254242936,9
+benchmark,bpic2012_cancelled,static_AMOUNT_REQ,0.0327052447165216,10
+benchmark,bpic2012_cancelled,open_cases_mean,0.0264552713379702,11
+benchmark,bpic2012_cancelled,cnt_Resource=11009,0.0227888251324329,12
+benchmark,bpic2012_cancelled,cnt_Resource=11180,0.0168078016224666,13
+benchmark,bpic2012_cancelled,cnt_Resource=11259,0.0164843950958701,14
+benchmark,bpic2012_cancelled,hour_std,0.0138169021942965,15
+benchmark,bpic2012_cancelled,timesincecasestart_mean,0.0133263294532065,16
+benchmark,bpic2012_cancelled,cnt_Activity=O_SELECTED-COMPLETE,0.0122816807921671,17
+benchmark,bpic2012_cancelled,weekday_mean,0.0120378888694496,18
+benchmark,bpic2012_cancelled,cnt_Activity=W_Completeren aanvraag-START,0.0116397729120387,19
+benchmark,bpic2012_cancelled,hour_min,0.0113898694431833,20
+benchmark,bpic2012_declined,static_AMOUNT_REQ,0.1865089913434883,1
+benchmark,bpic2012_declined,cnt_Activity=O_ACCEPTED-COMPLETE,0.0836230912839509,2
+benchmark,bpic2012_declined,cnt_Activity=A_DECLINED-COMPLETE,0.0750253552155481,3
+benchmark,bpic2012_declined,cnt_Activity=O_DECLINED-COMPLETE,0.061278416520382,4
+benchmark,bpic2012_declined,timesincelastevent_max,0.0526894907911157,5
+benchmark,bpic2012_declined,open_cases_mean,0.0486075534961814,6
+benchmark,bpic2012_declined,month_max,0.046129425156121,7
+benchmark,bpic2012_declined,cnt_Activity=A_CANCELLED-COMPLETE,0.0439379034691011,8
+benchmark,bpic2012_declined,timesincemidnight_max,0.0431248603256956,9
+benchmark,bpic2012_declined,cnt_Activity=A_APPROVED-COMPLETE,0.0425150450529291,10
+benchmark,bpic2012_declined,open_cases_min,0.0346431025681645,11
+benchmark,bpic2012_declined,timesincemidnight_min,0.0338207574053929,12
+benchmark,bpic2012_declined,cnt_Resource=10982,0.0291813282156471,13
+benchmark,bpic2012_declined,cnt_Resource=11259,0.0278800930556053,14
+benchmark,bpic2012_declined,open_cases_max,0.0259479289325878,15
+benchmark,bpic2012_declined,month_mean,0.0207005635100528,16
+benchmark,bpic2012_declined,hour_max,0.0203902218685707,17
+benchmark,bpic2012_declined,cnt_Activity=W_Afhandelen leads-SCHEDULE,0.0190956073915172,18
+benchmark,bpic2012_declined,month_std,0.0184562880637223,19
+benchmark,bpic2012_declined,cnt_Activity=W_Afhandelen leads-START,0.0179310938018487,20
+benchmark,bpic2017_accepted,cnt_Selected=False,0.88937208045182,1
+benchmark,bpic2017_accepted,CreditScore_mean,0.8506699522129811,2
+benchmark,bpic2017_accepted,CreditScore_sum,0.4112882131085641,3
+benchmark,bpic2017_accepted,cnt_Activity=O_Create Offer,0.2651015869225604,4
+benchmark,bpic2017_accepted,static_ApplicationType=New credit,0.1613927027245338,5
+benchmark,bpic2017_accepted,static_ApplicationType=Limit raise,0.1266450896089704,6
+benchmark,bpic2017_accepted,cnt_Selected=True,0.1190371902762959,7
+benchmark,bpic2017_accepted,CreditScore_max,0.1119399764382795,8
+benchmark,bpic2017_accepted,CreditScore_std,0.1013321364284267,9
+benchmark,bpic2017_accepted,cnt_Resource=User_1,0.0751298918796287,10
+benchmark,bpic2017_accepted,static_RequestedAmount,0.0709788988586123,11
+benchmark,bpic2017_accepted,cnt_Accepted=True,0.0502796226479494,12
+benchmark,bpic2017_accepted,cnt_Action=Created,0.0293767662228848,13
+benchmark,bpic2017_accepted,cnt_Activity=W_Handle leads,0.0275039327517666,14
+benchmark,bpic2017_accepted,cnt_EventOrigin=Offer,0.025041398790769,15
+benchmark,bpic2017_accepted,MonthlyCost_mean,0.0225005716242546,16
+benchmark,bpic2017_accepted,cnt_Activity=O_Created,0.0209491577379768,17
+benchmark,bpic2017_accepted,cnt_Activity=O_Cancelled,0.0194167168801189,18
+benchmark,bpic2017_accepted,cnt_Action=Deleted,0.0178776638111169,19
+benchmark,bpic2017_accepted,OfferedAmount_std,0.017161705362356,20
+benchmark,bpic2017_cancelled,cnt_Selected=False,1.0832156998672604,1
+benchmark,bpic2017_cancelled,cnt_Selected=True,0.4311035488350179,2
+benchmark,bpic2017_cancelled,CreditScore_mean,0.2072499158184284,3
+benchmark,bpic2017_cancelled,cnt_Activity=O_Create Offer,0.1447003674385684,4
+benchmark,bpic2017_cancelled,CreditScore_max,0.1240348745526981,5
+benchmark,bpic2017_cancelled,MonthlyCost_max,0.1082031764288991,6
+benchmark,bpic2017_cancelled,static_ApplicationType=New credit,0.0731040876968456,7
+benchmark,bpic2017_cancelled,cnt_Resource=User_1,0.0691088584917838,8
+benchmark,bpic2017_cancelled,CreditScore_sum,0.0652837142140168,9
+benchmark,bpic2017_cancelled,static_RequestedAmount,0.0618526591730133,10
+benchmark,bpic2017_cancelled,static_ApplicationType=Limit raise,0.0513994479063842,11
+benchmark,bpic2017_cancelled,cnt_Accepted=True,0.0379668129230712,12
+benchmark,bpic2017_cancelled,CreditScore_std,0.0193734756095319,13
+benchmark,bpic2017_cancelled,cnt_EventOrigin=Offer,0.0180431644299794,14
+benchmark,bpic2017_cancelled,cnt_Activity=O_Sent (mail and online),0.0139496003967871,15
+benchmark,bpic2017_cancelled,NumberOfTerms_sum,0.013899037316924,16
+benchmark,bpic2017_cancelled,NumberOfTerms_mean,0.0132326311263041,17
+benchmark,bpic2017_cancelled,NumberOfTerms_max,0.0130441008357323,18
+benchmark,bpic2017_cancelled,cnt_Activity=O_Cancelled,0.0118166218702188,19
+benchmark,bpic2017_cancelled,static_LoanGoal=Car,0.0115211831799253,20
+benchmark,bpic2017_refused,CreditScore_mean,0.6698941184840458,1
+benchmark,bpic2017_refused,cnt_Selected=True,0.4130955425164703,2
+benchmark,bpic2017_refused,CreditScore_sum,0.3000511971867258,3
+benchmark,bpic2017_refused,cnt_Accepted=True,0.2672115394514485,4
+benchmark,bpic2017_refused,CreditScore_std,0.1684516830909842,5
+benchmark,bpic2017_refused,MonthlyCost_max,0.1265872141767619,6
+benchmark,bpic2017_refused,CreditScore_max,0.1168506609589905,7
+benchmark,bpic2017_refused,static_ApplicationType=Limit raise,0.1064581721638137,8
+benchmark,bpic2017_refused,static_ApplicationType=New credit,0.0890506406902882,9
+benchmark,bpic2017_refused,NumberOfTerms_std,0.063372926056521,10
+benchmark,bpic2017_refused,cnt_Selected=False,0.0602045378014698,11
+benchmark,bpic2017_refused,cnt_Activity=O_Create Offer,0.0496149904101651,12
+benchmark,bpic2017_refused,cnt_Accepted=False,0.0475786685172036,13
+benchmark,bpic2017_refused,cnt_Activity=W_Handle leads,0.043290208560235,14
+benchmark,bpic2017_refused,OfferedAmount_std,0.0406641737262661,15
+benchmark,bpic2017_refused,static_LoanGoal=Other; see explanation,0.0334310395155897,16
+benchmark,bpic2017_refused,static_RequestedAmount,0.033083130881349,17
+benchmark,bpic2017_refused,open_cases_mean,0.0312928510901112,18
+benchmark,bpic2017_refused,NumberOfTerms_sum,0.0265670251968952,19
+benchmark,bpic2017_refused,open_cases_max,0.0260839111865908,20
+benchmark,sepsis_cases_1,weekday_mean,0.1244766886105402,1
+benchmark,sepsis_cases_1,static_SIRSCritHeartRate=False,0.1191701883231136,2
+benchmark,sepsis_cases_1,open_cases_min,0.0993997469536639,3
+benchmark,sepsis_cases_1,static_DiagnosticECG=False,0.0972688850287156,4
+benchmark,sepsis_cases_1,open_cases_mean,0.0908106061660907,5
+benchmark,sepsis_cases_1,Leucocytes_max,0.0788217795018882,6
+benchmark,sepsis_cases_1,static_DiagnosticXthorax=False,0.0754333482363805,7
+benchmark,sepsis_cases_1,static_SIRSCritLeucos=False,0.074275793077321,8
+benchmark,sepsis_cases_1,timesincemidnight_mean,0.0736388466326733,9
+benchmark,sepsis_cases_1,static_Diagnose=D,0.0654407832163037,10
+benchmark,sepsis_cases_1,hour_mean,0.0603901301473897,11
+benchmark,sepsis_cases_1,static_SIRSCritTachypnea=True,0.0538655702566405,12
+benchmark,sepsis_cases_1,static_Age,0.0520157309137743,13
+benchmark,sepsis_cases_1,timesincemidnight_min,0.0500228600857537,14
+benchmark,sepsis_cases_1,static_DiagnosticUrinarySediment=True,0.0494162906216519,15
+benchmark,sepsis_cases_1,timesincemidnight_max,0.0443734875460346,16
+benchmark,sepsis_cases_1,LacticAcid_max,0.0383835092770577,17
+benchmark,sepsis_cases_1,CRP_max,0.0370457074160937,18
+benchmark,sepsis_cases_1,hour_max,0.0356622748152432,19
+benchmark,sepsis_cases_1,hour_min,0.0348229155860706,20
+benchmark,sepsis_cases_2,static_Age,1.079407161208423,1
+benchmark,sepsis_cases_2,static_Diagnose=G,0.9834299056750768,2
+benchmark,sepsis_cases_2,open_cases_max,0.5142003195799911,3
+benchmark,sepsis_cases_2,static_SIRSCritTachypnea=False,0.4159003806025975,4
+benchmark,sepsis_cases_2,weekday_mean,0.3807348439670935,5
+benchmark,sepsis_cases_2,static_DiagnosticArtAstrup=False,0.3582577908254392,6
+benchmark,sepsis_cases_2,static_Diagnose=other,0.3453122342166639,7
+benchmark,sepsis_cases_2,static_Hypotensie=True,0.3344382035234149,8
+benchmark,sepsis_cases_2,LacticAcid_max,0.2463646265874547,9
+benchmark,sepsis_cases_2,timesincemidnight_mean,0.243862644844816,10
+benchmark,sepsis_cases_2,hour_std,0.2426369474930753,11
+benchmark,sepsis_cases_2,open_cases_min,0.2358288491124794,12
+benchmark,sepsis_cases_2,timesincemidnight_max,0.2255325834232507,13
+benchmark,sepsis_cases_2,static_SIRSCritTachypnea=True,0.206319294475816,14
+benchmark,sepsis_cases_2,static_DiagnosticUrinaryCulture=False,0.2047856860649901,15
+benchmark,sepsis_cases_2,month_min,0.1795808335230028,16
+benchmark,sepsis_cases_2,static_DiagnosticUrinarySediment=True,0.1634504881741459,17
+benchmark,sepsis_cases_2,static_Diagnose=C,0.1500174616736302,18
+benchmark,sepsis_cases_2,hour_max,0.1438275688479749,19
+benchmark,sepsis_cases_2,hour_mean,0.1383203593900014,20
+benchmark,sepsis_cases_3,static_Age,0.6183501697343846,1
+benchmark,sepsis_cases_3,CRP_max,0.2376517049974233,2
+benchmark,sepsis_cases_3,static_SIRSCritTemperature=True,0.2143688653198499,3
+benchmark,sepsis_cases_3,timesincemidnight_max,0.1811101909942857,4
+benchmark,sepsis_cases_3,LacticAcid_max,0.1604511030889112,5
+benchmark,sepsis_cases_3,timesincemidnight_min,0.1183045830337905,6
+benchmark,sepsis_cases_3,CRP_mean,0.0950617137496303,7
+benchmark,sepsis_cases_3,open_cases_min,0.0941030746818778,8
+benchmark,sepsis_cases_3,month_min,0.087433658264349,9
+benchmark,sepsis_cases_3,weekday_mean,0.0870242205081082,10
+benchmark,sepsis_cases_3,Leucocytes_max,0.0860229151243,11
+benchmark,sepsis_cases_3,timesincemidnight_std,0.0837102510167912,12
+benchmark,sepsis_cases_3,open_cases_mean,0.0664423371101823,13
+benchmark,sepsis_cases_3,timesincecasestart_mean,0.0640005320708884,14
+benchmark,sepsis_cases_3,month_mean,0.0634436499415986,15
+benchmark,sepsis_cases_3,timesincecasestart_max,0.0616619670152337,16
+benchmark,sepsis_cases_3,hour_min,0.0556641104293752,17
+benchmark,sepsis_cases_3,timesincemidnight_mean,0.0549689821825217,18
+benchmark,sepsis_cases_3,static_DiagnosticECG=False,0.0488761041090321,19
+benchmark,sepsis_cases_3,CRP_std,0.0486534265901037,20
+benchmark,traffic_fines_1,cnt_Activity=Payment,0.5556405405140807,1
+benchmark,traffic_fines_1,cnt_Activity=Send Fine,0.3510491557327823,2
+benchmark,traffic_fines_1,idx_act_lag1,0.2949417011712318,3
+benchmark,traffic_fines_1,cnt_lastSent=N,0.1890979412296203,4
+benchmark,traffic_fines_1,static_amount,0.1493870413651817,5
+benchmark,traffic_fines_1,cnt_Activity=Insert Date Appeal to Prefecture,0.0651222391767939,6
+benchmark,traffic_fines_1,expense_max,0.0634298866379398,7
+benchmark,traffic_fines_1,idx_tsl_lag1,0.0509527813718372,8
+benchmark,traffic_fines_1,idx_act_lag2,0.0444384605138607,9
+benchmark,traffic_fines_1,expense_std,0.0294391478503678,10
+benchmark,traffic_fines_1,event_nr_sum,0.0288498679409097,11
+benchmark,traffic_fines_1,timesincelastevent_max,0.0269435294718891,12
+benchmark,traffic_fines_1,idx_act_lag3,0.0233334386096799,13
+benchmark,traffic_fines_1,event_nr_max,0.0218970210522303,14
+benchmark,traffic_fines_1,open_cases_min,0.0207839010469063,15
+benchmark,traffic_fines_1,idx_tsl_lag2,0.0172457092188145,16
+benchmark,traffic_fines_1,cnt_Activity=Add penalty,0.0170735877174685,17
+benchmark,traffic_fines_1,expense_mean,0.0146212506966774,18
+benchmark,traffic_fines_1,timesincelastevent_sum,0.0135920553176609,19
+benchmark,traffic_fines_1,cnt_dismissal=NIL,0.0123088292407361,20
+strict,bpic2012_accepted,static_AMOUNT_REQ,0.1444191702571564,1
+strict,bpic2012_accepted,month_max,0.0611407950043129,2
+strict,bpic2012_accepted,cnt_Activity=O_SENT_BACK-COMPLETE,0.060970622192263,3
+strict,bpic2012_accepted,timesincemidnight_max,0.0588372970148721,4
+strict,bpic2012_accepted,cnt_Activity=W_Afhandelen leads-SCHEDULE,0.0546505367089839,5
+strict,bpic2012_accepted,timesincemidnight_min,0.0510721902257078,6
+strict,bpic2012_accepted,timesincelastevent_max,0.0490983647874098,7
+strict,bpic2012_accepted,weekday_mean,0.0479261619541111,8
+strict,bpic2012_accepted,cnt_Activity=W_Completeren aanvraag-START,0.0383893832063452,9
+strict,bpic2012_accepted,weekday_max,0.0346865813698914,10
+strict,bpic2012_accepted,month_mean,0.0329517399381428,11
+strict,bpic2012_accepted,weekday_min,0.0281349230311933,12
+strict,bpic2012_accepted,timesincemidnight_std,0.027896054358428,13
+strict,bpic2012_accepted,hour_std,0.0234340601121174,14
+strict,bpic2012_accepted,timesincelastevent_sum,0.0233746072078073,15
+strict,bpic2012_accepted,cnt_Activity=A_ACCEPTED-COMPLETE,0.0229540233477388,16
+strict,bpic2012_accepted,month_min,0.0222816614081606,17
+strict,bpic2012_accepted,timesincemidnight_mean,0.0207417398335266,18
+strict,bpic2012_accepted,cnt_Resource=10932,0.0194766703893276,19
+strict,bpic2012_accepted,cnt_Activity=W_Afhandelen leads-START,0.0186367278170936,20
+strict,bpic2017_accepted,cnt_Activity=O_Create Offer,0.2828801622650393,1
+strict,bpic2017_accepted,cnt_Resource=User_1,0.155280959207944,2
+strict,bpic2017_accepted,static_ApplicationType=New credit,0.105254001718015,3
+strict,bpic2017_accepted,static_RequestedAmount,0.0778797101263036,4
+strict,bpic2017_accepted,FirstWithdrawalAmount_mean,0.06798482272526,5
+strict,bpic2017_accepted,month_mean,0.0671981018100567,6
+strict,bpic2017_accepted,cnt_Action=Deleted,0.0579622507234807,7
+strict,bpic2017_accepted,cnt_Activity=W_Handle leads,0.0550735482471829,8
+strict,bpic2017_accepted,OfferedAmount_max,0.0488739464791543,9
+strict,bpic2017_accepted,FirstWithdrawalAmount_max,0.0421102860008711,10
+strict,bpic2017_accepted,static_LoanGoal=Home improvement,0.0420337357711953,11
+strict,bpic2017_accepted,static_ApplicationType=Limit raise,0.0380965664183649,12
+strict,bpic2017_accepted,cnt_Activity=W_Call after offers,0.0346594118120049,13
+strict,bpic2017_accepted,cnt_Activity=W_Validate application,0.028305257264987,14
+strict,bpic2017_accepted,cnt_Activity=O_Created,0.0262706933608189,15
+strict,bpic2017_accepted,timesincemidnight_mean,0.0241791104406561,16
+strict,bpic2017_accepted,month_max,0.0216159492398148,17
+strict,bpic2017_accepted,NumberOfTerms_mean,0.0206053151080017,18
+strict,bpic2017_accepted,timesincemidnight_max,0.019533582685335,19
+strict,bpic2017_accepted,static_LoanGoal=Existing loan takeover,0.018252214597418,20
+strict,sepsis_cases_1,weekday_mean,0.0945306482464016,1
+strict,sepsis_cases_1,static_Age,0.0906588834869437,2
+strict,sepsis_cases_1,static_SIRSCritHeartRate=False,0.0906173800002289,3
+strict,sepsis_cases_1,month_mean,0.0906073550550805,4
+strict,sepsis_cases_1,hour_mean,0.0649211029842476,5
+strict,sepsis_cases_1,static_Diagnose=other,0.0627214229566578,6
+strict,sepsis_cases_1,timesincemidnight_max,0.0539724727465927,7
+strict,sepsis_cases_1,month_max,0.0533066580131908,8
+strict,sepsis_cases_1,cnt_Activity=IV Liquid,0.0482206686296293,9
+strict,sepsis_cases_1,static_Diagnose=B,0.0456640096898664,10
+strict,sepsis_cases_1,static_SIRSCritTachypnea=False,0.0434214479754738,11
+strict,sepsis_cases_1,static_DiagnosticUrinarySediment=True,0.0420320049816686,12
+strict,sepsis_cases_1,Leucocytes_max,0.0404855633716063,13
+strict,sepsis_cases_1,static_DiagnosticECG=False,0.0394283703236474,14
+strict,sepsis_cases_1,static_SIRSCritTachypnea=True,0.0392013440942019,15
+strict,sepsis_cases_1,LacticAcid_max,0.0381837832275466,16
+strict,sepsis_cases_1,static_DiagnosticUrinarySediment=False,0.0329904132269051,17
+strict,sepsis_cases_1,static_Diagnose=C,0.0327254111970276,18
+strict,sepsis_cases_1,timesincemidnight_min,0.0303437447848256,19
+strict,sepsis_cases_1,month_min,0.0299907849747105,20
+strict,traffic_fines_1,idx_act_lag1,0.1913943401398129,1
+strict,traffic_fines_1,cnt_Activity=Payment,0.1865136296369316,2
+strict,traffic_fines_1,idx_act_lag3,0.0699823403305994,3
+strict,traffic_fines_1,static_amount,0.0561059172269442,4
+strict,traffic_fines_1,expense_sum,0.0548199092605991,5
+strict,traffic_fines_1,cnt_notificationType=P,0.0464421817498807,6
+strict,traffic_fines_1,expense_std,0.038832066082829,7
+strict,traffic_fines_1,cnt_lastSent=N,0.0371836087971453,8
+strict,traffic_fines_1,expense_max,0.0327308538550438,9
+strict,traffic_fines_1,idx_act_lag2,0.0313996239798876,10
+strict,traffic_fines_1,cnt_Activity=Send Fine,0.0277212643131948,11
+strict,traffic_fines_1,idx_tsl_lag1,0.0219803343479647,12
+strict,traffic_fines_1,cnt_lastSent=P,0.0208184584414686,13
+strict,traffic_fines_1,cnt_Activity=Insert Date Appeal to Prefecture,0.0202977502908491,14
+strict,traffic_fines_1,static_article=7.0,0.0187228257228939,15
+strict,traffic_fines_1,timesincelastevent_max,0.0186066610188467,16
+strict,traffic_fines_1,cnt_dismissal=NIL,0.0170820031071566,17
+strict,traffic_fines_1,cnt_lastSent=missing,0.0142976683817221,18
+strict,traffic_fines_1,timesincelastevent_std,0.0106366390890446,19
+strict,traffic_fines_1,cnt_Activity=Insert Fine Notification,0.0103917100663595,20

@@ -1,0 +1,39 @@
+protocol,task,model,bin,n,mean_pred,frac_pos
+benchmark,sepsis_cases_2,LGBM (raw),0,1351,0.07092644722041688,0.030347890451517395
+benchmark,sepsis_cases_2,LGBM (raw),1,295,0.1304027931922573,0.12203389830508475
+benchmark,sepsis_cases_2,LGBM (raw),2,88,0.24294464154676956,0.2840909090909091
+benchmark,sepsis_cases_2,LGBM (raw),3,44,0.3244693211533807,0.2727272727272727
+benchmark,sepsis_cases_2,LGBM (raw),4,32,0.47117774188518524,0.84375
+benchmark,sepsis_cases_2,LGBM (raw),5,49,0.5245019148807136,1.0
+benchmark,sepsis_cases_2,Stack: meta-LR output,0,1281,0.021620012404711453,0.04137392661982826
+benchmark,sepsis_cases_2,Stack: meta-LR output,1,107,0.14725732099974942,0.08411214953271028
+benchmark,sepsis_cases_2,Stack: meta-LR output,2,72,0.24196212521571037,0.06944444444444445
+benchmark,sepsis_cases_2,Stack: meta-LR output,3,33,0.34517422966345335,0.030303030303030304
+benchmark,sepsis_cases_2,Stack: meta-LR output,4,42,0.45064479861390466,0.023809523809523808
+benchmark,sepsis_cases_2,Stack: meta-LR output,5,44,0.5476264417027087,0.1590909090909091
+benchmark,sepsis_cases_2,Stack: meta-LR output,6,38,0.6342413295094436,0.07894736842105263
+benchmark,sepsis_cases_2,Stack: meta-LR output,7,36,0.7494417252600047,0.2777777777777778
+benchmark,sepsis_cases_2,Stack: meta-LR output,8,45,0.8605029197509559,0.24444444444444444
+benchmark,sepsis_cases_2,Stack: meta-LR output,9,161,0.9797719602919549,0.5590062111801242
+benchmark,sepsis_cases_2,"Stack (proposed, calibrated)",0,1281,0.021620012404711453,0.04137392661982826
+benchmark,sepsis_cases_2,"Stack (proposed, calibrated)",1,107,0.14725732099974942,0.08411214953271028
+benchmark,sepsis_cases_2,"Stack (proposed, calibrated)",2,72,0.24196212521571037,0.06944444444444445
+benchmark,sepsis_cases_2,"Stack (proposed, calibrated)",3,33,0.34517422966345335,0.030303030303030304
+benchmark,sepsis_cases_2,"Stack (proposed, calibrated)",4,42,0.45064479861390466,0.023809523809523808
+benchmark,sepsis_cases_2,"Stack (proposed, calibrated)",5,44,0.5476264417027087,0.1590909090909091
+benchmark,sepsis_cases_2,"Stack (proposed, calibrated)",6,38,0.6342413295094436,0.07894736842105263
+benchmark,sepsis_cases_2,"Stack (proposed, calibrated)",7,36,0.7494417252600047,0.2777777777777778
+benchmark,sepsis_cases_2,"Stack (proposed, calibrated)",8,45,0.8605029197509559,0.24444444444444444
+benchmark,sepsis_cases_2,"Stack (proposed, calibrated)",9,161,0.9797719602919549,0.5590062111801242
+benchmark,sepsis_cases_2,LR,0,1242,0.035850003673497936,0.024154589371980676
+benchmark,sepsis_cases_2,LR,1,281,0.1405180976643257,0.08540925266903915
+benchmark,sepsis_cases_2,LR,2,141,0.24429109967346732,0.2695035460992908
+benchmark,sepsis_cases_2,LR,3,53,0.34028710396784656,0.11320754716981132
+benchmark,sepsis_cases_2,LR,4,32,0.4390806667506695,0.0625
+benchmark,sepsis_cases_2,LR,5,23,0.5514869249385336,0.5652173913043478
+benchmark,sepsis_cases_2,LR,9,71,0.9690144909939296,1.0
+benchmark,sepsis_cases_2,Transformer,0,1643,0.03225125611844182,0.057212416311625075
+benchmark,sepsis_cases_2,Transformer,1,90,0.1325986181696256,0.32222222222222224
+benchmark,sepsis_cases_2,Transformer,2,42,0.2491057547075408,0.3333333333333333
+benchmark,sepsis_cases_2,Transformer,3,22,0.3490418954329057,0.4090909090909091
+benchmark,sepsis_cases_2,Transformer,8,22,0.8515934375199404,0.7272727272727273

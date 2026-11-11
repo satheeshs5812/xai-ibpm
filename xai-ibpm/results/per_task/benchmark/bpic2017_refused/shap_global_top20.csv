@@ -1,0 +1,21 @@
+protocol,task,feature,mean_abs_shap,rank
+benchmark,bpic2017_refused,CreditScore_mean,0.6698941184840458,1
+benchmark,bpic2017_refused,cnt_Selected=True,0.41309554251647035,2
+benchmark,bpic2017_refused,CreditScore_sum,0.30005119718672585,3
+benchmark,bpic2017_refused,cnt_Accepted=True,0.26721153945144854,4
+benchmark,bpic2017_refused,CreditScore_std,0.1684516830909842,5
+benchmark,bpic2017_refused,MonthlyCost_max,0.12658721417676194,6
+benchmark,bpic2017_refused,CreditScore_max,0.11685066095899055,7
+benchmark,bpic2017_refused,static_ApplicationType=Limit raise,0.10645817216381376,8
+benchmark,bpic2017_refused,static_ApplicationType=New credit,0.08905064069028827,9
+benchmark,bpic2017_refused,NumberOfTerms_std,0.06337292605652108,10
+benchmark,bpic2017_refused,cnt_Selected=False,0.06020453780146984,11
+benchmark,bpic2017_refused,cnt_Activity=O_Create Offer,0.04961499041016519,12
+benchmark,bpic2017_refused,cnt_Accepted=False,0.04757866851720369,13
+benchmark,bpic2017_refused,cnt_Activity=W_Handle leads,0.04329020856023501,14
+benchmark,bpic2017_refused,OfferedAmount_std,0.04066417372626619,15
+benchmark,bpic2017_refused,static_LoanGoal=Other; see explanation,0.033431039515589726,16
+benchmark,bpic2017_refused,static_RequestedAmount,0.03308313088134905,17
+benchmark,bpic2017_refused,open_cases_mean,0.0312928510901112,18
+benchmark,bpic2017_refused,NumberOfTerms_sum,0.02656702519689527,19
+benchmark,bpic2017_refused,open_cases_max,0.02608391118659083,20

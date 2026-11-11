@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper below."
+title: "XAI-iBPM: code and results for 'Explainable AI for intelligent business process management'"
+type: software
+license: MIT
+authors:
+  - family-names: "[Author family name]"
+    given-names: "[Author given name]"
+version: "1.0.0"
+doi: "[Software DOI, e.g. 10.5281/zenodo.XXXXXXX]"
+repository-code: "[https://github.com/<owner>/xai-ibpm]"
+keywords:
+  - predictive process monitoring
+  - explainable AI
+  - stacked ensemble
+  - conformal prediction
+  - business process management
+preferred-citation:
+  type: article
+  title: "Explainable AI for Intelligent Business Process Management: Integrating Predictive Decisioning, Process Mining, and Human-Centric Governance"
+  authors:
+    - family-names: "[Author family name]"
+      given-names: "[Author given name]"
+  journal: "[Journal]"
+  year: "[Year]"
+  doi: "[Paper DOI]"

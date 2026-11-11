@@ -1,0 +1,3 @@
+[xai benchmark/sepsis_cases_3 07:59:57 +2s] global shap done; max additivity error 2.619185314856054e-06
+[xai benchmark/sepsis_cases_3 07:59:57 +2s] waterfall case 1996 p 0.612 label 1
+[xai benchmark/sepsis_cases_3 07:59:57 +2s] DONE (global)

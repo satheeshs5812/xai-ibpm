@@ -1,0 +1,18 @@
+# Pinned from the environment used for this repository (Python 3.13.18, CPU only).
+# Note: results/runtime_env.md records pandas 3.0.5 at the time the experiments ran; the environment the
+# repository was packaged in has pandas 2.3.3. Use pandas==3.0.5 for the closest replication.
+catboost==1.2.10
+defusedxml==0.7.1
+lightgbm==4.7.0
+lime==0.2.0.1
+matplotlib==3.11.2
+numpy==2.5.3
+optuna==5.0.0
+pandas==2.3.3
+pyarrow==26.0.0
+scikit-learn==1.9.1
+scikit-posthocs==0.17.1
+scipy==1.18.1
+shap==0.54.1
+torch==2.15.0
+xgboost==3.4.1

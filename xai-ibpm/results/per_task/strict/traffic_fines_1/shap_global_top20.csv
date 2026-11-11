@@ -1,0 +1,21 @@
+protocol,task,feature,mean_abs_shap,rank
+strict,traffic_fines_1,idx_act_lag1,0.19139434013981296,1
+strict,traffic_fines_1,cnt_Activity=Payment,0.18651362963693163,2
+strict,traffic_fines_1,idx_act_lag3,0.06998234033059948,3
+strict,traffic_fines_1,static_amount,0.05610591722694423,4
+strict,traffic_fines_1,expense_sum,0.05481990926059914,5
+strict,traffic_fines_1,cnt_notificationType=P,0.04644218174988075,6
+strict,traffic_fines_1,expense_std,0.038832066082829034,7
+strict,traffic_fines_1,cnt_lastSent=N,0.03718360879714534,8
+strict,traffic_fines_1,expense_max,0.03273085385504389,9
+strict,traffic_fines_1,idx_act_lag2,0.03139962397988766,10
+strict,traffic_fines_1,cnt_Activity=Send Fine,0.027721264313194823,11
+strict,traffic_fines_1,idx_tsl_lag1,0.021980334347964713,12
+strict,traffic_fines_1,cnt_lastSent=P,0.020818458441468624,13
+strict,traffic_fines_1,cnt_Activity=Insert Date Appeal to Prefecture,0.02029775029084917,14
+strict,traffic_fines_1,static_article=7.0,0.018722825722893906,15
+strict,traffic_fines_1,timesincelastevent_max,0.018606661018846754,16
+strict,traffic_fines_1,cnt_dismissal=NIL,0.0170820031071566,17
+strict,traffic_fines_1,cnt_lastSent=missing,0.014297668381722101,18
+strict,traffic_fines_1,timesincelastevent_std,0.010636639089044662,19
+strict,traffic_fines_1,cnt_Activity=Insert Fine Notification,0.010391710066359597,20

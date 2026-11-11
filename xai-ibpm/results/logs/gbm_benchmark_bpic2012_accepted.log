@@ -1,0 +1,36 @@
+[benchmark/bpic2012_accepted 07:24:27 +0s] fit (79992, 164) val (18714, 164) test (30637, 164) pos rate fit/val/test 0.499 0.506 0.554
+[benchmark/bpic2012_accepted 07:24:27 +0s] tuning subsample 29994
+[benchmark/bpic2012_accepted 07:24:28 +1s] LGBM encoding agg 0.6523 1.0s
+[benchmark/bpic2012_accepted 07:24:29 +3s] LGBM encoding agg+index 0.6611 1.4s
+[benchmark/bpic2012_accepted 07:25:05 +39s] LGBM tuned 0.6645 {'learning_rate': 0.08857276686338879, 'num_leaves': 25, 'min_child_samples': 95, 'subsample': 0.8578317597833844, 'colsample_bytree': 0.3920422434608544, 'reg_alpha': 0.005284152630931088, 'reg_lambda': 0.015107585290139546} 36s
+[benchmark/bpic2012_accepted 07:25:09 +42s] LGBM seed 0 test auc 0.6926 iters 29 3s
+[benchmark/bpic2012_accepted 07:25:12 +45s] LGBM seed 1 test auc 0.6999 iters 24 3s
+[benchmark/bpic2012_accepted 07:25:15 +49s] LGBM seed 2 test auc 0.6977 iters 32 3s
+[benchmark/bpic2012_accepted 07:25:18 +51s] LGBM seed 3 test auc 0.6999 iters 14 3s
+[benchmark/bpic2012_accepted 07:25:21 +55s] LGBM seed 4 test auc 0.6976 iters 35 3s
+[benchmark/bpic2012_accepted 07:25:23 +57s] LGBM default test auc 0.6975
+[benchmark/bpic2012_accepted 07:25:24 +58s] XGB encoding agg 0.6492 1.4s
+[benchmark/bpic2012_accepted 07:25:34 +67s] XGB encoding agg+index 0.6483 9.3s
+[benchmark/bpic2012_accepted 07:26:15 +109s] XGB tuned 0.6641 {'learning_rate': 0.19587025161164115, 'max_depth': 5, 'min_child_weight': 7.846691808019535, 'subsample': 0.8098746914286967, 'colsample_bytree': 0.47321575743832794, 'gamma': 0.08259092738842529, 'reg_alpha': 0.09485018669266779, 'reg_lambda': 2.143454857744254} 41s
+[benchmark/bpic2012_accepted 07:26:17 +111s] XGB seed 0 test auc 0.6971 iters 32 2s
+[benchmark/bpic2012_accepted 07:26:19 +113s] XGB seed 1 test auc 0.6859 iters 26 2s
+[benchmark/bpic2012_accepted 07:26:21 +114s] XGB seed 2 test auc 0.6955 iters 25 2s
+[benchmark/bpic2012_accepted 07:26:23 +116s] XGB seed 3 test auc 0.7124 iters 11 2s
+[benchmark/bpic2012_accepted 07:26:24 +118s] XGB seed 4 test auc 0.7003 iters 18 2s
+[benchmark/bpic2012_accepted 07:26:28 +121s] XGB default test auc 0.7015
+[benchmark/bpic2012_accepted 07:26:30 +123s] CatBoost encoding agg 0.6412 2.1s
+[benchmark/bpic2012_accepted 07:26:35 +128s] CatBoost encoding agg+index 0.6593 5.1s
+[benchmark/bpic2012_accepted 07:27:32 +186s] CatBoost tuned 0.6593 {'learning_rate': 0.05, 'depth': 6, 'l2_leaf_reg': 3.0, 'bagging_temperature': 1.0, 'random_strength': 1.0} 58s
+[benchmark/bpic2012_accepted 07:27:41 +194s] CatBoost seed 0 test auc 0.6966 iters 44 8s
+[benchmark/bpic2012_accepted 07:27:51 +204s] CatBoost seed 1 test auc 0.7003 iters 79 10s
+[benchmark/bpic2012_accepted 07:28:00 +213s] CatBoost seed 2 test auc 0.6986 iters 53 9s
+[benchmark/bpic2012_accepted 07:28:07 +221s] CatBoost seed 3 test auc 0.7045 iters 38 8s
+[benchmark/bpic2012_accepted 07:28:17 +231s] CatBoost seed 4 test auc 0.7 iters 43 9s
+[benchmark/bpic2012_accepted 07:28:25 +239s] CatBoost default test auc 0.7013
+[benchmark/bpic2012_accepted 07:28:30 +244s] LR C 0.01 test auc 0.6469
+[benchmark/bpic2012_accepted 07:29:07 +280s] RF seed 0 0.6883 36s
+[benchmark/bpic2012_accepted 07:29:42 +316s] RF seed 1 0.6924 35s
+[benchmark/bpic2012_accepted 07:30:18 +351s] RF seed 2 0.6943 35s
+[benchmark/bpic2012_accepted 07:30:54 +388s] RF seed 3 0.6927 35s
+[benchmark/bpic2012_accepted 07:31:31 +425s] RF seed 4 0.685 36s
+[benchmark/bpic2012_accepted 07:31:31 +425s] DONE

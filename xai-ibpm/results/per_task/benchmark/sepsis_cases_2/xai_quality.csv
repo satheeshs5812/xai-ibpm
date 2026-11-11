@@ -1,0 +1,12 @@
+protocol,task,metric,mean,sd,n
+benchmark,sepsis_cases_2,SHAP-LIME agreement: Jaccard top-5,0.13706349206349208,0.07377200787480692,100
+benchmark,sepsis_cases_2,SHAP-LIME(no discretization) agreement: Jaccard top-5,0.2236111111111111,0.14362270070824512,100
+benchmark,sepsis_cases_2,SHAP-LIME agreement: Kendall tau on |attr| of LIME top-10,0.5608218549316235,0.10999816658382386,100
+benchmark,sepsis_cases_2,SHAP-LIME sign agreement on shared top-5,1.0,0.0,100
+benchmark,sepsis_cases_2,Stability SHAP: Jaccard top-5 under perturbation (10 reps),0.924,0.08815630444616789,100
+benchmark,sepsis_cases_2,Stability SHAP: Jaccard top-5 across 5 training seeds (pairwise),0.431563492063492,0.12223011235097234,100
+benchmark,sepsis_cases_2,Stability LIME: Jaccard top-5 under perturbation (3 reps),0.548148148148148,0.11025622245613635,30
+benchmark,sepsis_cases_2,Stability LIME: Jaccard top-5 across LIME sampling seeds (3),0.48214285714285715,0.08183170883849715,30
+benchmark,sepsis_cases_2,Runtime ensemble TreeSHAP (s/instance),0.019604105949401856,,100
+benchmark,sepsis_cases_2,Runtime LIME 1000 samples (s/instance),0.22379616975784303,,100
+benchmark,sepsis_cases_2,Perturbed continuous features (count),31.0,,242

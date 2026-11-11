@@ -1,0 +1,361 @@
+protocol,task,model,seed,prefix_len,n,auc
+strict,traffic_fines_1,LR,0,1,30074,0.5325586286559625
+strict,traffic_fines_1,LR,0,2,30074,0.7716624940053036
+strict,traffic_fines_1,LR,0,3,14552,0.5300403061189927
+strict,traffic_fines_1,LR,0,4,14363,0.5801661871338855
+strict,traffic_fines_1,LR,0,5,4530,0.6018032791724724
+strict,traffic_fines_1,LR,0,6,1931,0.6228260345907405
+strict,traffic_fines_1,LR,0,7,271,0.510499557913351
+strict,traffic_fines_1,LR,0,8,209,0.5320553111250786
+strict,traffic_fines_1,LR,0,9,93,0.5384615384615385
+strict,traffic_fines_1,LR,0,10,21,0.25
+strict,traffic_fines_1,RF,0,1,30074,0.5320657539591545
+strict,traffic_fines_1,RF,0,2,30074,0.7748672394907916
+strict,traffic_fines_1,RF,0,3,14552,0.5438908548127563
+strict,traffic_fines_1,RF,0,4,14363,0.6427910921327669
+strict,traffic_fines_1,RF,0,5,4530,0.6614382837777201
+strict,traffic_fines_1,RF,0,6,1931,0.8276966806378571
+strict,traffic_fines_1,RF,0,7,271,0.6576038903625111
+strict,traffic_fines_1,RF,0,8,209,0.6239786297925833
+strict,traffic_fines_1,RF,0,9,93,0.2527472527472528
+strict,traffic_fines_1,RF,0,10,21,0.7
+strict,traffic_fines_1,RF,1,1,30074,0.5372913679224592
+strict,traffic_fines_1,RF,1,2,30074,0.7789825344373837
+strict,traffic_fines_1,RF,1,3,14552,0.5423745842189127
+strict,traffic_fines_1,RF,1,4,14363,0.6287385727491869
+strict,traffic_fines_1,RF,1,5,4530,0.6740355548732966
+strict,traffic_fines_1,RF,1,6,1931,0.8214698655875127
+strict,traffic_fines_1,RF,1,7,271,0.6580459770114943
+strict,traffic_fines_1,RF,1,8,209,0.6360779384035198
+strict,traffic_fines_1,RF,1,9,93,0.37362637362637363
+strict,traffic_fines_1,RF,1,10,21,0.55
+strict,traffic_fines_1,RF,2,1,30074,0.5496972443039834
+strict,traffic_fines_1,RF,2,2,30074,0.7743551369897346
+strict,traffic_fines_1,RF,2,3,14552,0.5305605450177402
+strict,traffic_fines_1,RF,2,4,14363,0.6388172918189501
+strict,traffic_fines_1,RF,2,5,4530,0.6714325567390124
+strict,traffic_fines_1,RF,2,6,1931,0.8276966806378572
+strict,traffic_fines_1,RF,2,7,271,0.6779398762157383
+strict,traffic_fines_1,RF,2,8,209,0.6373350094280327
+strict,traffic_fines_1,RF,2,9,93,0.30219780219780223
+strict,traffic_fines_1,RF,2,10,21,0.5
+strict,traffic_fines_1,RF,3,1,30074,0.5411381001724815
+strict,traffic_fines_1,RF,3,2,30074,0.7765130295764243
+strict,traffic_fines_1,RF,3,3,14552,0.5431491876380068
+strict,traffic_fines_1,RF,3,4,14363,0.6409496206146678
+strict,traffic_fines_1,RF,3,5,4530,0.6763994343811255
+strict,traffic_fines_1,RF,3,6,1931,0.834525702172761
+strict,traffic_fines_1,RF,3,7,271,0.663129973474801
+strict,traffic_fines_1,RF,3,8,209,0.6602765556253929
+strict,traffic_fines_1,RF,3,9,93,0.43956043956043955
+strict,traffic_fines_1,RF,3,10,21,0.8
+strict,traffic_fines_1,RF,4,1,30074,0.5431315633332172
+strict,traffic_fines_1,RF,4,2,30074,0.7798733211630545
+strict,traffic_fines_1,RF,4,3,14552,0.5333481145314889
+strict,traffic_fines_1,RF,4,4,14363,0.641990315216109
+strict,traffic_fines_1,RF,4,5,4530,0.6718026739957018
+strict,traffic_fines_1,RF,4,6,1931,0.8304547863371393
+strict,traffic_fines_1,RF,4,7,271,0.6606984969053935
+strict,traffic_fines_1,RF,4,8,209,0.6337209302325582
+strict,traffic_fines_1,RF,4,9,93,0.3791208791208791
+strict,traffic_fines_1,RF,4,10,21,0.6
+strict,traffic_fines_1,XGB,0,1,30074,0.5342200109950151
+strict,traffic_fines_1,XGB,0,2,30074,0.7902708355597368
+strict,traffic_fines_1,XGB,0,3,14552,0.5003150781859198
+strict,traffic_fines_1,XGB,0,4,14363,0.6171684536606352
+strict,traffic_fines_1,XGB,0,5,4530,0.7457707737996836
+strict,traffic_fines_1,XGB,0,6,1931,0.828455460808402
+strict,traffic_fines_1,XGB,0,7,271,0.6567197170645447
+strict,traffic_fines_1,XGB,0,8,209,0.5674104336895035
+strict,traffic_fines_1,XGB,0,9,93,0.5
+strict,traffic_fines_1,XGB,0,10,21,0.15000000000000002
+strict,traffic_fines_1,XGB,1,1,30074,0.503570301607278
+strict,traffic_fines_1,XGB,1,2,30074,0.7684791011896037
+strict,traffic_fines_1,XGB,1,3,14552,0.509158760630964
+strict,traffic_fines_1,XGB,1,4,14363,0.6011285802375514
+strict,traffic_fines_1,XGB,1,5,4530,0.6783009440757621
+strict,traffic_fines_1,XGB,1,6,1931,0.6325757575757576
+strict,traffic_fines_1,XGB,1,7,271,0.6606432360742707
+strict,traffic_fines_1,XGB,1,8,209,0.6666404776869892
+strict,traffic_fines_1,XGB,1,9,93,0.47527472527472525
+strict,traffic_fines_1,XGB,1,10,21,0.2
+strict,traffic_fines_1,XGB,2,1,30074,0.49471983296199196
+strict,traffic_fines_1,XGB,2,2,30074,0.7685978286707343
+strict,traffic_fines_1,XGB,2,3,14552,0.4966050598450223
+strict,traffic_fines_1,XGB,2,4,14363,0.5952493109596679
+strict,traffic_fines_1,XGB,2,5,4530,0.5421003766856386
+strict,traffic_fines_1,XGB,2,6,1931,0.6480885966180084
+strict,traffic_fines_1,XGB,2,7,271,0.6766136162687887
+strict,traffic_fines_1,XGB,2,8,209,0.6678975487115022
+strict,traffic_fines_1,XGB,2,9,93,0.4945054945054945
+strict,traffic_fines_1,XGB,2,10,21,0.44999999999999996
+strict,traffic_fines_1,XGB,3,1,30074,0.5596444060799725
+strict,traffic_fines_1,XGB,3,2,30074,0.7687747274416646
+strict,traffic_fines_1,XGB,3,3,14552,0.5000250921590881
+strict,traffic_fines_1,XGB,3,4,14363,0.5974724511885346
+strict,traffic_fines_1,XGB,3,5,4530,0.6918550586873865
+strict,traffic_fines_1,XGB,3,6,1931,0.7960627740039505
+strict,traffic_fines_1,XGB,3,7,271,0.688052608311229
+strict,traffic_fines_1,XGB,3,8,209,0.6660119421747329
+strict,traffic_fines_1,XGB,3,9,93,0.521978021978022
+strict,traffic_fines_1,XGB,3,10,21,0.125
+strict,traffic_fines_1,XGB,4,1,30074,0.5255275179300017
+strict,traffic_fines_1,XGB,4,2,30074,0.795496716988634
+strict,traffic_fines_1,XGB,4,3,14552,0.5054015552146944
+strict,traffic_fines_1,XGB,4,4,14363,0.6191400963795252
+strict,traffic_fines_1,XGB,4,5,4530,0.6963599355265333
+strict,traffic_fines_1,XGB,4,6,1931,0.8217348364407189
+strict,traffic_fines_1,XGB,4,7,271,0.7187223695844385
+strict,traffic_fines_1,XGB,4,8,209,0.5571967316153363
+strict,traffic_fines_1,XGB,4,9,93,0.478021978021978
+strict,traffic_fines_1,XGB,4,10,21,0.25
+strict,traffic_fines_1,LGBM,0,1,30074,0.5425636967326919
+strict,traffic_fines_1,LGBM,0,2,30074,0.7836983416459657
+strict,traffic_fines_1,LGBM,0,3,14552,0.5567359343963495
+strict,traffic_fines_1,LGBM,0,4,14363,0.6299251964240942
+strict,traffic_fines_1,LGBM,0,5,4530,0.6898498571192405
+strict,traffic_fines_1,LGBM,0,6,1931,0.7759972539384303
+strict,traffic_fines_1,LGBM,0,7,271,0.6800950486295314
+strict,traffic_fines_1,LGBM,0,8,209,0.6227215587680704
+strict,traffic_fines_1,LGBM,0,9,93,0.6758241758241758
+strict,traffic_fines_1,LGBM,0,10,21,0.5
+strict,traffic_fines_1,LGBM,1,1,30074,0.5502532805051145
+strict,traffic_fines_1,LGBM,1,2,30074,0.7697819409490654
+strict,traffic_fines_1,LGBM,1,3,14552,0.4990615955903405
+strict,traffic_fines_1,LGBM,1,4,14363,0.5951507718843799
+strict,traffic_fines_1,LGBM,1,5,4530,0.5723795107810028
+strict,traffic_fines_1,LGBM,1,6,1931,0.6382425205954618
+strict,traffic_fines_1,LGBM,1,7,271,0.6317970822281167
+strict,traffic_fines_1,LGBM,1,8,209,0.6143934632306726
+strict,traffic_fines_1,LGBM,1,9,93,0.6785714285714286
+strict,traffic_fines_1,LGBM,1,10,21,0.5
+strict,traffic_fines_1,LGBM,2,1,30074,0.49916552468764874
+strict,traffic_fines_1,LGBM,2,2,30074,0.7713933939010158
+strict,traffic_fines_1,LGBM,2,3,14552,0.5489365515119295
+strict,traffic_fines_1,LGBM,2,4,14363,0.6282851905883278
+strict,traffic_fines_1,LGBM,2,5,4530,0.6389555977375244
+strict,traffic_fines_1,LGBM,2,6,1931,0.8269258563376212
+strict,traffic_fines_1,LGBM,2,7,271,0.6584328028293546
+strict,traffic_fines_1,LGBM,2,8,209,0.6368636077938403
+strict,traffic_fines_1,LGBM,2,9,93,0.5192307692307692
+strict,traffic_fines_1,LGBM,2,10,21,0.425
+strict,traffic_fines_1,LGBM,3,1,30074,0.5117999677535557
+strict,traffic_fines_1,LGBM,3,2,30074,0.7733004458631612
+strict,traffic_fines_1,LGBM,3,3,14552,0.5831394262087289
+strict,traffic_fines_1,LGBM,3,4,14363,0.6162905283407552
+strict,traffic_fines_1,LGBM,3,5,4530,0.7599451946012328
+strict,traffic_fines_1,LGBM,3,6,1931,0.8314363829069712
+strict,traffic_fines_1,LGBM,3,7,271,0.6801503094606544
+strict,traffic_fines_1,LGBM,3,8,209,0.5883092394720302
+strict,traffic_fines_1,LGBM,3,9,93,0.47252747252747257
+strict,traffic_fines_1,LGBM,3,10,21,0.15000000000000002
+strict,traffic_fines_1,LGBM,4,1,30074,0.4955544841082049
+strict,traffic_fines_1,LGBM,4,2,30074,0.7719243452967324
+strict,traffic_fines_1,LGBM,4,3,14552,0.5552165217115366
+strict,traffic_fines_1,LGBM,4,4,14363,0.6143845705800471
+strict,traffic_fines_1,LGBM,4,5,4530,0.48575030111234435
+strict,traffic_fines_1,LGBM,4,6,1931,0.5088644794527147
+strict,traffic_fines_1,LGBM,4,7,271,0.6258289124668435
+strict,traffic_fines_1,LGBM,4,8,209,0.576681332495286
+strict,traffic_fines_1,LGBM,4,9,93,0.6813186813186813
+strict,traffic_fines_1,LGBM,4,10,21,0.475
+strict,traffic_fines_1,CatBoost,0,1,30074,0.5532022669709988
+strict,traffic_fines_1,CatBoost,0,2,30074,0.7720591628144687
+strict,traffic_fines_1,CatBoost,0,3,14552,0.5367683139780529
+strict,traffic_fines_1,CatBoost,0,4,14363,0.5845051650908328
+strict,traffic_fines_1,CatBoost,0,5,4530,0.600361556219446
+strict,traffic_fines_1,CatBoost,0,6,1931,0.6600845497904321
+strict,traffic_fines_1,CatBoost,0,7,271,0.5704575596816976
+strict,traffic_fines_1,CatBoost,0,8,209,0.5194846008799496
+strict,traffic_fines_1,CatBoost,0,9,93,0.6043956043956045
+strict,traffic_fines_1,CatBoost,0,10,21,0.35
+strict,traffic_fines_1,CatBoost,1,1,30074,0.5490284044892852
+strict,traffic_fines_1,CatBoost,1,2,30074,0.7759235973242504
+strict,traffic_fines_1,CatBoost,1,3,14552,0.5484016383798256
+strict,traffic_fines_1,CatBoost,1,4,14363,0.6121826580910321
+strict,traffic_fines_1,CatBoost,1,5,4530,0.5844406100181847
+strict,traffic_fines_1,CatBoost,1,6,1931,0.6845642433877728
+strict,traffic_fines_1,CatBoost,1,7,271,0.6513594164456233
+strict,traffic_fines_1,CatBoost,1,8,209,0.6184003771213074
+strict,traffic_fines_1,CatBoost,1,9,93,0.8131868131868132
+strict,traffic_fines_1,CatBoost,1,10,21,0.65
+strict,traffic_fines_1,CatBoost,2,1,30074,0.5404914377131478
+strict,traffic_fines_1,CatBoost,2,2,30074,0.7719915262145405
+strict,traffic_fines_1,CatBoost,2,3,14552,0.52180476312467
+strict,traffic_fines_1,CatBoost,2,4,14363,0.6188501235910668
+strict,traffic_fines_1,CatBoost,2,5,4530,0.5790707732092673
+strict,traffic_fines_1,CatBoost,2,6,1931,0.7825131281013633
+strict,traffic_fines_1,CatBoost,2,7,271,0.6312997347480106
+strict,traffic_fines_1,CatBoost,2,8,209,0.620521684475173
+strict,traffic_fines_1,CatBoost,2,9,93,0.4807692307692307
+strict,traffic_fines_1,CatBoost,2,10,21,0.125
+strict,traffic_fines_1,CatBoost,3,1,30074,0.48958422117050787
+strict,traffic_fines_1,CatBoost,3,2,30074,0.7657441515874519
+strict,traffic_fines_1,CatBoost,3,3,14552,0.5060755671541053
+strict,traffic_fines_1,CatBoost,3,4,14363,0.5794169317108264
+strict,traffic_fines_1,CatBoost,3,5,4530,0.4628236957702572
+strict,traffic_fines_1,CatBoost,3,6,1931,0.6659801512742689
+strict,traffic_fines_1,CatBoost,3,7,271,0.6277077807250221
+strict,traffic_fines_1,CatBoost,3,8,209,0.600801382778127
+strict,traffic_fines_1,CatBoost,3,9,93,0.8928571428571429
+strict,traffic_fines_1,CatBoost,3,10,21,0.875
+strict,traffic_fines_1,CatBoost,4,1,30074,0.4821101502756421
+strict,traffic_fines_1,CatBoost,4,2,30074,0.7725107091241944
+strict,traffic_fines_1,CatBoost,4,3,14552,0.5060823193070392
+strict,traffic_fines_1,CatBoost,4,4,14363,0.5998500511560598
+strict,traffic_fines_1,CatBoost,4,5,4530,0.566618892142739
+strict,traffic_fines_1,CatBoost,4,6,1931,0.6277279953750542
+strict,traffic_fines_1,CatBoost,4,7,271,0.5712864721485411
+strict,traffic_fines_1,CatBoost,4,8,209,0.5774670018856065
+strict,traffic_fines_1,CatBoost,4,9,93,0.8489010989010989
+strict,traffic_fines_1,CatBoost,4,10,21,0.8250000000000001
+strict,traffic_fines_1,LSTM,0,1,30074,0.5485919155017945
+strict,traffic_fines_1,LSTM,0,2,30074,0.7731835510166446
+strict,traffic_fines_1,LSTM,0,3,14552,0.5302445086054963
+strict,traffic_fines_1,LSTM,0,4,14363,0.6117772943811756
+strict,traffic_fines_1,LSTM,0,5,4530,0.6029088338096025
+strict,traffic_fines_1,LSTM,0,6,1931,0.6715927157103627
+strict,traffic_fines_1,LSTM,0,7,271,0.5639920424403182
+strict,traffic_fines_1,LSTM,0,8,209,0.5567253299811439
+strict,traffic_fines_1,LSTM,0,9,93,0.543956043956044
+strict,traffic_fines_1,LSTM,0,10,21,0.55
+strict,traffic_fines_1,LSTM,1,1,30074,0.5569617162827227
+strict,traffic_fines_1,LSTM,1,2,30074,0.7754209749925219
+strict,traffic_fines_1,LSTM,1,3,14552,0.5383668026189261
+strict,traffic_fines_1,LSTM,1,4,14363,0.6131859015593358
+strict,traffic_fines_1,LSTM,1,5,4530,0.602272660179959
+strict,traffic_fines_1,LSTM,1,6,1931,0.6922363540010599
+strict,traffic_fines_1,LSTM,1,7,271,0.5816755083996463
+strict,traffic_fines_1,LSTM,1,8,209,0.5329981143934632
+strict,traffic_fines_1,LSTM,1,9,93,0.521978021978022
+strict,traffic_fines_1,LSTM,1,10,21,0.4
+strict,traffic_fines_1,LSTM,2,1,30074,0.5409216214469523
+strict,traffic_fines_1,LSTM,2,2,30074,0.7726980836308244
+strict,traffic_fines_1,LSTM,2,3,14552,0.5347792812571643
+strict,traffic_fines_1,LSTM,2,4,14363,0.6135327726044473
+strict,traffic_fines_1,LSTM,2,5,4530,0.5333205163781499
+strict,traffic_fines_1,LSTM,2,6,1931,0.6851062292238763
+strict,traffic_fines_1,LSTM,2,7,271,0.6380415561450044
+strict,traffic_fines_1,LSTM,2,8,209,0.6055939660590823
+strict,traffic_fines_1,LSTM,2,9,93,0.8791208791208791
+strict,traffic_fines_1,LSTM,2,10,21,0.95
+strict,traffic_fines_1,LSTM,3,1,30074,0.5553594785110416
+strict,traffic_fines_1,LSTM,3,2,30074,0.771930665409618
+strict,traffic_fines_1,LSTM,3,3,14552,0.528436892640501
+strict,traffic_fines_1,LSTM,3,4,14363,0.6182714698338454
+strict,traffic_fines_1,LSTM,3,5,4530,0.5823874371206575
+strict,traffic_fines_1,LSTM,3,6,1931,0.741496844438021
+strict,traffic_fines_1,LSTM,3,7,271,0.6002431476569408
+strict,traffic_fines_1,LSTM,3,8,209,0.590823381521056
+strict,traffic_fines_1,LSTM,3,9,93,0.532967032967033
+strict,traffic_fines_1,LSTM,3,10,21,0.6
+strict,traffic_fines_1,LSTM,4,1,30074,0.5504642811390674
+strict,traffic_fines_1,LSTM,4,2,30074,0.7754809145270707
+strict,traffic_fines_1,LSTM,4,3,14552,0.5258808796321552
+strict,traffic_fines_1,LSTM,4,4,14363,0.6214990173325426
+strict,traffic_fines_1,LSTM,4,5,4530,0.5767947181352289
+strict,traffic_fines_1,LSTM,4,6,1931,0.6770005299417063
+strict,traffic_fines_1,LSTM,4,7,271,0.6137267904509284
+strict,traffic_fines_1,LSTM,4,8,209,0.6026084223758643
+strict,traffic_fines_1,LSTM,4,9,93,0.5384615384615385
+strict,traffic_fines_1,LSTM,4,10,21,0.44999999999999996
+strict,traffic_fines_1,Transformer,0,1,30074,0.5502540432773593
+strict,traffic_fines_1,Transformer,0,2,30074,0.776199651533939
+strict,traffic_fines_1,Transformer,0,3,14552,0.5411340153943739
+strict,traffic_fines_1,Transformer,0,4,14363,0.6197207285993425
+strict,traffic_fines_1,Transformer,0,5,4530,0.6017139786977777
+strict,traffic_fines_1,Transformer,0,6,1931,0.7086404586404587
+strict,traffic_fines_1,Transformer,0,7,271,0.5815649867374005
+strict,traffic_fines_1,Transformer,0,8,209,0.6027655562539284
+strict,traffic_fines_1,Transformer,0,9,93,0.7802197802197801
+strict,traffic_fines_1,Transformer,0,10,21,0.65
+strict,traffic_fines_1,Transformer,1,1,30074,0.5517407582019512
+strict,traffic_fines_1,Transformer,1,2,30074,0.7750090730272601
+strict,traffic_fines_1,Transformer,1,3,14552,0.5327763319702452
+strict,traffic_fines_1,Transformer,1,4,14363,0.6169405114935641
+strict,traffic_fines_1,Transformer,1,5,4530,0.6090155840398649
+strict,traffic_fines_1,Transformer,1,6,1931,0.7104591222238281
+strict,traffic_fines_1,Transformer,1,7,271,0.6352785145888594
+strict,traffic_fines_1,Transformer,1,8,209,0.5988372093023255
+strict,traffic_fines_1,Transformer,1,9,93,0.8351648351648351
+strict,traffic_fines_1,Transformer,1,10,21,0.7
+strict,traffic_fines_1,Transformer,2,1,30074,0.5328362554642725
+strict,traffic_fines_1,Transformer,2,2,30074,0.7747161833444539
+strict,traffic_fines_1,Transformer,2,3,14552,0.528483221769048
+strict,traffic_fines_1,Transformer,2,4,14363,0.6106491051809372
+strict,traffic_fines_1,Transformer,2,5,4530,0.5521304436388541
+strict,traffic_fines_1,Transformer,2,6,1931,0.6870935106229223
+strict,traffic_fines_1,Transformer,2,7,271,0.5867595048629531
+strict,traffic_fines_1,Transformer,2,8,209,0.4533312382149592
+strict,traffic_fines_1,Transformer,2,9,93,0.8516483516483517
+strict,traffic_fines_1,Transformer,2,10,21,0.85
+strict,traffic_fines_1,Transformer,3,1,30074,0.5467597018983044
+strict,traffic_fines_1,Transformer,3,2,30074,0.772884774614274
+strict,traffic_fines_1,Transformer,3,3,14552,0.5294686684059143
+strict,traffic_fines_1,Transformer,3,4,14363,0.6185374915868789
+strict,traffic_fines_1,Transformer,3,5,4530,0.6226058616536382
+strict,traffic_fines_1,Transformer,3,6,1931,0.7417015946427712
+strict,traffic_fines_1,Transformer,3,7,271,0.5956012378426172
+strict,traffic_fines_1,Transformer,3,8,209,0.5864236329352609
+strict,traffic_fines_1,Transformer,3,9,93,0.7582417582417582
+strict,traffic_fines_1,Transformer,3,10,21,0.75
+strict,traffic_fines_1,Transformer,4,1,30074,0.5479456369051164
+strict,traffic_fines_1,Transformer,4,2,30074,0.776697756668997
+strict,traffic_fines_1,Transformer,4,3,14552,0.5361796176079747
+strict,traffic_fines_1,Transformer,4,4,14363,0.6237501004360718
+strict,traffic_fines_1,Transformer,4,5,4530,0.5936570094230451
+strict,traffic_fines_1,Transformer,4,6,1931,0.6948137977549742
+strict,traffic_fines_1,Transformer,4,7,271,0.592948717948718
+strict,traffic_fines_1,Transformer,4,8,209,0.6173790069138907
+strict,traffic_fines_1,Transformer,4,9,93,0.8956043956043955
+strict,traffic_fines_1,Transformer,4,10,21,0.75
+strict,traffic_fines_1,Stack (proposed),0,1,30074,0.5498634815992192
+strict,traffic_fines_1,Stack (proposed),0,2,30074,0.787380352239109
+strict,traffic_fines_1,Stack (proposed),0,3,14552,0.537710684999007
+strict,traffic_fines_1,Stack (proposed),0,4,14363,0.6247357472252878
+strict,traffic_fines_1,Stack (proposed),0,5,4530,0.7220795792693008
+strict,traffic_fines_1,Stack (proposed),0,6,1931,0.775810569928217
+strict,traffic_fines_1,Stack (proposed),0,7,271,0.6188660477453581
+strict,traffic_fines_1,Stack (proposed),0,8,209,0.5973444374607165
+strict,traffic_fines_1,Stack (proposed),0,9,93,0.7142857142857142
+strict,traffic_fines_1,Stack (proposed),0,10,21,0.55
+strict,traffic_fines_1,Stack (proposed),1,1,30074,0.5496893169210106
+strict,traffic_fines_1,Stack (proposed),1,2,30074,0.7743942662152797
+strict,traffic_fines_1,Stack (proposed),1,3,14552,0.5328531906351606
+strict,traffic_fines_1,Stack (proposed),1,4,14363,0.6152375672712197
+strict,traffic_fines_1,Stack (proposed),1,5,4530,0.6334658326051532
+strict,traffic_fines_1,Stack (proposed),1,6,1931,0.7084597966950908
+strict,traffic_fines_1,Stack (proposed),1,7,271,0.6433465959328029
+strict,traffic_fines_1,Stack (proposed),1,8,209,0.6077938403519798
+strict,traffic_fines_1,Stack (proposed),1,9,93,0.8186813186813187
+strict,traffic_fines_1,Stack (proposed),1,10,21,0.7
+strict,traffic_fines_1,Stack (proposed),2,1,30074,0.5331542918658245
+strict,traffic_fines_1,Stack (proposed),2,2,30074,0.772952341871271
+strict,traffic_fines_1,Stack (proposed),2,3,14552,0.5398795857146372
+strict,traffic_fines_1,Stack (proposed),2,4,14363,0.6177906568709959
+strict,traffic_fines_1,Stack (proposed),2,5,4530,0.6303875492997661
+strict,traffic_fines_1,Stack (proposed),2,6,1931,0.7624897624897624
+strict,traffic_fines_1,Stack (proposed),2,7,271,0.656553934571176
+strict,traffic_fines_1,Stack (proposed),2,8,209,0.6200502828409805
+strict,traffic_fines_1,Stack (proposed),2,9,93,0.5219780219780219
+strict,traffic_fines_1,Stack (proposed),2,10,21,0.5
+strict,traffic_fines_1,Stack (proposed),3,1,30074,0.541579874081954
+strict,traffic_fines_1,Stack (proposed),3,2,30074,0.7708326869581519
+strict,traffic_fines_1,Stack (proposed),3,3,14552,0.5633222696076281
+strict,traffic_fines_1,Stack (proposed),3,4,14363,0.6206165415486922
+strict,traffic_fines_1,Stack (proposed),3,5,4530,0.7363289091467302
+strict,traffic_fines_1,Stack (proposed),3,6,1931,0.8146528881823
+strict,traffic_fines_1,Stack (proposed),3,7,271,0.6464412024756852
+strict,traffic_fines_1,Stack (proposed),3,8,209,0.5873664362036455
+strict,traffic_fines_1,Stack (proposed),3,9,93,0.7197802197802197
+strict,traffic_fines_1,Stack (proposed),3,10,21,0.7
+strict,traffic_fines_1,Stack (proposed),4,1,30074,0.543919043950382
+strict,traffic_fines_1,Stack (proposed),4,2,30074,0.7959715303283594
+strict,traffic_fines_1,Stack (proposed),4,3,14552,0.5151642101309213
+strict,traffic_fines_1,Stack (proposed),4,4,14363,0.6235628447703834
+strict,traffic_fines_1,Stack (proposed),4,5,4530,0.7100000295208181
+strict,traffic_fines_1,Stack (proposed),4,6,1931,0.7639471021823964
+strict,traffic_fines_1,Stack (proposed),4,7,271,0.6304708222811671
+strict,traffic_fines_1,Stack (proposed),4,8,209,0.6085795097423005
+strict,traffic_fines_1,Stack (proposed),4,9,93,0.7637362637362638
+strict,traffic_fines_1,Stack (proposed),4,10,21,0.65

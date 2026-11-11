@@ -1,0 +1,21 @@
+protocol,task,feature,mean_abs_shap,rank
+benchmark,bpic2012_declined,static_AMOUNT_REQ,0.18650899134348836,1
+benchmark,bpic2012_declined,cnt_Activity=O_ACCEPTED-COMPLETE,0.08362309128395093,2
+benchmark,bpic2012_declined,cnt_Activity=A_DECLINED-COMPLETE,0.07502535521554819,3
+benchmark,bpic2012_declined,cnt_Activity=O_DECLINED-COMPLETE,0.061278416520382045,4
+benchmark,bpic2012_declined,timesincelastevent_max,0.05268949079111572,5
+benchmark,bpic2012_declined,open_cases_mean,0.04860755349618149,6
+benchmark,bpic2012_declined,month_max,0.04612942515612109,7
+benchmark,bpic2012_declined,cnt_Activity=A_CANCELLED-COMPLETE,0.04393790346910116,8
+benchmark,bpic2012_declined,timesincemidnight_max,0.043124860325695694,9
+benchmark,bpic2012_declined,cnt_Activity=A_APPROVED-COMPLETE,0.04251504505292917,10
+benchmark,bpic2012_declined,open_cases_min,0.03464310256816457,11
+benchmark,bpic2012_declined,timesincemidnight_min,0.03382075740539293,12
+benchmark,bpic2012_declined,cnt_Resource=10982,0.029181328215647156,13
+benchmark,bpic2012_declined,cnt_Resource=11259,0.02788009305560539,14
+benchmark,bpic2012_declined,open_cases_max,0.025947928932587825,15
+benchmark,bpic2012_declined,month_mean,0.02070056351005288,16
+benchmark,bpic2012_declined,hour_max,0.020390221868570712,17
+benchmark,bpic2012_declined,cnt_Activity=W_Afhandelen leads-SCHEDULE,0.019095607391517215,18
+benchmark,bpic2012_declined,month_std,0.018456288063722386,19
+benchmark,bpic2012_declined,cnt_Activity=W_Afhandelen leads-START,0.017931093801848735,20

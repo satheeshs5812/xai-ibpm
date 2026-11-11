@@ -1,0 +1,4 @@
+[eval benchmark/traffic_fines_1 09:07:07 +39s] stack calibrators ['isotonic', 'isotonic', 'venn-abers', 'venn-abers', 'isotonic']
+[eval benchmark/traffic_fines_1 09:07:12 +43s] mean test AUC {'Best tuned GBM + isotonic': 0.7905, 'CatBoost': 0.7883, 'CatBoost-default': 0.786, 'LGBM': 0.7843, 'LGBM-default': 0.778, 'LR': 0.7935, 'LSTM': 0.7926, 'RF': 0.7818, 'Stack (proposed)': 0.7932, 'Stack of default GBMs (untuned)': 0.7827, 'Stack w/o Transformer': 0.7878, 'Stack w/o post-calibration': 0.7938, 'Transformer': 0.7928, 'XGB': 0.7779, 'XGB-default': 0.776}
+[eval benchmark/traffic_fines_1 09:08:22 +114s] best baseline LR delta 0.0018
+[eval benchmark/traffic_fines_1 09:08:49 +140s] DONE

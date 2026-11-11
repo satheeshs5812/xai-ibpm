@@ -1,0 +1,61 @@
+{
+ "avg_rank_stack_benchmark": 2.2,
+ "avg_rank_stack_strict": 1.75,
+ "mean_auc_stack_benchmark": 0.7393,
+ "mean_auc_stack_strict": 0.6338,
+ "wins_stack_benchmark": 4,
+ "friedman_benchmark": {
+  "chi2": 13.73,
+  "p": 0.056,
+  "nemenyi_CD": 3.32
+ },
+ "benchmark_tasks_within_0.01_of_best": 7,
+ "mean_brier_stack_benchmark": 0.139,
+ "mean_ece_stack_benchmark": 0.053,
+ "mean_brier_stack_strict": 0.192,
+ "mean_ece_stack_strict": 0.057,
+ "benchmark_tasks_stack_lowest_brier": 5,
+ "stack_calibrator_counts": {
+  "none": 53,
+  "venn-abers": 10,
+  "platt": 4,
+  "isotonic": 3
+ },
+ "stack_meta_weights_mean": {
+  "benchmark": {
+   "meta_w_LGBM": 0.517,
+   "meta_w_XGB": 0.347,
+   "meta_w_CatBoost": 0.787,
+   "meta_w_Transformer": 0.234
+  },
+  "strict": {
+   "meta_w_LGBM": 0.032,
+   "meta_w_XGB": 0.371,
+   "meta_w_CatBoost": 0.296,
+   "meta_w_Transformer": 0.303
+  }
+ },
+ "conformal_a0.1_mean_coverage_benchmark": 0.863,
+ "conformal_a0.1_mean_automation_benchmark": 0.584,
+ "conformal_a0.1_mean_coverage_strict": 0.877,
+ "conformal_a0.1_mean_automation_strict": 0.401,
+ "conformal_benchmark_tasks_within_0.02": 6,
+ "cost_share_at_least_best_trivial_benchmark": 0.674,
+ "cost_share_strictly_better_benchmark": 0.305,
+ "cost_mean_gain_vs_trivial_benchmark": 0.007,
+ "cost_share_at_least_best_trivial_strict": 0.566,
+ "cost_share_strictly_better_strict": 0.342,
+ "cost_mean_gain_vs_trivial_strict": 0.0061,
+ "ablation_auc_gain_vs_single_gbm": {
+  "benchmark": 0.0048,
+  "strict": 0.0074
+ },
+ "ablation_auc_gain_vs_no_transformer": {
+  "benchmark": 0.0042,
+  "strict": 0.0026
+ },
+ "ablation_auc_gain_vs_untuned": {
+  "benchmark": -0.0031,
+  "strict": 0.0206
+ }
+}

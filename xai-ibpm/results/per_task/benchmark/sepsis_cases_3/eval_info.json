@@ -1,0 +1,15 @@
+{
+ "best_baseline": "LR",
+ "top_baselines": [
+  "LR",
+  "Transformer",
+  "RF"
+ ],
+ "aurc": {
+  "LGBM": 0.13566032997764887,
+  "LR": 0.11620708764900527,
+  "Stack (proposed)": 0.11720413887220263,
+  "Transformer": 0.10808073533647197
+ },
+ "runtime_s": 17.11868381500244
+}

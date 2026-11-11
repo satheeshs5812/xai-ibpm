@@ -1,0 +1,1045 @@
+protocol,task,model,seed,prefix_len,n,auc
+benchmark,sepsis_cases_1,LR,0,1,157,0.5239808153477218
+benchmark,sepsis_cases_1,LR,0,2,157,0.5287769784172662
+benchmark,sepsis_cases_1,LR,0,3,157,0.5139888089528377
+benchmark,sepsis_cases_1,LR,0,4,157,0.5047961630695443
+benchmark,sepsis_cases_1,LR,0,5,157,0.49760191846522783
+benchmark,sepsis_cases_1,LR,0,6,157,0.4860111910471622
+benchmark,sepsis_cases_1,LR,0,7,157,0.45163868904876103
+benchmark,sepsis_cases_1,LR,0,8,157,0.4944044764188649
+benchmark,sepsis_cases_1,LR,0,9,154,0.5122549019607843
+benchmark,sepsis_cases_1,LR,0,10,152,0.5796019900497512
+benchmark,sepsis_cases_1,LR,0,11,141,0.5645
+benchmark,sepsis_cases_1,LR,0,12,129,0.508695652173913
+benchmark,sepsis_cases_1,LR,0,13,109,0.5525252525252525
+benchmark,sepsis_cases_1,LR,0,14,90,0.5564024390243902
+benchmark,sepsis_cases_1,LR,0,15,78,0.5410714285714285
+benchmark,sepsis_cases_1,LR,0,16,60,0.5802469135802468
+benchmark,sepsis_cases_1,LR,0,17,49,0.5363636363636364
+benchmark,sepsis_cases_1,LR,0,18,38,0.5138888888888888
+benchmark,sepsis_cases_1,LR,0,19,36,0.5147058823529411
+benchmark,sepsis_cases_1,LR,0,20,32,0.4166666666666667
+benchmark,sepsis_cases_1,LR,0,21,28,0.4423076923076923
+benchmark,sepsis_cases_1,LR,0,22,24,0.40909090909090906
+benchmark,sepsis_cases_1,LR,0,23,21,0.4210526315789474
+benchmark,sepsis_cases_1,LR,0,24,19,0.411764705882353
+benchmark,sepsis_cases_1,LR,0,25,17,0.26666666666666666
+benchmark,sepsis_cases_1,LR,0,26,16,0.2142857142857143
+benchmark,sepsis_cases_1,LR,0,27,16,0.25
+benchmark,sepsis_cases_1,LR,0,28,15,0.1538461538461538
+benchmark,sepsis_cases_1,LR,0,29,13,0.13636363636363635
+benchmark,sepsis_cases_1,RF,0,1,157,0.3189448441247002
+benchmark,sepsis_cases_1,RF,0,2,157,0.32054356514788174
+benchmark,sepsis_cases_1,RF,0,3,157,0.2941646682653877
+benchmark,sepsis_cases_1,RF,0,4,157,0.3045563549160672
+benchmark,sepsis_cases_1,RF,0,5,157,0.34452438049560347
+benchmark,sepsis_cases_1,RF,0,6,157,0.3689048760991207
+benchmark,sepsis_cases_1,RF,0,7,157,0.38489208633093525
+benchmark,sepsis_cases_1,RF,0,8,157,0.3996802557953637
+benchmark,sepsis_cases_1,RF,0,9,154,0.39379084967320266
+benchmark,sepsis_cases_1,RF,0,10,152,0.41252072968490877
+benchmark,sepsis_cases_1,RF,0,11,141,0.4025
+benchmark,sepsis_cases_1,RF,0,12,129,0.4267080745341615
+benchmark,sepsis_cases_1,RF,0,13,109,0.45858585858585865
+benchmark,sepsis_cases_1,RF,0,14,90,0.3719512195121951
+benchmark,sepsis_cases_1,RF,0,15,78,0.3553571428571429
+benchmark,sepsis_cases_1,RF,0,16,60,0.22530864197530864
+benchmark,sepsis_cases_1,RF,0,17,49,0.18636363636363637
+benchmark,sepsis_cases_1,RF,0,18,38,0.19444444444444442
+benchmark,sepsis_cases_1,RF,0,19,36,0.19117647058823528
+benchmark,sepsis_cases_1,RF,0,20,32,0.14999999999999997
+benchmark,sepsis_cases_1,RF,0,21,28,0.15384615384615385
+benchmark,sepsis_cases_1,RF,0,22,24,0.11363636363636365
+benchmark,sepsis_cases_1,RF,0,23,21,0.10526315789473684
+benchmark,sepsis_cases_1,RF,0,24,19,0.11764705882352944
+benchmark,sepsis_cases_1,RF,0,25,17,0.13333333333333336
+benchmark,sepsis_cases_1,RF,0,26,16,0.10714285714285715
+benchmark,sepsis_cases_1,RF,0,27,16,0.10714285714285715
+benchmark,sepsis_cases_1,RF,0,28,15,0.07692307692307693
+benchmark,sepsis_cases_1,RF,0,29,13,0.0
+benchmark,sepsis_cases_1,RF,1,1,157,0.32933653077537967
+benchmark,sepsis_cases_1,RF,1,2,157,0.33573141486810554
+benchmark,sepsis_cases_1,RF,1,3,157,0.32414068745004
+benchmark,sepsis_cases_1,RF,1,4,157,0.31534772182254195
+benchmark,sepsis_cases_1,RF,1,5,157,0.3389288569144684
+benchmark,sepsis_cases_1,RF,1,6,157,0.35931254996003203
+benchmark,sepsis_cases_1,RF,1,7,157,0.38968824940047964
+benchmark,sepsis_cases_1,RF,1,8,157,0.38209432454036774
+benchmark,sepsis_cases_1,RF,1,9,154,0.372140522875817
+benchmark,sepsis_cases_1,RF,1,10,152,0.3805970149253731
+benchmark,sepsis_cases_1,RF,1,11,141,0.42700000000000005
+benchmark,sepsis_cases_1,RF,1,12,129,0.44223602484472047
+benchmark,sepsis_cases_1,RF,1,13,109,0.4313131313131313
+benchmark,sepsis_cases_1,RF,1,14,90,0.36585365853658536
+benchmark,sepsis_cases_1,RF,1,15,78,0.3410714285714286
+benchmark,sepsis_cases_1,RF,1,16,60,0.2222222222222222
+benchmark,sepsis_cases_1,RF,1,17,49,0.24545454545454548
+benchmark,sepsis_cases_1,RF,1,18,38,0.3194444444444444
+benchmark,sepsis_cases_1,RF,1,19,36,0.30882352941176466
+benchmark,sepsis_cases_1,RF,1,20,32,0.25
+benchmark,sepsis_cases_1,RF,1,21,28,0.2115384615384615
+benchmark,sepsis_cases_1,RF,1,22,24,0.25
+benchmark,sepsis_cases_1,RF,1,23,21,0.26315789473684215
+benchmark,sepsis_cases_1,RF,1,24,19,0.20588235294117652
+benchmark,sepsis_cases_1,RF,1,25,17,0.09999999999999998
+benchmark,sepsis_cases_1,RF,1,26,16,0.17857142857142855
+benchmark,sepsis_cases_1,RF,1,27,16,0.2142857142857143
+benchmark,sepsis_cases_1,RF,1,28,15,0.23076923076923078
+benchmark,sepsis_cases_1,RF,1,29,13,0.2727272727272727
+benchmark,sepsis_cases_1,RF,2,1,157,0.3645083932853717
+benchmark,sepsis_cases_1,RF,2,2,157,0.3705035971223022
+benchmark,sepsis_cases_1,RF,2,3,157,0.34932054356514786
+benchmark,sepsis_cases_1,RF,2,4,157,0.34692246203037574
+benchmark,sepsis_cases_1,RF,2,5,157,0.35571542765787373
+benchmark,sepsis_cases_1,RF,2,6,157,0.35731414868105515
+benchmark,sepsis_cases_1,RF,2,7,157,0.3381294964028777
+benchmark,sepsis_cases_1,RF,2,8,157,0.36211031175059955
+benchmark,sepsis_cases_1,RF,2,9,154,0.375
+benchmark,sepsis_cases_1,RF,2,10,152,0.38391376451077946
+benchmark,sepsis_cases_1,RF,2,11,141,0.43100000000000005
+benchmark,sepsis_cases_1,RF,2,12,129,0.45031055900621114
+benchmark,sepsis_cases_1,RF,2,13,109,0.5060606060606061
+benchmark,sepsis_cases_1,RF,2,14,90,0.3719512195121951
+benchmark,sepsis_cases_1,RF,2,15,78,0.3946428571428572
+benchmark,sepsis_cases_1,RF,2,16,60,0.29012345679012347
+benchmark,sepsis_cases_1,RF,2,17,49,0.2363636363636364
+benchmark,sepsis_cases_1,RF,2,18,38,0.26388888888888884
+benchmark,sepsis_cases_1,RF,2,19,36,0.23529411764705882
+benchmark,sepsis_cases_1,RF,2,20,32,0.14999999999999997
+benchmark,sepsis_cases_1,RF,2,21,28,0.09615384615384615
+benchmark,sepsis_cases_1,RF,2,22,24,0.09090909090909094
+benchmark,sepsis_cases_1,RF,2,23,21,0.07894736842105265
+benchmark,sepsis_cases_1,RF,2,24,19,0.11764705882352944
+benchmark,sepsis_cases_1,RF,2,25,17,0.09999999999999998
+benchmark,sepsis_cases_1,RF,2,26,16,0.10714285714285715
+benchmark,sepsis_cases_1,RF,2,27,16,0.0714285714285714
+benchmark,sepsis_cases_1,RF,2,28,15,0.07692307692307687
+benchmark,sepsis_cases_1,RF,2,29,13,0.0
+benchmark,sepsis_cases_1,RF,3,1,157,0.39088729016786566
+benchmark,sepsis_cases_1,RF,3,2,157,0.38768984812150276
+benchmark,sepsis_cases_1,RF,3,3,157,0.3677058353317346
+benchmark,sepsis_cases_1,RF,3,4,157,0.3752997601918465
+benchmark,sepsis_cases_1,RF,3,5,157,0.41286970423661074
+benchmark,sepsis_cases_1,RF,3,6,157,0.4244604316546763
+benchmark,sepsis_cases_1,RF,3,7,157,0.4156674660271783
+benchmark,sepsis_cases_1,RF,3,8,157,0.403277378097522
+benchmark,sepsis_cases_1,RF,3,9,154,0.4044117647058823
+benchmark,sepsis_cases_1,RF,3,10,152,0.37189054726368165
+benchmark,sepsis_cases_1,RF,3,11,141,0.428
+benchmark,sepsis_cases_1,RF,3,12,129,0.40496894409937884
+benchmark,sepsis_cases_1,RF,3,13,109,0.4191919191919192
+benchmark,sepsis_cases_1,RF,3,14,90,0.34451219512195125
+benchmark,sepsis_cases_1,RF,3,15,78,0.34464285714285714
+benchmark,sepsis_cases_1,RF,3,16,60,0.2006172839506173
+benchmark,sepsis_cases_1,RF,3,17,49,0.21363636363636362
+benchmark,sepsis_cases_1,RF,3,18,38,0.2638888888888889
+benchmark,sepsis_cases_1,RF,3,19,36,0.32352941176470584
+benchmark,sepsis_cases_1,RF,3,20,32,0.23333333333333328
+benchmark,sepsis_cases_1,RF,3,21,28,0.23076923076923073
+benchmark,sepsis_cases_1,RF,3,22,24,0.29545454545454547
+benchmark,sepsis_cases_1,RF,3,23,21,0.2631578947368421
+benchmark,sepsis_cases_1,RF,3,24,19,0.17647058823529416
+benchmark,sepsis_cases_1,RF,3,25,17,0.19999999999999996
+benchmark,sepsis_cases_1,RF,3,26,16,0.1428571428571429
+benchmark,sepsis_cases_1,RF,3,27,16,0.1428571428571429
+benchmark,sepsis_cases_1,RF,3,28,15,0.07692307692307687
+benchmark,sepsis_cases_1,RF,3,29,13,0.18181818181818182
+benchmark,sepsis_cases_1,RF,4,1,157,0.3601119104716227
+benchmark,sepsis_cases_1,RF,4,2,157,0.35651478816946436
+benchmark,sepsis_cases_1,RF,4,3,157,0.3377298161470823
+benchmark,sepsis_cases_1,RF,4,4,157,0.3317346123101519
+benchmark,sepsis_cases_1,RF,4,5,157,0.3641087130295763
+benchmark,sepsis_cases_1,RF,4,6,157,0.39688249400479614
+benchmark,sepsis_cases_1,RF,4,7,157,0.40327737809752195
+benchmark,sepsis_cases_1,RF,4,8,157,0.416466826538769
+benchmark,sepsis_cases_1,RF,4,9,154,0.3974673202614379
+benchmark,sepsis_cases_1,RF,4,10,152,0.39054726368159204
+benchmark,sepsis_cases_1,RF,4,11,141,0.4675
+benchmark,sepsis_cases_1,RF,4,12,129,0.453416149068323
+benchmark,sepsis_cases_1,RF,4,13,109,0.4292929292929293
+benchmark,sepsis_cases_1,RF,4,14,90,0.3795731707317074
+benchmark,sepsis_cases_1,RF,4,15,78,0.37857142857142856
+benchmark,sepsis_cases_1,RF,4,16,60,0.27469135802469136
+benchmark,sepsis_cases_1,RF,4,17,49,0.2545454545454546
+benchmark,sepsis_cases_1,RF,4,18,38,0.3611111111111111
+benchmark,sepsis_cases_1,RF,4,19,36,0.36764705882352944
+benchmark,sepsis_cases_1,RF,4,20,32,0.26666666666666666
+benchmark,sepsis_cases_1,RF,4,21,28,0.2692307692307693
+benchmark,sepsis_cases_1,RF,4,22,24,0.2727272727272727
+benchmark,sepsis_cases_1,RF,4,23,21,0.21052631578947373
+benchmark,sepsis_cases_1,RF,4,24,19,0.23529411764705882
+benchmark,sepsis_cases_1,RF,4,25,17,0.26666666666666666
+benchmark,sepsis_cases_1,RF,4,26,16,0.2142857142857143
+benchmark,sepsis_cases_1,RF,4,27,16,0.2142857142857143
+benchmark,sepsis_cases_1,RF,4,28,15,0.23076923076923078
+benchmark,sepsis_cases_1,RF,4,29,13,0.18181818181818182
+benchmark,sepsis_cases_1,XGB,0,1,157,0.38609112709832133
+benchmark,sepsis_cases_1,XGB,0,2,157,0.3794964028776978
+benchmark,sepsis_cases_1,XGB,0,3,157,0.3697042366107114
+benchmark,sepsis_cases_1,XGB,0,4,157,0.36590727418065544
+benchmark,sepsis_cases_1,XGB,0,5,157,0.3822941646682654
+benchmark,sepsis_cases_1,XGB,0,6,157,0.4000799360511591
+benchmark,sepsis_cases_1,XGB,0,7,157,0.390687450039968
+benchmark,sepsis_cases_1,XGB,0,8,157,0.4350519584332534
+benchmark,sepsis_cases_1,XGB,0,9,154,0.397671568627451
+benchmark,sepsis_cases_1,XGB,0,10,152,0.36546434494195684
+benchmark,sepsis_cases_1,XGB,0,11,141,0.3845
+benchmark,sepsis_cases_1,XGB,0,12,129,0.42111801242236024
+benchmark,sepsis_cases_1,XGB,0,13,109,0.4101010101010101
+benchmark,sepsis_cases_1,XGB,0,14,90,0.3094512195121951
+benchmark,sepsis_cases_1,XGB,0,15,78,0.29464285714285715
+benchmark,sepsis_cases_1,XGB,0,16,60,0.2623456790123456
+benchmark,sepsis_cases_1,XGB,0,17,49,0.2090909090909091
+benchmark,sepsis_cases_1,XGB,0,18,38,0.23611111111111116
+benchmark,sepsis_cases_1,XGB,0,19,36,0.25
+benchmark,sepsis_cases_1,XGB,0,20,32,0.23333333333333334
+benchmark,sepsis_cases_1,XGB,0,21,28,0.23076923076923078
+benchmark,sepsis_cases_1,XGB,0,22,24,0.2272727272727273
+benchmark,sepsis_cases_1,XGB,0,23,21,0.2631578947368421
+benchmark,sepsis_cases_1,XGB,0,24,19,0.17647058823529416
+benchmark,sepsis_cases_1,XGB,0,25,17,0.16666666666666663
+benchmark,sepsis_cases_1,XGB,0,26,16,0.1785714285714286
+benchmark,sepsis_cases_1,XGB,0,27,16,0.14285714285714285
+benchmark,sepsis_cases_1,XGB,0,28,15,0.11538461538461536
+benchmark,sepsis_cases_1,XGB,0,29,13,0.18181818181818182
+benchmark,sepsis_cases_1,XGB,1,1,157,0.43764988009592326
+benchmark,sepsis_cases_1,XGB,1,2,157,0.43565147881694644
+benchmark,sepsis_cases_1,XGB,1,3,157,0.4482414068745004
+benchmark,sepsis_cases_1,XGB,1,4,157,0.4316546762589928
+benchmark,sepsis_cases_1,XGB,1,5,157,0.4314548361310951
+benchmark,sepsis_cases_1,XGB,1,6,157,0.45563549160671457
+benchmark,sepsis_cases_1,XGB,1,7,157,0.4446442845723422
+benchmark,sepsis_cases_1,XGB,1,8,157,0.48701039168665067
+benchmark,sepsis_cases_1,XGB,1,9,154,0.45445261437908496
+benchmark,sepsis_cases_1,XGB,1,10,152,0.4446517412935324
+benchmark,sepsis_cases_1,XGB,1,11,141,0.474
+benchmark,sepsis_cases_1,XGB,1,12,129,0.5391304347826086
+benchmark,sepsis_cases_1,XGB,1,13,109,0.5217171717171717
+benchmark,sepsis_cases_1,XGB,1,14,90,0.3902439024390244
+benchmark,sepsis_cases_1,XGB,1,15,78,0.38392857142857145
+benchmark,sepsis_cases_1,XGB,1,16,60,0.33333333333333337
+benchmark,sepsis_cases_1,XGB,1,17,49,0.3545454545454546
+benchmark,sepsis_cases_1,XGB,1,18,38,0.4305555555555556
+benchmark,sepsis_cases_1,XGB,1,19,36,0.38235294117647056
+benchmark,sepsis_cases_1,XGB,1,20,32,0.38333333333333336
+benchmark,sepsis_cases_1,XGB,1,21,28,0.40384615384615385
+benchmark,sepsis_cases_1,XGB,1,22,24,0.36363636363636365
+benchmark,sepsis_cases_1,XGB,1,23,21,0.34210526315789475
+benchmark,sepsis_cases_1,XGB,1,24,19,0.5
+benchmark,sepsis_cases_1,XGB,1,25,17,0.3
+benchmark,sepsis_cases_1,XGB,1,26,16,0.2857142857142857
+benchmark,sepsis_cases_1,XGB,1,27,16,0.2857142857142857
+benchmark,sepsis_cases_1,XGB,1,28,15,0.30769230769230765
+benchmark,sepsis_cases_1,XGB,1,29,13,0.36363636363636365
+benchmark,sepsis_cases_1,XGB,2,1,157,0.39368505195843323
+benchmark,sepsis_cases_1,XGB,2,2,157,0.38928856914468424
+benchmark,sepsis_cases_1,XGB,2,3,157,0.3860911270983214
+benchmark,sepsis_cases_1,XGB,2,4,157,0.390687450039968
+benchmark,sepsis_cases_1,XGB,2,5,157,0.3844924060751399
+benchmark,sepsis_cases_1,XGB,2,6,157,0.3966826538768985
+benchmark,sepsis_cases_1,XGB,2,7,157,0.3886890487609912
+benchmark,sepsis_cases_1,XGB,2,8,157,0.40607513988808946
+benchmark,sepsis_cases_1,XGB,2,9,154,0.38419117647058826
+benchmark,sepsis_cases_1,XGB,2,10,152,0.37810945273631846
+benchmark,sepsis_cases_1,XGB,2,11,141,0.42125
+benchmark,sepsis_cases_1,XGB,2,12,129,0.4425465838509317
+benchmark,sepsis_cases_1,XGB,2,13,109,0.4671717171717172
+benchmark,sepsis_cases_1,XGB,2,14,90,0.4260670731707317
+benchmark,sepsis_cases_1,XGB,2,15,78,0.40089285714285716
+benchmark,sepsis_cases_1,XGB,2,16,60,0.3935185185185185
+benchmark,sepsis_cases_1,XGB,2,17,49,0.38863636363636367
+benchmark,sepsis_cases_1,XGB,2,18,38,0.41666666666666663
+benchmark,sepsis_cases_1,XGB,2,19,36,0.5
+benchmark,sepsis_cases_1,XGB,2,20,32,0.4666666666666667
+benchmark,sepsis_cases_1,XGB,2,21,28,0.4807692307692308
+benchmark,sepsis_cases_1,XGB,2,22,24,0.34090909090909094
+benchmark,sepsis_cases_1,XGB,2,23,21,0.3157894736842105
+benchmark,sepsis_cases_1,XGB,2,24,19,0.29411764705882354
+benchmark,sepsis_cases_1,XGB,2,25,17,0.3
+benchmark,sepsis_cases_1,XGB,2,26,16,0.2857142857142857
+benchmark,sepsis_cases_1,XGB,2,27,16,0.2857142857142857
+benchmark,sepsis_cases_1,XGB,2,28,15,0.2692307692307692
+benchmark,sepsis_cases_1,XGB,2,29,13,0.3181818181818182
+benchmark,sepsis_cases_1,XGB,3,1,157,0.4398481215027978
+benchmark,sepsis_cases_1,XGB,3,2,157,0.44864108713029577
+benchmark,sepsis_cases_1,XGB,3,3,157,0.45023980815347725
+benchmark,sepsis_cases_1,XGB,3,4,157,0.4494404476418865
+benchmark,sepsis_cases_1,XGB,3,5,157,0.4344524380495604
+benchmark,sepsis_cases_1,XGB,3,6,157,0.434052757793765
+benchmark,sepsis_cases_1,XGB,3,7,157,0.4414468425259792
+benchmark,sepsis_cases_1,XGB,3,8,157,0.4814148681055156
+benchmark,sepsis_cases_1,XGB,3,9,154,0.46425653594771243
+benchmark,sepsis_cases_1,XGB,3,10,152,0.441542288557214
+benchmark,sepsis_cases_1,XGB,3,11,141,0.43750000000000006
+benchmark,sepsis_cases_1,XGB,3,12,129,0.47950310559006204
+benchmark,sepsis_cases_1,XGB,3,13,109,0.48383838383838385
+benchmark,sepsis_cases_1,XGB,3,14,90,0.36585365853658536
+benchmark,sepsis_cases_1,XGB,3,15,78,0.3625
+benchmark,sepsis_cases_1,XGB,3,16,60,0.33333333333333337
+benchmark,sepsis_cases_1,XGB,3,17,49,0.36818181818181817
+benchmark,sepsis_cases_1,XGB,3,18,38,0.25
+benchmark,sepsis_cases_1,XGB,3,19,36,0.2941176470588235
+benchmark,sepsis_cases_1,XGB,3,20,32,0.2833333333333334
+benchmark,sepsis_cases_1,XGB,3,21,28,0.2884615384615385
+benchmark,sepsis_cases_1,XGB,3,22,24,0.34090909090909094
+benchmark,sepsis_cases_1,XGB,3,23,21,0.31578947368421056
+benchmark,sepsis_cases_1,XGB,3,24,19,0.2647058823529412
+benchmark,sepsis_cases_1,XGB,3,25,17,0.23333333333333334
+benchmark,sepsis_cases_1,XGB,3,26,16,0.25
+benchmark,sepsis_cases_1,XGB,3,27,16,0.25
+benchmark,sepsis_cases_1,XGB,3,28,15,0.2692307692307692
+benchmark,sepsis_cases_1,XGB,3,29,13,0.3181818181818182
+benchmark,sepsis_cases_1,XGB,4,1,157,0.47921662669864107
+benchmark,sepsis_cases_1,XGB,4,2,157,0.4816147082334132
+benchmark,sepsis_cases_1,XGB,4,3,157,0.48041566746602715
+benchmark,sepsis_cases_1,XGB,4,4,157,0.478017585931255
+benchmark,sepsis_cases_1,XGB,4,5,157,0.47242206235011985
+benchmark,sepsis_cases_1,XGB,4,6,157,0.465427657873701
+benchmark,sepsis_cases_1,XGB,4,7,157,0.4536370903277378
+benchmark,sepsis_cases_1,XGB,4,8,157,0.43784972022382096
+benchmark,sepsis_cases_1,XGB,4,9,154,0.4021650326797386
+benchmark,sepsis_cases_1,XGB,4,10,152,0.41417910447761197
+benchmark,sepsis_cases_1,XGB,4,11,141,0.39000000000000007
+benchmark,sepsis_cases_1,XGB,4,12,129,0.4263975155279503
+benchmark,sepsis_cases_1,XGB,4,13,109,0.41818181818181815
+benchmark,sepsis_cases_1,XGB,4,14,90,0.3788109756097561
+benchmark,sepsis_cases_1,XGB,4,15,78,0.3839285714285714
+benchmark,sepsis_cases_1,XGB,4,16,60,0.42592592592592593
+benchmark,sepsis_cases_1,XGB,4,17,49,0.4318181818181818
+benchmark,sepsis_cases_1,XGB,4,18,38,0.4722222222222222
+benchmark,sepsis_cases_1,XGB,4,19,36,0.4852941176470589
+benchmark,sepsis_cases_1,XGB,4,20,32,0.4666666666666667
+benchmark,sepsis_cases_1,XGB,4,21,28,0.5
+benchmark,sepsis_cases_1,XGB,4,22,24,0.5
+benchmark,sepsis_cases_1,XGB,4,23,21,0.5526315789473684
+benchmark,sepsis_cases_1,XGB,4,24,19,0.6176470588235294
+benchmark,sepsis_cases_1,XGB,4,25,17,0.6333333333333333
+benchmark,sepsis_cases_1,XGB,4,26,16,0.6428571428571429
+benchmark,sepsis_cases_1,XGB,4,27,16,0.6785714285714286
+benchmark,sepsis_cases_1,XGB,4,28,15,0.6538461538461539
+benchmark,sepsis_cases_1,XGB,4,29,13,0.6363636363636364
+benchmark,sepsis_cases_1,LGBM,0,1,157,0.43485211830535575
+benchmark,sepsis_cases_1,LGBM,0,2,157,0.43445243804956035
+benchmark,sepsis_cases_1,LGBM,0,3,157,0.4370503597122302
+benchmark,sepsis_cases_1,LGBM,0,4,157,0.43764988009592326
+benchmark,sepsis_cases_1,LGBM,0,5,157,0.4436450839328537
+benchmark,sepsis_cases_1,LGBM,0,6,157,0.44124700239808157
+benchmark,sepsis_cases_1,LGBM,0,7,157,0.4344524380495604
+benchmark,sepsis_cases_1,LGBM,0,8,157,0.4608313349320543
+benchmark,sepsis_cases_1,LGBM,0,9,154,0.45036764705882354
+benchmark,sepsis_cases_1,LGBM,0,10,152,0.45087064676616917
+benchmark,sepsis_cases_1,LGBM,0,11,141,0.48675
+benchmark,sepsis_cases_1,LGBM,0,12,129,0.44689440993788815
+benchmark,sepsis_cases_1,LGBM,0,13,109,0.4772727272727273
+benchmark,sepsis_cases_1,LGBM,0,14,90,0.39634146341463417
+benchmark,sepsis_cases_1,LGBM,0,15,78,0.3910714285714286
+benchmark,sepsis_cases_1,LGBM,0,16,60,0.39814814814814814
+benchmark,sepsis_cases_1,LGBM,0,17,49,0.3090909090909091
+benchmark,sepsis_cases_1,LGBM,0,18,38,0.29166666666666663
+benchmark,sepsis_cases_1,LGBM,0,19,36,0.2941176470588236
+benchmark,sepsis_cases_1,LGBM,0,20,32,0.2833333333333333
+benchmark,sepsis_cases_1,LGBM,0,21,28,0.30769230769230765
+benchmark,sepsis_cases_1,LGBM,0,22,24,0.30681818181818177
+benchmark,sepsis_cases_1,LGBM,0,23,21,0.2894736842105263
+benchmark,sepsis_cases_1,LGBM,0,24,19,0.2647058823529412
+benchmark,sepsis_cases_1,LGBM,0,25,17,0.24999999999999997
+benchmark,sepsis_cases_1,LGBM,0,26,16,0.25000000000000006
+benchmark,sepsis_cases_1,LGBM,0,27,16,0.23214285714285718
+benchmark,sepsis_cases_1,LGBM,0,28,15,0.25
+benchmark,sepsis_cases_1,LGBM,0,29,13,0.24999999999999997
+benchmark,sepsis_cases_1,LGBM,1,1,157,0.3525179856115108
+benchmark,sepsis_cases_1,LGBM,1,2,157,0.3539168665067946
+benchmark,sepsis_cases_1,LGBM,1,3,157,0.3539168665067946
+benchmark,sepsis_cases_1,LGBM,1,4,157,0.34692246203037574
+benchmark,sepsis_cases_1,LGBM,1,5,157,0.3517186250999201
+benchmark,sepsis_cases_1,LGBM,1,6,157,0.35291766586730616
+benchmark,sepsis_cases_1,LGBM,1,7,157,0.3455235811350919
+benchmark,sepsis_cases_1,LGBM,1,8,157,0.34912070343725016
+benchmark,sepsis_cases_1,LGBM,1,9,154,0.33231209150326796
+benchmark,sepsis_cases_1,LGBM,1,10,152,0.34867330016583753
+benchmark,sepsis_cases_1,LGBM,1,11,141,0.373
+benchmark,sepsis_cases_1,LGBM,1,12,129,0.3506211180124223
+benchmark,sepsis_cases_1,LGBM,1,13,109,0.3348484848484848
+benchmark,sepsis_cases_1,LGBM,1,14,90,0.2919207317073171
+benchmark,sepsis_cases_1,LGBM,1,15,78,0.2964285714285715
+benchmark,sepsis_cases_1,LGBM,1,16,60,0.32407407407407407
+benchmark,sepsis_cases_1,LGBM,1,17,49,0.32499999999999996
+benchmark,sepsis_cases_1,LGBM,1,18,38,0.3333333333333333
+benchmark,sepsis_cases_1,LGBM,1,19,36,0.3161764705882353
+benchmark,sepsis_cases_1,LGBM,1,20,32,0.31666666666666665
+benchmark,sepsis_cases_1,LGBM,1,21,28,0.3173076923076923
+benchmark,sepsis_cases_1,LGBM,1,22,24,0.3181818181818182
+benchmark,sepsis_cases_1,LGBM,1,23,21,0.2631578947368421
+benchmark,sepsis_cases_1,LGBM,1,24,19,0.1470588235294118
+benchmark,sepsis_cases_1,LGBM,1,25,17,0.1333333333333333
+benchmark,sepsis_cases_1,LGBM,1,26,16,0.14285714285714285
+benchmark,sepsis_cases_1,LGBM,1,27,16,0.14285714285714285
+benchmark,sepsis_cases_1,LGBM,1,28,15,0.1538461538461538
+benchmark,sepsis_cases_1,LGBM,1,29,13,0.04545454545454547
+benchmark,sepsis_cases_1,LGBM,2,1,157,0.3764988009592327
+benchmark,sepsis_cases_1,LGBM,2,2,157,0.37929656274980017
+benchmark,sepsis_cases_1,LGBM,2,3,157,0.3826938449240608
+benchmark,sepsis_cases_1,LGBM,2,4,157,0.3828936850519585
+benchmark,sepsis_cases_1,LGBM,2,5,157,0.3737010391686651
+benchmark,sepsis_cases_1,LGBM,2,6,157,0.4020783373301359
+benchmark,sepsis_cases_1,LGBM,2,7,157,0.4048760991207035
+benchmark,sepsis_cases_1,LGBM,2,8,157,0.40407673860911275
+benchmark,sepsis_cases_1,LGBM,2,9,154,0.35947712418300654
+benchmark,sepsis_cases_1,LGBM,2,10,152,0.43553067993366495
+benchmark,sepsis_cases_1,LGBM,2,11,141,0.43449999999999994
+benchmark,sepsis_cases_1,LGBM,2,12,129,0.45683229813664594
+benchmark,sepsis_cases_1,LGBM,2,13,109,0.4540404040404041
+benchmark,sepsis_cases_1,LGBM,2,14,90,0.38414634146341464
+benchmark,sepsis_cases_1,LGBM,2,15,78,0.36071428571428577
+benchmark,sepsis_cases_1,LGBM,2,16,60,0.3055555555555556
+benchmark,sepsis_cases_1,LGBM,2,17,49,0.35454545454545455
+benchmark,sepsis_cases_1,LGBM,2,18,38,0.4791666666666667
+benchmark,sepsis_cases_1,LGBM,2,19,36,0.44852941176470584
+benchmark,sepsis_cases_1,LGBM,2,20,32,0.44166666666666665
+benchmark,sepsis_cases_1,LGBM,2,21,28,0.47115384615384615
+benchmark,sepsis_cases_1,LGBM,2,22,24,0.46590909090909094
+benchmark,sepsis_cases_1,LGBM,2,23,21,0.4342105263157895
+benchmark,sepsis_cases_1,LGBM,2,24,19,0.3235294117647059
+benchmark,sepsis_cases_1,LGBM,2,25,17,0.43333333333333335
+benchmark,sepsis_cases_1,LGBM,2,26,16,0.4642857142857143
+benchmark,sepsis_cases_1,LGBM,2,27,16,0.44642857142857145
+benchmark,sepsis_cases_1,LGBM,2,28,15,0.4423076923076923
+benchmark,sepsis_cases_1,LGBM,2,29,13,0.5
+benchmark,sepsis_cases_1,LGBM,3,1,157,0.3709032773780976
+benchmark,sepsis_cases_1,LGBM,3,2,157,0.3826938449240608
+benchmark,sepsis_cases_1,LGBM,3,3,157,0.3870903277378097
+benchmark,sepsis_cases_1,LGBM,3,4,157,0.37849720223820943
+benchmark,sepsis_cases_1,LGBM,3,5,157,0.3683053557154277
+benchmark,sepsis_cases_1,LGBM,3,6,157,0.33952837729816143
+benchmark,sepsis_cases_1,LGBM,3,7,157,0.3441247002398081
+benchmark,sepsis_cases_1,LGBM,3,8,157,0.3603117505995203
+benchmark,sepsis_cases_1,LGBM,3,9,154,0.34558823529411764
+benchmark,sepsis_cases_1,LGBM,3,10,152,0.33913764510779437
+benchmark,sepsis_cases_1,LGBM,3,11,141,0.373
+benchmark,sepsis_cases_1,LGBM,3,12,129,0.37857142857142856
+benchmark,sepsis_cases_1,LGBM,3,13,109,0.4131313131313131
+benchmark,sepsis_cases_1,LGBM,3,14,90,0.37957317073170727
+benchmark,sepsis_cases_1,LGBM,3,15,78,0.3580357142857143
+benchmark,sepsis_cases_1,LGBM,3,16,60,0.3302469135802469
+benchmark,sepsis_cases_1,LGBM,3,17,49,0.3295454545454546
+benchmark,sepsis_cases_1,LGBM,3,18,38,0.13888888888888892
+benchmark,sepsis_cases_1,LGBM,3,19,36,0.14705882352941177
+benchmark,sepsis_cases_1,LGBM,3,20,32,0.15833333333333333
+benchmark,sepsis_cases_1,LGBM,3,21,28,0.1730769230769231
+benchmark,sepsis_cases_1,LGBM,3,22,24,0.11363636363636362
+benchmark,sepsis_cases_1,LGBM,3,23,21,0.06578947368421054
+benchmark,sepsis_cases_1,LGBM,3,24,19,0.04411764705882354
+benchmark,sepsis_cases_1,LGBM,3,25,17,0.04999999999999999
+benchmark,sepsis_cases_1,LGBM,3,26,16,0.053571428571428575
+benchmark,sepsis_cases_1,LGBM,3,27,16,0.035714285714285726
+benchmark,sepsis_cases_1,LGBM,3,28,15,0.038461538461538464
+benchmark,sepsis_cases_1,LGBM,3,29,13,0.022727272727272735
+benchmark,sepsis_cases_1,LGBM,4,1,157,0.37709832134292565
+benchmark,sepsis_cases_1,LGBM,4,2,157,0.37629896083133496
+benchmark,sepsis_cases_1,LGBM,4,3,157,0.37629896083133496
+benchmark,sepsis_cases_1,LGBM,4,4,157,0.3840927258193445
+benchmark,sepsis_cases_1,LGBM,4,5,157,0.364308553157474
+benchmark,sepsis_cases_1,LGBM,4,6,157,0.33972821742605913
+benchmark,sepsis_cases_1,LGBM,4,7,157,0.3479216626698641
+benchmark,sepsis_cases_1,LGBM,4,8,157,0.33233413269384493
+benchmark,sepsis_cases_1,LGBM,4,9,154,0.2826797385620915
+benchmark,sepsis_cases_1,LGBM,4,10,152,0.31612769485903813
+benchmark,sepsis_cases_1,LGBM,4,11,141,0.3425
+benchmark,sepsis_cases_1,LGBM,4,12,129,0.37204968944099376
+benchmark,sepsis_cases_1,LGBM,4,13,109,0.3373737373737374
+benchmark,sepsis_cases_1,LGBM,4,14,90,0.24847560975609756
+benchmark,sepsis_cases_1,LGBM,4,15,78,0.2464285714285714
+benchmark,sepsis_cases_1,LGBM,4,16,60,0.21450617283950618
+benchmark,sepsis_cases_1,LGBM,4,17,49,0.21136363636363636
+benchmark,sepsis_cases_1,LGBM,4,18,38,0.19444444444444448
+benchmark,sepsis_cases_1,LGBM,4,19,36,0.20588235294117646
+benchmark,sepsis_cases_1,LGBM,4,20,32,0.2
+benchmark,sepsis_cases_1,LGBM,4,21,28,0.23076923076923078
+benchmark,sepsis_cases_1,LGBM,4,22,24,0.20454545454545453
+benchmark,sepsis_cases_1,LGBM,4,23,21,0.15789473684210525
+benchmark,sepsis_cases_1,LGBM,4,24,19,0.23529411764705882
+benchmark,sepsis_cases_1,LGBM,4,25,17,0.23333333333333334
+benchmark,sepsis_cases_1,LGBM,4,26,16,0.2142857142857143
+benchmark,sepsis_cases_1,LGBM,4,27,16,0.2142857142857143
+benchmark,sepsis_cases_1,LGBM,4,28,15,0.23076923076923078
+benchmark,sepsis_cases_1,LGBM,4,29,13,0.2272727272727273
+benchmark,sepsis_cases_1,CatBoost,0,1,157,0.4812150279776179
+benchmark,sepsis_cases_1,CatBoost,0,2,157,0.4804156674660272
+benchmark,sepsis_cases_1,CatBoost,0,3,157,0.4804156674660272
+benchmark,sepsis_cases_1,CatBoost,0,4,157,0.47482014388489213
+benchmark,sepsis_cases_1,CatBoost,0,5,157,0.47042366107114314
+benchmark,sepsis_cases_1,CatBoost,0,6,157,0.4706235011990408
+benchmark,sepsis_cases_1,CatBoost,0,7,157,0.4668265387689848
+benchmark,sepsis_cases_1,CatBoost,0,8,157,0.46542765787370105
+benchmark,sepsis_cases_1,CatBoost,0,9,154,0.45731209150326796
+benchmark,sepsis_cases_1,CatBoost,0,10,152,0.45294361525704807
+benchmark,sepsis_cases_1,CatBoost,0,11,141,0.48300000000000004
+benchmark,sepsis_cases_1,CatBoost,0,12,129,0.508695652173913
+benchmark,sepsis_cases_1,CatBoost,0,13,109,0.5055555555555555
+benchmark,sepsis_cases_1,CatBoost,0,14,90,0.5022865853658537
+benchmark,sepsis_cases_1,CatBoost,0,15,78,0.49375
+benchmark,sepsis_cases_1,CatBoost,0,16,60,0.39351851851851843
+benchmark,sepsis_cases_1,CatBoost,0,17,49,0.40681818181818186
+benchmark,sepsis_cases_1,CatBoost,0,18,38,0.4027777777777778
+benchmark,sepsis_cases_1,CatBoost,0,19,36,0.3970588235294118
+benchmark,sepsis_cases_1,CatBoost,0,20,32,0.4
+benchmark,sepsis_cases_1,CatBoost,0,21,28,0.3846153846153846
+benchmark,sepsis_cases_1,CatBoost,0,22,24,0.36363636363636365
+benchmark,sepsis_cases_1,CatBoost,0,23,21,0.368421052631579
+benchmark,sepsis_cases_1,CatBoost,0,24,19,0.38235294117647056
+benchmark,sepsis_cases_1,CatBoost,0,25,17,0.4
+benchmark,sepsis_cases_1,CatBoost,0,26,16,0.35714285714285715
+benchmark,sepsis_cases_1,CatBoost,0,27,16,0.35714285714285715
+benchmark,sepsis_cases_1,CatBoost,0,28,15,0.34615384615384615
+benchmark,sepsis_cases_1,CatBoost,0,29,13,0.6363636363636364
+benchmark,sepsis_cases_1,CatBoost,1,1,157,0.4320543565147882
+benchmark,sepsis_cases_1,CatBoost,1,2,157,0.4328537170263789
+benchmark,sepsis_cases_1,CatBoost,1,3,157,0.45923261390887293
+benchmark,sepsis_cases_1,CatBoost,1,4,157,0.4636290967226219
+benchmark,sepsis_cases_1,CatBoost,1,5,157,0.4540367705835332
+benchmark,sepsis_cases_1,CatBoost,1,6,157,0.48081534772182255
+benchmark,sepsis_cases_1,CatBoost,1,7,157,0.5
+benchmark,sepsis_cases_1,CatBoost,1,8,157,0.5147881694644285
+benchmark,sepsis_cases_1,CatBoost,1,9,154,0.514297385620915
+benchmark,sepsis_cases_1,CatBoost,1,10,152,0.5066334991708126
+benchmark,sepsis_cases_1,CatBoost,1,11,141,0.534
+benchmark,sepsis_cases_1,CatBoost,1,12,129,0.5279503105590062
+benchmark,sepsis_cases_1,CatBoost,1,13,109,0.5878787878787879
+benchmark,sepsis_cases_1,CatBoost,1,14,90,0.5457317073170732
+benchmark,sepsis_cases_1,CatBoost,1,15,78,0.5321428571428571
+benchmark,sepsis_cases_1,CatBoost,1,16,60,0.44753086419753085
+benchmark,sepsis_cases_1,CatBoost,1,17,49,0.3727272727272727
+benchmark,sepsis_cases_1,CatBoost,1,18,38,0.20833333333333331
+benchmark,sepsis_cases_1,CatBoost,1,19,36,0.20588235294117646
+benchmark,sepsis_cases_1,CatBoost,1,20,32,0.21666666666666667
+benchmark,sepsis_cases_1,CatBoost,1,21,28,0.36538461538461536
+benchmark,sepsis_cases_1,CatBoost,1,22,24,0.36363636363636365
+benchmark,sepsis_cases_1,CatBoost,1,23,21,0.3421052631578948
+benchmark,sepsis_cases_1,CatBoost,1,24,19,0.1470588235294118
+benchmark,sepsis_cases_1,CatBoost,1,25,17,0.2
+benchmark,sepsis_cases_1,CatBoost,1,26,16,0.14285714285714285
+benchmark,sepsis_cases_1,CatBoost,1,27,16,0.10714285714285715
+benchmark,sepsis_cases_1,CatBoost,1,28,15,0.15384615384615385
+benchmark,sepsis_cases_1,CatBoost,1,29,13,0.6363636363636364
+benchmark,sepsis_cases_1,CatBoost,2,1,157,0.5059952038369304
+benchmark,sepsis_cases_1,CatBoost,2,2,157,0.5083932853717026
+benchmark,sepsis_cases_1,CatBoost,2,3,157,0.5087929656274981
+benchmark,sepsis_cases_1,CatBoost,2,4,157,0.49720223820943243
+benchmark,sepsis_cases_1,CatBoost,2,5,157,0.4936051159072742
+benchmark,sepsis_cases_1,CatBoost,2,6,157,0.503197442046363
+benchmark,sepsis_cases_1,CatBoost,2,7,157,0.4880095923261391
+benchmark,sepsis_cases_1,CatBoost,2,8,157,0.49360511590727413
+benchmark,sepsis_cases_1,CatBoost,2,9,154,0.48039215686274506
+benchmark,sepsis_cases_1,CatBoost,2,10,152,0.472636815920398
+benchmark,sepsis_cases_1,CatBoost,2,11,141,0.482
+benchmark,sepsis_cases_1,CatBoost,2,12,129,0.47080745341614905
+benchmark,sepsis_cases_1,CatBoost,2,13,109,0.49595959595959604
+benchmark,sepsis_cases_1,CatBoost,2,14,90,0.4451219512195122
+benchmark,sepsis_cases_1,CatBoost,2,15,78,0.43392857142857144
+benchmark,sepsis_cases_1,CatBoost,2,16,60,0.33641975308641975
+benchmark,sepsis_cases_1,CatBoost,2,17,49,0.3090909090909091
+benchmark,sepsis_cases_1,CatBoost,2,18,38,0.1388888888888889
+benchmark,sepsis_cases_1,CatBoost,2,19,36,0.14705882352941174
+benchmark,sepsis_cases_1,CatBoost,2,20,32,0.15000000000000002
+benchmark,sepsis_cases_1,CatBoost,2,21,28,0.40384615384615385
+benchmark,sepsis_cases_1,CatBoost,2,22,24,0.38636363636363635
+benchmark,sepsis_cases_1,CatBoost,2,23,21,0.368421052631579
+benchmark,sepsis_cases_1,CatBoost,2,24,19,0.23529411764705882
+benchmark,sepsis_cases_1,CatBoost,2,25,17,0.3
+benchmark,sepsis_cases_1,CatBoost,2,26,16,0.2857142857142857
+benchmark,sepsis_cases_1,CatBoost,2,27,16,0.2857142857142857
+benchmark,sepsis_cases_1,CatBoost,2,28,15,0.1923076923076923
+benchmark,sepsis_cases_1,CatBoost,2,29,13,0.3181818181818182
+benchmark,sepsis_cases_1,CatBoost,3,1,157,0.5047961630695443
+benchmark,sepsis_cases_1,CatBoost,3,2,157,0.5047961630695443
+benchmark,sepsis_cases_1,CatBoost,3,3,157,0.5055955235811351
+benchmark,sepsis_cases_1,CatBoost,3,4,157,0.5011990407673861
+benchmark,sepsis_cases_1,CatBoost,3,5,157,0.4976019184652278
+benchmark,sepsis_cases_1,CatBoost,3,6,157,0.5001998401278976
+benchmark,sepsis_cases_1,CatBoost,3,7,157,0.503796962430056
+benchmark,sepsis_cases_1,CatBoost,3,8,157,0.5045963229416467
+benchmark,sepsis_cases_1,CatBoost,3,9,154,0.5016339869281046
+benchmark,sepsis_cases_1,CatBoost,3,10,152,0.5058043117744611
+benchmark,sepsis_cases_1,CatBoost,3,11,141,0.5195
+benchmark,sepsis_cases_1,CatBoost,3,12,129,0.5114906832298136
+benchmark,sepsis_cases_1,CatBoost,3,13,109,0.4671717171717172
+benchmark,sepsis_cases_1,CatBoost,3,14,90,0.5099085365853658
+benchmark,sepsis_cases_1,CatBoost,3,15,78,0.5044642857142857
+benchmark,sepsis_cases_1,CatBoost,3,16,60,0.40586419753086417
+benchmark,sepsis_cases_1,CatBoost,3,17,49,0.4204545454545455
+benchmark,sepsis_cases_1,CatBoost,3,18,38,0.4305555555555556
+benchmark,sepsis_cases_1,CatBoost,3,19,36,0.4264705882352941
+benchmark,sepsis_cases_1,CatBoost,3,20,32,0.4166666666666667
+benchmark,sepsis_cases_1,CatBoost,3,21,28,0.3846153846153846
+benchmark,sepsis_cases_1,CatBoost,3,22,24,0.4090909090909091
+benchmark,sepsis_cases_1,CatBoost,3,23,21,0.368421052631579
+benchmark,sepsis_cases_1,CatBoost,3,24,19,0.3529411764705882
+benchmark,sepsis_cases_1,CatBoost,3,25,17,0.3666666666666667
+benchmark,sepsis_cases_1,CatBoost,3,26,16,0.39285714285714285
+benchmark,sepsis_cases_1,CatBoost,3,27,16,0.39285714285714285
+benchmark,sepsis_cases_1,CatBoost,3,28,15,0.3846153846153846
+benchmark,sepsis_cases_1,CatBoost,3,29,13,0.45454545454545453
+benchmark,sepsis_cases_1,CatBoost,4,1,157,0.5171862509992007
+benchmark,sepsis_cases_1,CatBoost,4,2,157,0.5155875299760192
+benchmark,sepsis_cases_1,CatBoost,4,3,157,0.5155875299760192
+benchmark,sepsis_cases_1,CatBoost,4,4,157,0.5159872102318146
+benchmark,sepsis_cases_1,CatBoost,4,5,157,0.5135891286970423
+benchmark,sepsis_cases_1,CatBoost,4,6,157,0.5159872102318146
+benchmark,sepsis_cases_1,CatBoost,4,7,157,0.5335731414868106
+benchmark,sepsis_cases_1,CatBoost,4,8,157,0.5375699440447641
+benchmark,sepsis_cases_1,CatBoost,4,9,154,0.5255310457516339
+benchmark,sepsis_cases_1,CatBoost,4,10,152,0.523424543946932
+benchmark,sepsis_cases_1,CatBoost,4,11,141,0.53575
+benchmark,sepsis_cases_1,CatBoost,4,12,129,0.5484472049689441
+benchmark,sepsis_cases_1,CatBoost,4,13,109,0.5202020202020202
+benchmark,sepsis_cases_1,CatBoost,4,14,90,0.46493902439024387
+benchmark,sepsis_cases_1,CatBoost,4,15,78,0.4517857142857143
+benchmark,sepsis_cases_1,CatBoost,4,16,60,0.32716049382716045
+benchmark,sepsis_cases_1,CatBoost,4,17,49,0.37727272727272726
+benchmark,sepsis_cases_1,CatBoost,4,18,38,0.29166666666666663
+benchmark,sepsis_cases_1,CatBoost,4,19,36,0.29411764705882354
+benchmark,sepsis_cases_1,CatBoost,4,20,32,0.3
+benchmark,sepsis_cases_1,CatBoost,4,21,28,0.3846153846153846
+benchmark,sepsis_cases_1,CatBoost,4,22,24,0.36363636363636365
+benchmark,sepsis_cases_1,CatBoost,4,23,21,0.368421052631579
+benchmark,sepsis_cases_1,CatBoost,4,24,19,0.32352941176470584
+benchmark,sepsis_cases_1,CatBoost,4,25,17,0.26666666666666666
+benchmark,sepsis_cases_1,CatBoost,4,26,16,0.2857142857142857
+benchmark,sepsis_cases_1,CatBoost,4,27,16,0.2857142857142857
+benchmark,sepsis_cases_1,CatBoost,4,28,15,0.23076923076923078
+benchmark,sepsis_cases_1,CatBoost,4,29,13,0.2272727272727273
+benchmark,sepsis_cases_1,LSTM,0,1,157,0.4536370903277378
+benchmark,sepsis_cases_1,LSTM,0,2,157,0.4688249400479617
+benchmark,sepsis_cases_1,LSTM,0,3,157,0.45163868904876103
+benchmark,sepsis_cases_1,LSTM,0,4,157,0.4308553157474021
+benchmark,sepsis_cases_1,LSTM,0,5,157,0.4348521183053557
+benchmark,sepsis_cases_1,LSTM,0,6,157,0.41167066346922465
+benchmark,sepsis_cases_1,LSTM,0,7,157,0.43325339728217427
+benchmark,sepsis_cases_1,LSTM,0,8,157,0.4436450839328537
+benchmark,sepsis_cases_1,LSTM,0,9,154,0.40032679738562094
+benchmark,sepsis_cases_1,LSTM,0,10,152,0.42661691542288555
+benchmark,sepsis_cases_1,LSTM,0,11,141,0.46549999999999997
+benchmark,sepsis_cases_1,LSTM,0,12,129,0.4447204968944099
+benchmark,sepsis_cases_1,LSTM,0,13,109,0.47878787878787876
+benchmark,sepsis_cases_1,LSTM,0,14,90,0.4253048780487805
+benchmark,sepsis_cases_1,LSTM,0,15,78,0.3857142857142857
+benchmark,sepsis_cases_1,LSTM,0,16,60,0.41049382716049376
+benchmark,sepsis_cases_1,LSTM,0,17,49,0.4727272727272728
+benchmark,sepsis_cases_1,LSTM,0,18,38,0.16666666666666669
+benchmark,sepsis_cases_1,LSTM,0,19,36,0.13235294117647062
+benchmark,sepsis_cases_1,LSTM,0,20,32,0.08333333333333331
+benchmark,sepsis_cases_1,LSTM,0,21,28,0.09615384615384615
+benchmark,sepsis_cases_1,LSTM,0,22,24,0.13636363636363635
+benchmark,sepsis_cases_1,LSTM,0,23,21,0.05263157894736842
+benchmark,sepsis_cases_1,LSTM,0,24,19,0.08823529411764708
+benchmark,sepsis_cases_1,LSTM,0,25,17,0.06666666666666665
+benchmark,sepsis_cases_1,LSTM,0,26,16,0.07142857142857145
+benchmark,sepsis_cases_1,LSTM,0,27,16,0.0357142857142857
+benchmark,sepsis_cases_1,LSTM,0,28,15,0.038461538461538436
+benchmark,sepsis_cases_1,LSTM,0,29,13,0.04545454545454547
+benchmark,sepsis_cases_1,LSTM,1,1,157,0.45043964828137484
+benchmark,sepsis_cases_1,LSTM,1,2,157,0.44764188649080733
+benchmark,sepsis_cases_1,LSTM,1,3,157,0.4448441247002398
+benchmark,sepsis_cases_1,LSTM,1,4,157,0.4216626698641087
+benchmark,sepsis_cases_1,LSTM,1,5,157,0.43764988009592326
+benchmark,sepsis_cases_1,LSTM,1,6,157,0.3996802557953637
+benchmark,sepsis_cases_1,LSTM,1,7,157,0.4324540367705835
+benchmark,sepsis_cases_1,LSTM,1,8,157,0.4580335731414868
+benchmark,sepsis_cases_1,LSTM,1,9,154,0.4354575163398693
+benchmark,sepsis_cases_1,LSTM,1,10,152,0.43034825870646765
+benchmark,sepsis_cases_1,LSTM,1,11,141,0.438
+benchmark,sepsis_cases_1,LSTM,1,12,129,0.4335403726708074
+benchmark,sepsis_cases_1,LSTM,1,13,109,0.45858585858585854
+benchmark,sepsis_cases_1,LSTM,1,14,90,0.4222560975609756
+benchmark,sepsis_cases_1,LSTM,1,15,78,0.3767857142857143
+benchmark,sepsis_cases_1,LSTM,1,16,60,0.4104938271604938
+benchmark,sepsis_cases_1,LSTM,1,17,49,0.4318181818181819
+benchmark,sepsis_cases_1,LSTM,1,18,38,0.18055555555555558
+benchmark,sepsis_cases_1,LSTM,1,19,36,0.13235294117647062
+benchmark,sepsis_cases_1,LSTM,1,20,32,0.06666666666666665
+benchmark,sepsis_cases_1,LSTM,1,21,28,0.09615384615384615
+benchmark,sepsis_cases_1,LSTM,1,22,24,0.11363636363636365
+benchmark,sepsis_cases_1,LSTM,1,23,21,0.10526315789473684
+benchmark,sepsis_cases_1,LSTM,1,24,19,0.1470588235294118
+benchmark,sepsis_cases_1,LSTM,1,25,17,0.16666666666666669
+benchmark,sepsis_cases_1,LSTM,1,26,16,0.10714285714285715
+benchmark,sepsis_cases_1,LSTM,1,27,16,0.10714285714285715
+benchmark,sepsis_cases_1,LSTM,1,28,15,0.07692307692307693
+benchmark,sepsis_cases_1,LSTM,1,29,13,0.0
+benchmark,sepsis_cases_1,LSTM,2,1,157,0.44044764188649077
+benchmark,sepsis_cases_1,LSTM,2,2,157,0.44204636290967225
+benchmark,sepsis_cases_1,LSTM,2,3,157,0.4412470023980815
+benchmark,sepsis_cases_1,LSTM,2,4,157,0.4288569144684253
+benchmark,sepsis_cases_1,LSTM,2,5,157,0.4216626698641087
+benchmark,sepsis_cases_1,LSTM,2,6,157,0.3864908073541167
+benchmark,sepsis_cases_1,LSTM,2,7,157,0.42765787370103914
+benchmark,sepsis_cases_1,LSTM,2,8,157,0.45803357314148685
+benchmark,sepsis_cases_1,LSTM,2,9,154,0.4142156862745098
+benchmark,sepsis_cases_1,LSTM,2,10,152,0.3938640132669984
+benchmark,sepsis_cases_1,LSTM,2,11,141,0.4175
+benchmark,sepsis_cases_1,LSTM,2,12,129,0.3987577639751553
+benchmark,sepsis_cases_1,LSTM,2,13,109,0.4434343434343434
+benchmark,sepsis_cases_1,LSTM,2,14,90,0.375
+benchmark,sepsis_cases_1,LSTM,2,15,78,0.34464285714285714
+benchmark,sepsis_cases_1,LSTM,2,16,60,0.3796296296296296
+benchmark,sepsis_cases_1,LSTM,2,17,49,0.33181818181818185
+benchmark,sepsis_cases_1,LSTM,2,18,38,0.09722222222222221
+benchmark,sepsis_cases_1,LSTM,2,19,36,0.08823529411764708
+benchmark,sepsis_cases_1,LSTM,2,20,32,0.06666666666666665
+benchmark,sepsis_cases_1,LSTM,2,21,28,0.07692307692307687
+benchmark,sepsis_cases_1,LSTM,2,22,24,0.09090909090909094
+benchmark,sepsis_cases_1,LSTM,2,23,21,0.052631578947368474
+benchmark,sepsis_cases_1,LSTM,2,24,19,0.05882352941176472
+benchmark,sepsis_cases_1,LSTM,2,25,17,0.06666666666666665
+benchmark,sepsis_cases_1,LSTM,2,26,16,0.0357142857142857
+benchmark,sepsis_cases_1,LSTM,2,27,16,0.0357142857142857
+benchmark,sepsis_cases_1,LSTM,2,28,15,0.0
+benchmark,sepsis_cases_1,LSTM,2,29,13,0.0
+benchmark,sepsis_cases_1,LSTM,3,1,157,0.5927258193445244
+benchmark,sepsis_cases_1,LSTM,3,2,157,0.5103916866506795
+benchmark,sepsis_cases_1,LSTM,3,3,157,0.5119904076738608
+benchmark,sepsis_cases_1,LSTM,3,4,157,0.4864108713029576
+benchmark,sepsis_cases_1,LSTM,3,5,157,0.547162270183853
+benchmark,sepsis_cases_1,LSTM,3,6,157,0.5407673860911271
+benchmark,sepsis_cases_1,LSTM,3,7,157,0.473621103117506
+benchmark,sepsis_cases_1,LSTM,3,8,157,0.5475619504396483
+benchmark,sepsis_cases_1,LSTM,3,9,154,0.5265522875816994
+benchmark,sepsis_cases_1,LSTM,3,10,152,0.5418739635157546
+benchmark,sepsis_cases_1,LSTM,3,11,141,0.6000000000000001
+benchmark,sepsis_cases_1,LSTM,3,12,129,0.43602484472049685
+benchmark,sepsis_cases_1,LSTM,3,13,109,0.398989898989899
+benchmark,sepsis_cases_1,LSTM,3,14,90,0.44359756097560976
+benchmark,sepsis_cases_1,LSTM,3,15,78,0.30892857142857144
+benchmark,sepsis_cases_1,LSTM,3,16,60,0.30246913580246915
+benchmark,sepsis_cases_1,LSTM,3,17,49,0.2909090909090909
+benchmark,sepsis_cases_1,LSTM,3,18,38,0.06944444444444442
+benchmark,sepsis_cases_1,LSTM,3,19,36,0.13235294117647062
+benchmark,sepsis_cases_1,LSTM,3,20,32,0.09999999999999998
+benchmark,sepsis_cases_1,LSTM,3,21,28,0.11538461538461536
+benchmark,sepsis_cases_1,LSTM,3,22,24,0.06818181818181818
+benchmark,sepsis_cases_1,LSTM,3,23,21,0.0
+benchmark,sepsis_cases_1,LSTM,3,24,19,0.11764705882352944
+benchmark,sepsis_cases_1,LSTM,3,25,17,0.033333333333333326
+benchmark,sepsis_cases_1,LSTM,3,26,16,0.14285714285714285
+benchmark,sepsis_cases_1,LSTM,3,27,16,0.07142857142857145
+benchmark,sepsis_cases_1,LSTM,3,28,15,0.11538461538461536
+benchmark,sepsis_cases_1,LSTM,3,29,13,0.04545454545454547
+benchmark,sepsis_cases_1,LSTM,4,1,157,0.46163069544364504
+benchmark,sepsis_cases_1,LSTM,4,2,157,0.4648281374900079
+benchmark,sepsis_cases_1,LSTM,4,3,157,0.45443645083932854
+benchmark,sepsis_cases_1,LSTM,4,4,157,0.43764988009592326
+benchmark,sepsis_cases_1,LSTM,4,5,157,0.43804956035171866
+benchmark,sepsis_cases_1,LSTM,4,6,157,0.4236610711430855
+benchmark,sepsis_cases_1,LSTM,4,7,157,0.43804956035171866
+benchmark,sepsis_cases_1,LSTM,4,8,157,0.45403677058353314
+benchmark,sepsis_cases_1,LSTM,4,9,154,0.4415849673202614
+benchmark,sepsis_cases_1,LSTM,4,10,152,0.40920398009950254
+benchmark,sepsis_cases_1,LSTM,4,11,141,0.4075
+benchmark,sepsis_cases_1,LSTM,4,12,129,0.39689440993788816
+benchmark,sepsis_cases_1,LSTM,4,13,109,0.44242424242424244
+benchmark,sepsis_cases_1,LSTM,4,14,90,0.3795731707317074
+benchmark,sepsis_cases_1,LSTM,4,15,78,0.35892857142857143
+benchmark,sepsis_cases_1,LSTM,4,16,60,0.3919753086419753
+benchmark,sepsis_cases_1,LSTM,4,17,49,0.35909090909090907
+benchmark,sepsis_cases_1,LSTM,4,18,38,0.20833333333333337
+benchmark,sepsis_cases_1,LSTM,4,19,36,0.19117647058823528
+benchmark,sepsis_cases_1,LSTM,4,20,32,0.14999999999999997
+benchmark,sepsis_cases_1,LSTM,4,21,28,0.17307692307692307
+benchmark,sepsis_cases_1,LSTM,4,22,24,0.15909090909090906
+benchmark,sepsis_cases_1,LSTM,4,23,21,0.10526315789473684
+benchmark,sepsis_cases_1,LSTM,4,24,19,0.11764705882352944
+benchmark,sepsis_cases_1,LSTM,4,25,17,0.1333333333333333
+benchmark,sepsis_cases_1,LSTM,4,26,16,0.07142857142857145
+benchmark,sepsis_cases_1,LSTM,4,27,16,0.10714285714285715
+benchmark,sepsis_cases_1,LSTM,4,28,15,0.038461538461538436
+benchmark,sepsis_cases_1,LSTM,4,29,13,0.04545454545454547
+benchmark,sepsis_cases_1,Transformer,0,1,157,0.4364508393285371
+benchmark,sepsis_cases_1,Transformer,0,2,157,0.4128697042366107
+benchmark,sepsis_cases_1,Transformer,0,3,157,0.42206235011990406
+benchmark,sepsis_cases_1,Transformer,0,4,157,0.3980815347721823
+benchmark,sepsis_cases_1,Transformer,0,5,157,0.39768185451638693
+benchmark,sepsis_cases_1,Transformer,0,6,157,0.38808952837729815
+benchmark,sepsis_cases_1,Transformer,0,7,157,0.41446842525979216
+benchmark,sepsis_cases_1,Transformer,0,8,157,0.4084732214228617
+benchmark,sepsis_cases_1,Transformer,0,9,154,0.3570261437908496
+benchmark,sepsis_cases_1,Transformer,0,10,152,0.38474295190713104
+benchmark,sepsis_cases_1,Transformer,0,11,141,0.3895
+benchmark,sepsis_cases_1,Transformer,0,12,129,0.38571428571428573
+benchmark,sepsis_cases_1,Transformer,0,13,109,0.36262626262626263
+benchmark,sepsis_cases_1,Transformer,0,14,90,0.3048780487804878
+benchmark,sepsis_cases_1,Transformer,0,15,78,0.24642857142857144
+benchmark,sepsis_cases_1,Transformer,0,16,60,0.25925925925925924
+benchmark,sepsis_cases_1,Transformer,0,17,49,0.2681818181818182
+benchmark,sepsis_cases_1,Transformer,0,18,38,0.16666666666666669
+benchmark,sepsis_cases_1,Transformer,0,19,36,0.19117647058823528
+benchmark,sepsis_cases_1,Transformer,0,20,32,0.1333333333333333
+benchmark,sepsis_cases_1,Transformer,0,21,28,0.15384615384615385
+benchmark,sepsis_cases_1,Transformer,0,22,24,0.15909090909090906
+benchmark,sepsis_cases_1,Transformer,0,23,21,0.10526315789473689
+benchmark,sepsis_cases_1,Transformer,0,24,19,0.23529411764705882
+benchmark,sepsis_cases_1,Transformer,0,25,17,0.06666666666666665
+benchmark,sepsis_cases_1,Transformer,0,26,16,0.0714285714285714
+benchmark,sepsis_cases_1,Transformer,0,27,16,0.0714285714285714
+benchmark,sepsis_cases_1,Transformer,0,28,15,0.07692307692307687
+benchmark,sepsis_cases_1,Transformer,0,29,13,0.09090909090909094
+benchmark,sepsis_cases_1,Transformer,1,1,157,0.4288569144684253
+benchmark,sepsis_cases_1,Transformer,1,2,157,0.442845723421263
+benchmark,sepsis_cases_1,Transformer,1,3,157,0.438449240607514
+benchmark,sepsis_cases_1,Transformer,1,4,157,0.44764188649080733
+benchmark,sepsis_cases_1,Transformer,1,5,157,0.41966426858513195
+benchmark,sepsis_cases_1,Transformer,1,6,157,0.41446842525979216
+benchmark,sepsis_cases_1,Transformer,1,7,157,0.45643485211830537
+benchmark,sepsis_cases_1,Transformer,1,8,157,0.46682653876898483
+benchmark,sepsis_cases_1,Transformer,1,9,154,0.45874183006535946
+benchmark,sepsis_cases_1,Transformer,1,10,152,0.4606135986733002
+benchmark,sepsis_cases_1,Transformer,1,11,141,0.47350000000000003
+benchmark,sepsis_cases_1,Transformer,1,12,129,0.41490683229813663
+benchmark,sepsis_cases_1,Transformer,1,13,109,0.40909090909090906
+benchmark,sepsis_cases_1,Transformer,1,14,90,0.32621951219512196
+benchmark,sepsis_cases_1,Transformer,1,15,78,0.29642857142857143
+benchmark,sepsis_cases_1,Transformer,1,16,60,0.36419753086419754
+benchmark,sepsis_cases_1,Transformer,1,17,49,0.37727272727272726
+benchmark,sepsis_cases_1,Transformer,1,18,38,0.18055555555555552
+benchmark,sepsis_cases_1,Transformer,1,19,36,0.11764705882352944
+benchmark,sepsis_cases_1,Transformer,1,20,32,0.1833333333333333
+benchmark,sepsis_cases_1,Transformer,1,21,28,0.15384615384615385
+benchmark,sepsis_cases_1,Transformer,1,22,24,0.25
+benchmark,sepsis_cases_1,Transformer,1,23,21,0.1842105263157895
+benchmark,sepsis_cases_1,Transformer,1,24,19,0.20588235294117646
+benchmark,sepsis_cases_1,Transformer,1,25,17,0.1333333333333333
+benchmark,sepsis_cases_1,Transformer,1,26,16,0.10714285714285715
+benchmark,sepsis_cases_1,Transformer,1,27,16,0.10714285714285715
+benchmark,sepsis_cases_1,Transformer,1,28,15,0.11538461538461536
+benchmark,sepsis_cases_1,Transformer,1,29,13,0.09090909090909088
+benchmark,sepsis_cases_1,Transformer,2,1,157,0.4404476418864908
+benchmark,sepsis_cases_1,Transformer,2,2,157,0.43125499600319744
+benchmark,sepsis_cases_1,Transformer,2,3,157,0.438449240607514
+benchmark,sepsis_cases_1,Transformer,2,4,157,0.42645883293365305
+benchmark,sepsis_cases_1,Transformer,2,5,157,0.41526778577138285
+benchmark,sepsis_cases_1,Transformer,2,6,157,0.4172661870503597
+benchmark,sepsis_cases_1,Transformer,2,7,157,0.45643485211830537
+benchmark,sepsis_cases_1,Transformer,2,8,157,0.45003996802557955
+benchmark,sepsis_cases_1,Transformer,2,9,154,0.4281045751633987
+benchmark,sepsis_cases_1,Transformer,2,10,152,0.453150912106136
+benchmark,sepsis_cases_1,Transformer,2,11,141,0.42499999999999993
+benchmark,sepsis_cases_1,Transformer,2,12,129,0.40621118012422364
+benchmark,sepsis_cases_1,Transformer,2,13,109,0.3929292929292929
+benchmark,sepsis_cases_1,Transformer,2,14,90,0.33384146341463417
+benchmark,sepsis_cases_1,Transformer,2,15,78,0.2607142857142857
+benchmark,sepsis_cases_1,Transformer,2,16,60,0.3117283950617284
+benchmark,sepsis_cases_1,Transformer,2,17,49,0.3090909090909091
+benchmark,sepsis_cases_1,Transformer,2,18,38,0.125
+benchmark,sepsis_cases_1,Transformer,2,19,36,0.10294117647058826
+benchmark,sepsis_cases_1,Transformer,2,20,32,0.1333333333333333
+benchmark,sepsis_cases_1,Transformer,2,21,28,0.15384615384615385
+benchmark,sepsis_cases_1,Transformer,2,22,24,0.13636363636363635
+benchmark,sepsis_cases_1,Transformer,2,23,21,0.1578947368421053
+benchmark,sepsis_cases_1,Transformer,2,24,19,0.11764705882352944
+benchmark,sepsis_cases_1,Transformer,2,25,17,0.1333333333333333
+benchmark,sepsis_cases_1,Transformer,2,26,16,0.0357142857142857
+benchmark,sepsis_cases_1,Transformer,2,27,16,0.0714285714285714
+benchmark,sepsis_cases_1,Transformer,2,28,15,0.07692307692307687
+benchmark,sepsis_cases_1,Transformer,2,29,13,0.13636363636363635
+benchmark,sepsis_cases_1,Transformer,3,1,157,0.45523581135091934
+benchmark,sepsis_cases_1,Transformer,3,2,157,0.4364508393285371
+benchmark,sepsis_cases_1,Transformer,3,3,157,0.4528377298161471
+benchmark,sepsis_cases_1,Transformer,3,4,157,0.4516386890487609
+benchmark,sepsis_cases_1,Transformer,3,5,157,0.44844124700239807
+benchmark,sepsis_cases_1,Transformer,3,6,157,0.44364508393285373
+benchmark,sepsis_cases_1,Transformer,3,7,157,0.45723421262989605
+benchmark,sepsis_cases_1,Transformer,3,8,157,0.4704236610711431
+benchmark,sepsis_cases_1,Transformer,3,9,154,0.47753267973856217
+benchmark,sepsis_cases_1,Transformer,3,10,152,0.47180762852404645
+benchmark,sepsis_cases_1,Transformer,3,11,141,0.476
+benchmark,sepsis_cases_1,Transformer,3,12,129,0.41677018633540375
+benchmark,sepsis_cases_1,Transformer,3,13,109,0.4424242424242424
+benchmark,sepsis_cases_1,Transformer,3,14,90,0.3582317073170732
+benchmark,sepsis_cases_1,Transformer,3,15,78,0.28035714285714286
+benchmark,sepsis_cases_1,Transformer,3,16,60,0.35802469135802467
+benchmark,sepsis_cases_1,Transformer,3,17,49,0.2727272727272727
+benchmark,sepsis_cases_1,Transformer,3,18,38,0.22222222222222227
+benchmark,sepsis_cases_1,Transformer,3,19,36,0.19117647058823528
+benchmark,sepsis_cases_1,Transformer,3,20,32,0.1333333333333333
+benchmark,sepsis_cases_1,Transformer,3,21,28,0.1923076923076923
+benchmark,sepsis_cases_1,Transformer,3,22,24,0.18181818181818182
+benchmark,sepsis_cases_1,Transformer,3,23,21,0.13157894736842107
+benchmark,sepsis_cases_1,Transformer,3,24,19,0.23529411764705882
+benchmark,sepsis_cases_1,Transformer,3,25,17,0.2
+benchmark,sepsis_cases_1,Transformer,3,26,16,0.07142857142857145
+benchmark,sepsis_cases_1,Transformer,3,27,16,0.0357142857142857
+benchmark,sepsis_cases_1,Transformer,3,28,15,0.11538461538461536
+benchmark,sepsis_cases_1,Transformer,3,29,13,0.09090909090909088
+benchmark,sepsis_cases_1,Transformer,4,1,157,0.4296562749800159
+benchmark,sepsis_cases_1,Transformer,4,2,157,0.4376498800959232
+benchmark,sepsis_cases_1,Transformer,4,3,157,0.4364508393285372
+benchmark,sepsis_cases_1,Transformer,4,4,157,0.4292565947242206
+benchmark,sepsis_cases_1,Transformer,4,5,157,0.42246203037569946
+benchmark,sepsis_cases_1,Transformer,4,6,157,0.4304556354916067
+benchmark,sepsis_cases_1,Transformer,4,7,157,0.4344524380495604
+benchmark,sepsis_cases_1,Transformer,4,8,157,0.43764988009592326
+benchmark,sepsis_cases_1,Transformer,4,9,154,0.4321895424836602
+benchmark,sepsis_cases_1,Transformer,4,10,152,0.4324212271973466
+benchmark,sepsis_cases_1,Transformer,4,11,141,0.4535
+benchmark,sepsis_cases_1,Transformer,4,12,129,0.391304347826087
+benchmark,sepsis_cases_1,Transformer,4,13,109,0.402020202020202
+benchmark,sepsis_cases_1,Transformer,4,14,90,0.3612804878048781
+benchmark,sepsis_cases_1,Transformer,4,15,78,0.29285714285714287
+benchmark,sepsis_cases_1,Transformer,4,16,60,0.35493827160493824
+benchmark,sepsis_cases_1,Transformer,4,17,49,0.32727272727272727
+benchmark,sepsis_cases_1,Transformer,4,18,38,0.1388888888888889
+benchmark,sepsis_cases_1,Transformer,4,19,36,0.16176470588235298
+benchmark,sepsis_cases_1,Transformer,4,20,32,0.1333333333333333
+benchmark,sepsis_cases_1,Transformer,4,21,28,0.15384615384615385
+benchmark,sepsis_cases_1,Transformer,4,22,24,0.15909090909090906
+benchmark,sepsis_cases_1,Transformer,4,23,21,0.1578947368421053
+benchmark,sepsis_cases_1,Transformer,4,24,19,0.20588235294117646
+benchmark,sepsis_cases_1,Transformer,4,25,17,0.06666666666666665
+benchmark,sepsis_cases_1,Transformer,4,26,16,0.0357142857142857
+benchmark,sepsis_cases_1,Transformer,4,27,16,0.0714285714285714
+benchmark,sepsis_cases_1,Transformer,4,28,15,0.07692307692307687
+benchmark,sepsis_cases_1,Transformer,4,29,13,0.09090909090909094
+benchmark,sepsis_cases_1,Stack (proposed),0,1,157,0.3872901678657074
+benchmark,sepsis_cases_1,Stack (proposed),0,2,157,0.38049560351718625
+benchmark,sepsis_cases_1,Stack (proposed),0,3,157,0.37969624300559557
+benchmark,sepsis_cases_1,Stack (proposed),0,4,157,0.3760991207034372
+benchmark,sepsis_cases_1,Stack (proposed),0,5,157,0.38928856914468424
+benchmark,sepsis_cases_1,Stack (proposed),0,6,157,0.398880895283773
+benchmark,sepsis_cases_1,Stack (proposed),0,7,157,0.41047162270183857
+benchmark,sepsis_cases_1,Stack (proposed),0,8,157,0.444044764188649
+benchmark,sepsis_cases_1,Stack (proposed),0,9,154,0.4170751633986928
+benchmark,sepsis_cases_1,Stack (proposed),0,10,152,0.3917910447761194
+benchmark,sepsis_cases_1,Stack (proposed),0,11,141,0.41600000000000004
+benchmark,sepsis_cases_1,Stack (proposed),0,12,129,0.44223602484472047
+benchmark,sepsis_cases_1,Stack (proposed),0,13,109,0.44646464646464645
+benchmark,sepsis_cases_1,Stack (proposed),0,14,90,0.3871951219512195
+benchmark,sepsis_cases_1,Stack (proposed),0,15,78,0.375
+benchmark,sepsis_cases_1,Stack (proposed),0,16,60,0.2561728395061728
+benchmark,sepsis_cases_1,Stack (proposed),0,17,49,0.2090909090909091
+benchmark,sepsis_cases_1,Stack (proposed),0,18,38,0.29166666666666663
+benchmark,sepsis_cases_1,Stack (proposed),0,19,36,0.27941176470588236
+benchmark,sepsis_cases_1,Stack (proposed),0,20,32,0.31666666666666665
+benchmark,sepsis_cases_1,Stack (proposed),0,21,28,0.3269230769230769
+benchmark,sepsis_cases_1,Stack (proposed),0,22,24,0.2954545454545454
+benchmark,sepsis_cases_1,Stack (proposed),0,23,21,0.2894736842105263
+benchmark,sepsis_cases_1,Stack (proposed),0,24,19,0.23529411764705882
+benchmark,sepsis_cases_1,Stack (proposed),0,25,17,0.23333333333333334
+benchmark,sepsis_cases_1,Stack (proposed),0,26,16,0.2142857142857143
+benchmark,sepsis_cases_1,Stack (proposed),0,27,16,0.17857142857142855
+benchmark,sepsis_cases_1,Stack (proposed),0,28,15,0.23076923076923078
+benchmark,sepsis_cases_1,Stack (proposed),0,29,13,0.31818181818181823
+benchmark,sepsis_cases_1,Stack (proposed),1,1,157,0.4446442845723421
+benchmark,sepsis_cases_1,Stack (proposed),1,2,157,0.451039168665068
+benchmark,sepsis_cases_1,Stack (proposed),1,3,157,0.4544364508393286
+benchmark,sepsis_cases_1,Stack (proposed),1,4,157,0.44704236610711434
+benchmark,sepsis_cases_1,Stack (proposed),1,5,157,0.45043964828137495
+benchmark,sepsis_cases_1,Stack (proposed),1,6,157,0.44684252597921664
+benchmark,sepsis_cases_1,Stack (proposed),1,7,157,0.44124700239808157
+benchmark,sepsis_cases_1,Stack (proposed),1,8,157,0.47701838529176666
+benchmark,sepsis_cases_1,Stack (proposed),1,9,154,0.46813725490196084
+benchmark,sepsis_cases_1,Stack (proposed),1,10,152,0.49606135986733
+benchmark,sepsis_cases_1,Stack (proposed),1,11,141,0.47424999999999995
+benchmark,sepsis_cases_1,Stack (proposed),1,12,129,0.5329192546583852
+benchmark,sepsis_cases_1,Stack (proposed),1,13,109,0.5030303030303032
+benchmark,sepsis_cases_1,Stack (proposed),1,14,90,0.36966463414634143
+benchmark,sepsis_cases_1,Stack (proposed),1,15,78,0.34285714285714286
+benchmark,sepsis_cases_1,Stack (proposed),1,16,60,0.2592592592592593
+benchmark,sepsis_cases_1,Stack (proposed),1,17,49,0.26136363636363635
+benchmark,sepsis_cases_1,Stack (proposed),1,18,38,0.2638888888888889
+benchmark,sepsis_cases_1,Stack (proposed),1,19,36,0.2647058823529412
+benchmark,sepsis_cases_1,Stack (proposed),1,20,32,0.25
+benchmark,sepsis_cases_1,Stack (proposed),1,21,28,0.2692307692307692
+benchmark,sepsis_cases_1,Stack (proposed),1,22,24,0.25
+benchmark,sepsis_cases_1,Stack (proposed),1,23,21,0.26315789473684215
+benchmark,sepsis_cases_1,Stack (proposed),1,24,19,0.4558823529411764
+benchmark,sepsis_cases_1,Stack (proposed),1,25,17,0.23333333333333334
+benchmark,sepsis_cases_1,Stack (proposed),1,26,16,0.2142857142857143
+benchmark,sepsis_cases_1,Stack (proposed),1,27,16,0.2142857142857143
+benchmark,sepsis_cases_1,Stack (proposed),1,28,15,0.23076923076923078
+benchmark,sepsis_cases_1,Stack (proposed),1,29,13,0.2272727272727273
+benchmark,sepsis_cases_1,Stack (proposed),2,1,157,0.48880895283772985
+benchmark,sepsis_cases_1,Stack (proposed),2,2,157,0.47761790567545964
+benchmark,sepsis_cases_1,Stack (proposed),2,3,157,0.47641886490807356
+benchmark,sepsis_cases_1,Stack (proposed),2,4,157,0.4628297362110312
+benchmark,sepsis_cases_1,Stack (proposed),2,5,157,0.45003996802557955
+benchmark,sepsis_cases_1,Stack (proposed),2,6,157,0.44804156674660267
+benchmark,sepsis_cases_1,Stack (proposed),2,7,157,0.491207034372502
+benchmark,sepsis_cases_1,Stack (proposed),2,8,157,0.48641087130295757
+benchmark,sepsis_cases_1,Stack (proposed),2,9,154,0.4812091503267974
+benchmark,sepsis_cases_1,Stack (proposed),2,10,152,0.4747097844112769
+benchmark,sepsis_cases_1,Stack (proposed),2,11,141,0.47150000000000003
+benchmark,sepsis_cases_1,Stack (proposed),2,12,129,0.45590062111801244
+benchmark,sepsis_cases_1,Stack (proposed),2,13,109,0.4727272727272727
+benchmark,sepsis_cases_1,Stack (proposed),2,14,90,0.4344512195121951
+benchmark,sepsis_cases_1,Stack (proposed),2,15,78,0.39464285714285713
+benchmark,sepsis_cases_1,Stack (proposed),2,16,60,0.30864197530864196
+benchmark,sepsis_cases_1,Stack (proposed),2,17,49,0.30454545454545456
+benchmark,sepsis_cases_1,Stack (proposed),2,18,38,0.1111111111111111
+benchmark,sepsis_cases_1,Stack (proposed),2,19,36,0.0735294117647059
+benchmark,sepsis_cases_1,Stack (proposed),2,20,32,0.08333333333333331
+benchmark,sepsis_cases_1,Stack (proposed),2,21,28,0.3846153846153846
+benchmark,sepsis_cases_1,Stack (proposed),2,22,24,0.34090909090909094
+benchmark,sepsis_cases_1,Stack (proposed),2,23,21,0.2894736842105263
+benchmark,sepsis_cases_1,Stack (proposed),2,24,19,0.23529411764705882
+benchmark,sepsis_cases_1,Stack (proposed),2,25,17,0.16666666666666669
+benchmark,sepsis_cases_1,Stack (proposed),2,26,16,0.17857142857142855
+benchmark,sepsis_cases_1,Stack (proposed),2,27,16,0.07142857142857145
+benchmark,sepsis_cases_1,Stack (proposed),2,28,15,0.07692307692307693
+benchmark,sepsis_cases_1,Stack (proposed),2,29,13,0.13636363636363635
+benchmark,sepsis_cases_1,Stack (proposed),3,1,157,0.4356514788169465
+benchmark,sepsis_cases_1,Stack (proposed),3,2,157,0.4436450839328537
+benchmark,sepsis_cases_1,Stack (proposed),3,3,157,0.44324540367705834
+benchmark,sepsis_cases_1,Stack (proposed),3,4,157,0.43565147881694644
+benchmark,sepsis_cases_1,Stack (proposed),3,5,157,0.4292565947242206
+benchmark,sepsis_cases_1,Stack (proposed),3,6,157,0.429656274980016
+benchmark,sepsis_cases_1,Stack (proposed),3,7,157,0.45603517186251
+benchmark,sepsis_cases_1,Stack (proposed),3,8,157,0.4832134292565948
+benchmark,sepsis_cases_1,Stack (proposed),3,9,154,0.46691176470588236
+benchmark,sepsis_cases_1,Stack (proposed),3,10,152,0.4461028192371476
+benchmark,sepsis_cases_1,Stack (proposed),3,11,141,0.441
+benchmark,sepsis_cases_1,Stack (proposed),3,12,129,0.4857142857142857
+benchmark,sepsis_cases_1,Stack (proposed),3,13,109,0.4898989898989899
+benchmark,sepsis_cases_1,Stack (proposed),3,14,90,0.37652439024390244
+benchmark,sepsis_cases_1,Stack (proposed),3,15,78,0.36071428571428577
+benchmark,sepsis_cases_1,Stack (proposed),3,16,60,0.2839506172839506
+benchmark,sepsis_cases_1,Stack (proposed),3,17,49,0.33636363636363636
+benchmark,sepsis_cases_1,Stack (proposed),3,18,38,0.20833333333333331
+benchmark,sepsis_cases_1,Stack (proposed),3,19,36,0.25
+benchmark,sepsis_cases_1,Stack (proposed),3,20,32,0.21666666666666662
+benchmark,sepsis_cases_1,Stack (proposed),3,21,28,0.2115384615384615
+benchmark,sepsis_cases_1,Stack (proposed),3,22,24,0.25
+benchmark,sepsis_cases_1,Stack (proposed),3,23,21,0.2368421052631579
+benchmark,sepsis_cases_1,Stack (proposed),3,24,19,0.23529411764705888
+benchmark,sepsis_cases_1,Stack (proposed),3,25,17,0.19999999999999996
+benchmark,sepsis_cases_1,Stack (proposed),3,26,16,0.2142857142857143
+benchmark,sepsis_cases_1,Stack (proposed),3,27,16,0.25
+benchmark,sepsis_cases_1,Stack (proposed),3,28,15,0.23076923076923073
+benchmark,sepsis_cases_1,Stack (proposed),3,29,13,0.2727272727272727
+benchmark,sepsis_cases_1,Stack (proposed),4,1,157,0.46442845723421267
+benchmark,sepsis_cases_1,Stack (proposed),4,2,157,0.4600319744204636
+benchmark,sepsis_cases_1,Stack (proposed),4,3,157,0.4616306954436451
+benchmark,sepsis_cases_1,Stack (proposed),4,4,157,0.45923261390887293
+benchmark,sepsis_cases_1,Stack (proposed),4,5,157,0.4588329336530776
+benchmark,sepsis_cases_1,Stack (proposed),4,6,157,0.4516386890487611
+benchmark,sepsis_cases_1,Stack (proposed),4,7,157,0.4744204636290967
+benchmark,sepsis_cases_1,Stack (proposed),4,8,157,0.4768185451638689
+benchmark,sepsis_cases_1,Stack (proposed),4,9,154,0.4424019607843137
+benchmark,sepsis_cases_1,Stack (proposed),4,10,152,0.4564676616915423
+benchmark,sepsis_cases_1,Stack (proposed),4,11,141,0.4605
+benchmark,sepsis_cases_1,Stack (proposed),4,12,129,0.49440993788819876
+benchmark,sepsis_cases_1,Stack (proposed),4,13,109,0.44646464646464645
+benchmark,sepsis_cases_1,Stack (proposed),4,14,90,0.39786585365853666
+benchmark,sepsis_cases_1,Stack (proposed),4,15,78,0.3732142857142857
+benchmark,sepsis_cases_1,Stack (proposed),4,16,60,0.29012345679012347
+benchmark,sepsis_cases_1,Stack (proposed),4,17,49,0.29545454545454547
+benchmark,sepsis_cases_1,Stack (proposed),4,18,38,0.20833333333333331
+benchmark,sepsis_cases_1,Stack (proposed),4,19,36,0.23529411764705882
+benchmark,sepsis_cases_1,Stack (proposed),4,20,32,0.25
+benchmark,sepsis_cases_1,Stack (proposed),4,21,28,0.28846153846153844
+benchmark,sepsis_cases_1,Stack (proposed),4,22,24,0.27272727272727276
+benchmark,sepsis_cases_1,Stack (proposed),4,23,21,0.26315789473684215
+benchmark,sepsis_cases_1,Stack (proposed),4,24,19,0.23529411764705882
+benchmark,sepsis_cases_1,Stack (proposed),4,25,17,0.26666666666666666
+benchmark,sepsis_cases_1,Stack (proposed),4,26,16,0.25
+benchmark,sepsis_cases_1,Stack (proposed),4,27,16,0.25
+benchmark,sepsis_cases_1,Stack (proposed),4,28,15,0.23076923076923078
+benchmark,sepsis_cases_1,Stack (proposed),4,29,13,0.36363636363636365

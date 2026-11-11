@@ -1,0 +1,18 @@
+[deep benchmark/traffic_fines_1 07:59:20 +0s] cases fit/val/test 22755 16794 25923 K 10
+[deep benchmark/traffic_fines_1 07:59:48 +27s] LSTM {'h': 64, 'lr': 0.001} val auc 0.7921 epochs 8 25s
+[deep benchmark/traffic_fines_1 08:00:13 +52s] LSTM {'h': 128, 'lr': 0.001} val auc 0.792 epochs 4 25s
+[deep benchmark/traffic_fines_1 08:00:23 +62s] LSTM {'h': 64, 'lr': 0.003} val auc 0.793 epochs 4 10s
+[deep benchmark/traffic_fines_1 08:00:23 +63s] LSTM seed 0 test auc 0.7911 epochs 4
+[deep benchmark/traffic_fines_1 08:00:33 +73s] LSTM seed 1 test auc 0.7935 epochs 5
+[deep benchmark/traffic_fines_1 08:00:52 +92s] LSTM seed 2 test auc 0.7948 epochs 9
+[deep benchmark/traffic_fines_1 08:01:03 +103s] LSTM seed 3 test auc 0.7937 epochs 4
+[deep benchmark/traffic_fines_1 08:01:17 +116s] LSTM seed 4 test auc 0.7901 epochs 7
+[deep benchmark/traffic_fines_1 08:01:29 +128s] Transformer {'d': 32, 'layers': 1, 'lr': 0.001} val auc 0.7923 epochs 5 12s
+[deep benchmark/traffic_fines_1 08:02:15 +174s] Transformer {'d': 64, 'layers': 2, 'lr': 0.001} val auc 0.7924 epochs 7 46s
+[deep benchmark/traffic_fines_1 08:03:01 +220s] Transformer {'d': 64, 'layers': 2, 'lr': 0.0003} val auc 0.792 epochs 7 46s
+[deep benchmark/traffic_fines_1 08:03:03 +222s] Transformer seed 0 test auc 0.7952 epochs 7
+[deep benchmark/traffic_fines_1 08:03:58 +278s] Transformer seed 1 test auc 0.7916 epochs 8
+[deep benchmark/traffic_fines_1 08:04:43 +322s] Transformer seed 2 test auc 0.7911 epochs 6
+[deep benchmark/traffic_fines_1 08:05:39 +379s] Transformer seed 3 test auc 0.7943 epochs 8
+[deep benchmark/traffic_fines_1 08:06:56 +455s] Transformer seed 4 test auc 0.7917 epochs 11
+[deep benchmark/traffic_fines_1 08:06:56 +455s] DONE

@@ -1,0 +1,15 @@
+{
+ "additivity_max_abs_err": 1.0261229888008927e-07,
+ "meta_weights": {
+  "LGBM": 0.560932523575241,
+  "XGB": -0.3830651646865208,
+  "CatBoost": 0.4040116616427688
+ },
+ "w_transformer": 0.1943088482749631,
+ "intercept": 0.4179442236161054,
+ "encodings": {
+  "LGBM": "agg",
+  "XGB": "agg+index",
+  "CatBoost": "agg"
+ }
+}

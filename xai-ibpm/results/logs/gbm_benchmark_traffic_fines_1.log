@@ -1,0 +1,36 @@
+[benchmark/traffic_fines_1 08:13:35 +1s] fit (80000, 246) val (50000, 246) test (88530, 246) pos rate fit/val/test 0.535 0.511 0.472
+[benchmark/traffic_fines_1 08:13:37 +3s] tuning subsample 29997
+[benchmark/traffic_fines_1 08:13:40 +6s] LGBM encoding agg 0.7875 2.9s
+[benchmark/traffic_fines_1 08:13:42 +8s] LGBM encoding agg+index 0.7916 2.4s
+[benchmark/traffic_fines_1 08:14:54 +80s] LGBM tuned 0.7943 {'learning_rate': 0.16616482532831012, 'num_leaves': 15, 'min_child_samples': 18, 'subsample': 0.5513137398864429, 'colsample_bytree': 0.3080442093539898, 'reg_alpha': 0.01572002670353487, 'reg_lambda': 0.0263027337574574} 72s
+[benchmark/traffic_fines_1 08:14:58 +84s] LGBM seed 0 test auc 0.7809 iters 18 3s
+[benchmark/traffic_fines_1 08:15:03 +89s] LGBM seed 1 test auc 0.783 iters 26 5s
+[benchmark/traffic_fines_1 08:15:06 +92s] LGBM seed 2 test auc 0.787 iters 2 4s
+[benchmark/traffic_fines_1 08:15:12 +98s] LGBM seed 3 test auc 0.7805 iters 31 5s
+[benchmark/traffic_fines_1 08:15:17 +103s] LGBM seed 4 test auc 0.7899 iters 35 5s
+[benchmark/traffic_fines_1 08:15:20 +106s] LGBM default test auc 0.778
+[benchmark/traffic_fines_1 08:15:27 +113s] XGB encoding agg 0.7865 7.1s
+[benchmark/traffic_fines_1 08:16:37 +183s] XGB encoding agg+index 0.7863 69.9s
+[benchmark/traffic_fines_1 08:19:45 +371s] XGB tuned 0.7944 {'learning_rate': 0.08430197228355471, 'max_depth': 3, 'min_child_weight': 5.522268401003042, 'subsample': 0.5628387724260893, 'colsample_bytree': 0.4142711287196945, 'gamma': 0.05190570685296078, 'reg_alpha': 0.08251103764523003, 'reg_lambda': 0.006327369682525755} 188s
+[benchmark/traffic_fines_1 08:19:55 +381s] XGB seed 0 test auc 0.7742 iters 99 9s
+[benchmark/traffic_fines_1 08:20:00 +386s] XGB seed 1 test auc 0.7775 iters 22 5s
+[benchmark/traffic_fines_1 08:20:13 +399s] XGB seed 2 test auc 0.7806 iters 162 12s
+[benchmark/traffic_fines_1 08:20:25 +411s] XGB seed 3 test auc 0.7777 iters 154 12s
+[benchmark/traffic_fines_1 08:20:36 +422s] XGB seed 4 test auc 0.7793 iters 133 10s
+[benchmark/traffic_fines_1 08:20:46 +432s] XGB default test auc 0.776
+[benchmark/traffic_fines_1 08:20:49 +435s] CatBoost encoding agg 0.791 3.1s
+[benchmark/traffic_fines_1 08:20:54 +440s] CatBoost encoding agg+index 0.7928 5.5s
+[benchmark/traffic_fines_1 08:21:55 +501s] CatBoost tuned 0.7954 {'learning_rate': 0.13274414292574907, 'depth': 6, 'l2_leaf_reg': 20.761410420015302, 'bagging_temperature': 0.9636627605010293, 'random_strength': 0.03417952912061012} 61s
+[benchmark/traffic_fines_1 08:22:01 +507s] CatBoost seed 0 test auc 0.794 iters 8 5s
+[benchmark/traffic_fines_1 08:22:07 +513s] CatBoost seed 1 test auc 0.791 iters 9 5s
+[benchmark/traffic_fines_1 08:22:13 +519s] CatBoost seed 2 test auc 0.7861 iters 9 6s
+[benchmark/traffic_fines_1 08:22:20 +526s] CatBoost seed 3 test auc 0.7864 iters 34 6s
+[benchmark/traffic_fines_1 08:22:26 +532s] CatBoost seed 4 test auc 0.784 iters 24 6s
+[benchmark/traffic_fines_1 08:22:39 +545s] CatBoost default test auc 0.786
+[benchmark/traffic_fines_1 08:22:44 +550s] LR C 0.01 test auc 0.7935
+[benchmark/traffic_fines_1 08:23:03 +569s] RF seed 0 0.7833 16s
+[benchmark/traffic_fines_1 08:23:22 +588s] RF seed 1 0.7801 16s
+[benchmark/traffic_fines_1 08:23:43 +609s] RF seed 2 0.7815 17s
+[benchmark/traffic_fines_1 08:24:02 +628s] RF seed 3 0.7809 16s
+[benchmark/traffic_fines_1 08:24:20 +646s] RF seed 4 0.7832 15s
+[benchmark/traffic_fines_1 08:24:20 +646s] DONE

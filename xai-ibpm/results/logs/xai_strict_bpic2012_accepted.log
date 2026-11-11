@@ -1,0 +1,3 @@
+[xai strict/bpic2012_accepted 08:11:01 +1s] global shap done; max additivity error 1.8178292235937477e-06
+[xai strict/bpic2012_accepted 08:11:01 +1s] waterfall case 11953 p 0.5 label 0
+[xai strict/bpic2012_accepted 08:11:01 +1s] DONE (global)

@@ -1,0 +1,4 @@
+[eval benchmark/sepsis_cases_1 09:06:19 +8s] stack calibrators ['none', 'venn-abers', 'platt', 'none', 'platt']
+[eval benchmark/sepsis_cases_1 09:06:21 +10s] mean test AUC {'Best tuned GBM + isotonic': 0.4807, 'CatBoost': 0.4747, 'CatBoost-default': 0.4678, 'LGBM': 0.3632, 'LGBM-default': 0.3842, 'LR': 0.5037, 'LSTM': 0.4055, 'RF': 0.3672, 'Stack (proposed)': 0.4173, 'Stack of default GBMs (untuned)': 0.4547, 'Stack w/o Transformer': 0.4238, 'Stack w/o post-calibration': 0.4147, 'Transformer': 0.396, 'XGB': 0.4154, 'XGB-default': 0.3837}
+[eval benchmark/sepsis_cases_1 09:06:26 +15s] best baseline LR delta -0.1267
+[eval benchmark/sepsis_cases_1 09:06:28 +17s] DONE

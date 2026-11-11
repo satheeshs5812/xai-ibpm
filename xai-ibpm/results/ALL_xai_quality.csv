@@ -1,0 +1,45 @@
+protocol,task,metric,mean,sd,n
+benchmark,bpic2012_accepted,SHAP-LIME agreement: Jaccard top-5,0.125,0.0416666666666666,100
+benchmark,bpic2012_accepted,SHAP-LIME(no discretization) agreement: Jaccard top-5,0.2817857142857142,0.1666954765349177,100
+benchmark,bpic2012_accepted,SHAP-LIME agreement: Kendall tau on |attr| of LIME top-10,0.3984985914494376,0.1344449623057311,100
+benchmark,bpic2012_accepted,SHAP-LIME sign agreement on shared top-5,1.0,0.0,100
+benchmark,bpic2012_accepted,Stability SHAP: Jaccard top-5 under perturbation (10 reps),0.9833333333333332,0.0425571511160123,100
+benchmark,bpic2012_accepted,Stability SHAP: Jaccard top-5 across 5 training seeds (pairwise),0.5794563492063491,0.1154779612448096,100
+benchmark,bpic2012_accepted,Stability LIME: Jaccard top-5 under perturbation (3 reps),0.951851851851852,0.0892738577273626,30
+benchmark,bpic2012_accepted,Stability LIME: Jaccard top-5 across LIME sampling seeds (3),0.9777777777777776,0.0831479419283098,30
+benchmark,bpic2012_accepted,Runtime ensemble TreeSHAP (s/instance),0.019259397983551,,100
+benchmark,bpic2012_accepted,Runtime LIME 1000 samples (s/instance),0.1665264892578125,,100
+benchmark,bpic2012_accepted,Perturbed continuous features (count),20.0,,164
+benchmark,bpic2017_accepted,SHAP-LIME agreement: Jaccard top-5,0.5097222222222222,0.1465327145034619,100
+benchmark,bpic2017_accepted,SHAP-LIME(no discretization) agreement: Jaccard top-5,0.4535714285714286,0.2890243119705553,100
+benchmark,bpic2017_accepted,SHAP-LIME agreement: Kendall tau on |attr| of LIME top-10,0.7039464783487316,0.0903172105318911,100
+benchmark,bpic2017_accepted,SHAP-LIME sign agreement on shared top-5,1.0,0.0,100
+benchmark,bpic2017_accepted,Stability SHAP: Jaccard top-5 under perturbation (10 reps),0.8940000000000002,0.0741440040281972,100
+benchmark,bpic2017_accepted,Stability SHAP: Jaccard top-5 across 5 training seeds (pairwise),0.6046785714285715,0.097890629046411,100
+benchmark,bpic2017_accepted,Stability LIME: Jaccard top-5 under perturbation (3 reps),0.8031746031746033,0.1197404881254233,30
+benchmark,bpic2017_accepted,Stability LIME: Jaccard top-5 across LIME sampling seeds (3),0.6767195767195769,0.0888967620599912,30
+benchmark,bpic2017_accepted,Runtime ensemble TreeSHAP (s/instance),0.0183999896049499,,100
+benchmark,bpic2017_accepted,Runtime LIME 1000 samples (s/instance),0.2342984294891357,,100
+benchmark,bpic2017_accepted,Perturbed continuous features (count),34.0,,277
+benchmark,sepsis_cases_2,SHAP-LIME agreement: Jaccard top-5,0.137063492063492,0.0737720078748069,100
+benchmark,sepsis_cases_2,SHAP-LIME(no discretization) agreement: Jaccard top-5,0.2236111111111111,0.1436227007082451,100
+benchmark,sepsis_cases_2,SHAP-LIME agreement: Kendall tau on |attr| of LIME top-10,0.5608218549316235,0.1099981665838238,100
+benchmark,sepsis_cases_2,SHAP-LIME sign agreement on shared top-5,1.0,0.0,100
+benchmark,sepsis_cases_2,Stability SHAP: Jaccard top-5 under perturbation (10 reps),0.924,0.0881563044461678,100
+benchmark,sepsis_cases_2,Stability SHAP: Jaccard top-5 across 5 training seeds (pairwise),0.431563492063492,0.1222301123509723,100
+benchmark,sepsis_cases_2,Stability LIME: Jaccard top-5 under perturbation (3 reps),0.548148148148148,0.1102562224561363,30
+benchmark,sepsis_cases_2,Stability LIME: Jaccard top-5 across LIME sampling seeds (3),0.4821428571428571,0.0818317088384971,30
+benchmark,sepsis_cases_2,Runtime ensemble TreeSHAP (s/instance),0.0196041059494018,,100
+benchmark,sepsis_cases_2,Runtime LIME 1000 samples (s/instance),0.223796169757843,,100
+benchmark,sepsis_cases_2,Perturbed continuous features (count),31.0,,242
+benchmark,traffic_fines_1,SHAP-LIME agreement: Jaccard top-5,0.2892857142857142,0.1796041565811451,100
+benchmark,traffic_fines_1,SHAP-LIME(no discretization) agreement: Jaccard top-5,0.5987698412698412,0.1386368404587175,100
+benchmark,traffic_fines_1,SHAP-LIME agreement: Kendall tau on |attr| of LIME top-10,0.6222786317217834,0.0601090487884995,100
+benchmark,traffic_fines_1,SHAP-LIME sign agreement on shared top-5,1.0,0.0,100
+benchmark,traffic_fines_1,Stability SHAP: Jaccard top-5 under perturbation (10 reps),0.9486666666666668,0.0948003750578609,100
+benchmark,traffic_fines_1,Stability SHAP: Jaccard top-5 across 5 training seeds (pairwise),0.8363452380952381,0.1082572279771519,100
+benchmark,traffic_fines_1,Stability LIME: Jaccard top-5 under perturbation (3 reps),0.5072751322751323,0.1305593079876512,30
+benchmark,traffic_fines_1,Stability LIME: Jaccard top-5 across LIME sampling seeds (3),0.2966931216931217,0.0829715207563881,30
+benchmark,traffic_fines_1,Runtime ensemble TreeSHAP (s/instance),0.0166337251663208,,100
+benchmark,traffic_fines_1,Runtime LIME 1000 samples (s/instance),0.1819691896438598,,100
+benchmark,traffic_fines_1,Perturbed continuous features (count),15.0,,246

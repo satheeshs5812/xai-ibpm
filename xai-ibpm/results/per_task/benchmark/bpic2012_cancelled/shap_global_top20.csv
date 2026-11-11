@@ -1,0 +1,21 @@
+protocol,task,feature,mean_abs_shap,rank
+benchmark,bpic2012_cancelled,cnt_Activity=O_SENT_BACK-COMPLETE,0.5388073258101537,1
+benchmark,bpic2012_cancelled,open_cases_min,0.06282454787473381,2
+benchmark,bpic2012_cancelled,timesincelastevent_sum,0.058380685436489076,3
+benchmark,bpic2012_cancelled,cnt_Activity=A_CANCELLED-COMPLETE,0.051584583942520065,4
+benchmark,bpic2012_cancelled,timesincelastevent_max,0.04477875761995229,5
+benchmark,bpic2012_cancelled,open_cases_max,0.03760665166784356,6
+benchmark,bpic2012_cancelled,timesincemidnight_max,0.03648992763123809,7
+benchmark,bpic2012_cancelled,timesincelastevent_std,0.03323098432825753,8
+benchmark,bpic2012_cancelled,cnt_Resource=11049,0.032901425424293695,9
+benchmark,bpic2012_cancelled,static_AMOUNT_REQ,0.03270524471652166,10
+benchmark,bpic2012_cancelled,open_cases_mean,0.02645527133797023,11
+benchmark,bpic2012_cancelled,cnt_Resource=11009,0.022788825132432973,12
+benchmark,bpic2012_cancelled,cnt_Resource=11180,0.01680780162246669,13
+benchmark,bpic2012_cancelled,cnt_Resource=11259,0.016484395095870134,14
+benchmark,bpic2012_cancelled,hour_std,0.013816902194296554,15
+benchmark,bpic2012_cancelled,timesincecasestart_mean,0.013326329453206593,16
+benchmark,bpic2012_cancelled,cnt_Activity=O_SELECTED-COMPLETE,0.012281680792167122,17
+benchmark,bpic2012_cancelled,weekday_mean,0.012037888869449637,18
+benchmark,bpic2012_cancelled,cnt_Activity=W_Completeren aanvraag-START,0.011639772912038732,19
+benchmark,bpic2012_cancelled,hour_min,0.011389869443183384,20

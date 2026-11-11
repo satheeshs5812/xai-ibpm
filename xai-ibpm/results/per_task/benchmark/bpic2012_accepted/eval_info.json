@@ -1,0 +1,15 @@
+{
+ "best_baseline": "CatBoost",
+ "top_baselines": [
+  "CatBoost",
+  "XGB",
+  "LGBM"
+ ],
+ "aurc": {
+  "LGBM": 0.25693595963344507,
+  "LR": 0.2992498123014111,
+  "Stack (proposed)": 0.2434639569149867,
+  "Transformer": 0.25954744123648366
+ },
+ "runtime_s": 58.57213878631592
+}

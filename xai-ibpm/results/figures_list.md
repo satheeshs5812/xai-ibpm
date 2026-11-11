@@ -1,0 +1,12 @@
+All figures are in `results/figures/` as 300 dpi PNG and PDF:
+- `fig01_cd_diagram_benchmark`, `fig01_cd_diagram_strict`: Nemenyi critical-difference diagrams of average AUC rank (8 models; 10 BENCHMARK and 4 STRICT tasks).
+- `fig02_auc_heatmap_benchmark`, `fig02_auc_heatmap_strict`: test AUC (mean of 5 seeds), models × tasks, with the best model per task in bold.
+- `fig03_auc_vs_prefix_benchmark`, `fig03_auc_vs_prefix_strict`: AUC by prefix length, proposed stack vs the 3 best baselines per task, with 95% case-bootstrap bands (seed 0).
+- `fig04_reliability`: reliability diagrams for raw LGBM, the stack's meta-learner output and the calibrated stack on 4 representative BENCHMARK tasks.
+- `fig05a_shap_beeswarm`: ensemble TreeSHAP beeswarm plots for 4 representative BENCHMARK tasks. Includes the leaky benchmark features; see Section 5.3 of the paper.
+- `fig05b_shap_dependence`: dependence plot of the top feature for STRICT bpic2017_accepted.
+- `fig05c_waterfall_deferred_case`: local waterfall of a case deferred by the conformal rule (STRICT bpic2017_accepted).
+- `fig06_explanation_quality`: SHAP vs LIME stability boxplots (under perturbation and across training/sampling seeds) and deletion-fidelity curves.
+- `fig07_risk_coverage_conformal`: risk–coverage curves with 95% bands for 4 tasks, plus empirical vs nominal Mondrian conformal coverage for all 10 BENCHMARK tasks.
+- `fig08_net_benefit`: decision curves (net benefit vs cost ratio) for the proposed q > r rule, baselines, always/never intervene and the oracle.
+- `fig09_ablation`: ablation bar charts (AUC, ECE, conformal automation rate) with per-task dots.

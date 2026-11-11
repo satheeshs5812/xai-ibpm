@@ -1,0 +1,18 @@
+[deep benchmark/bpic2012_cancelled 07:40:41 +0s] cases fit/val/test 2576 750 937 K 40
+[deep benchmark/bpic2012_cancelled 07:40:50 +9s] LSTM {'h': 64, 'lr': 0.001} val auc 0.6345 epochs 13 7s
+[deep benchmark/bpic2012_cancelled 07:41:06 +25s] LSTM {'h': 128, 'lr': 0.001} val auc 0.6338 epochs 11 16s
+[deep benchmark/bpic2012_cancelled 07:41:13 +32s] LSTM {'h': 64, 'lr': 0.003} val auc 0.6415 epochs 13 8s
+[deep benchmark/bpic2012_cancelled 07:41:13 +32s] LSTM seed 0 test auc 0.7246 epochs 13
+[deep benchmark/bpic2012_cancelled 07:41:23 +42s] LSTM seed 1 test auc 0.7278 epochs 17
+[deep benchmark/bpic2012_cancelled 07:41:29 +48s] LSTM seed 2 test auc 0.7218 epochs 11
+[deep benchmark/bpic2012_cancelled 07:41:33 +52s] LSTM seed 3 test auc 0.7246 epochs 9
+[deep benchmark/bpic2012_cancelled 07:41:43 +62s] LSTM seed 4 test auc 0.7304 epochs 17
+[deep benchmark/bpic2012_cancelled 07:41:58 +77s] Transformer {'d': 32, 'layers': 1, 'lr': 0.001} val auc 0.6315 epochs 15 15s
+[deep benchmark/bpic2012_cancelled 07:42:36 +115s] Transformer {'d': 64, 'layers': 2, 'lr': 0.001} val auc 0.6336 epochs 13 38s
+[deep benchmark/bpic2012_cancelled 07:43:13 +152s] Transformer {'d': 64, 'layers': 2, 'lr': 0.0003} val auc 0.6277 epochs 13 37s
+[deep benchmark/bpic2012_cancelled 07:43:13 +152s] Transformer seed 0 test auc 0.7163 epochs 13
+[deep benchmark/bpic2012_cancelled 07:43:53 +192s] Transformer seed 1 test auc 0.7108 epochs 14
+[deep benchmark/bpic2012_cancelled 07:44:45 +244s] Transformer seed 2 test auc 0.7162 epochs 13
+[deep benchmark/bpic2012_cancelled 07:45:21 +280s] Transformer seed 3 test auc 0.7106 epochs 12
+[deep benchmark/bpic2012_cancelled 07:46:02 +321s] Transformer seed 4 test auc 0.7175 epochs 14
+[deep benchmark/bpic2012_cancelled 07:46:02 +321s] DONE

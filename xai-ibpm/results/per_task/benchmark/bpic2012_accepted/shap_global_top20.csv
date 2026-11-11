@@ -1,0 +1,21 @@
+protocol,task,feature,mean_abs_shap,rank
+benchmark,bpic2012_accepted,cnt_Activity=O_SENT_BACK-COMPLETE,0.4617135120267595,1
+benchmark,bpic2012_accepted,static_AMOUNT_REQ,0.13797144051295973,2
+benchmark,bpic2012_accepted,cnt_Activity=W_Valideren aanvraag-SCHEDULE,0.10370448700883178,3
+benchmark,bpic2012_accepted,cnt_Activity=O_ACCEPTED-COMPLETE,0.08236619361432447,4
+benchmark,bpic2012_accepted,cnt_Resource=11049,0.06277442512382127,5
+benchmark,bpic2012_accepted,cnt_Activity=A_CANCELLED-COMPLETE,0.060798576897829804,6
+benchmark,bpic2012_accepted,open_cases_max,0.04961319710848008,7
+benchmark,bpic2012_accepted,open_cases_min,0.042826432670818794,8
+benchmark,bpic2012_accepted,cnt_Activity=W_Valideren aanvraag-START,0.04019617213372258,9
+benchmark,bpic2012_accepted,timesincelastevent_sum,0.036874697136573036,10
+benchmark,bpic2012_accepted,open_cases_mean,0.035297804292301005,11
+benchmark,bpic2012_accepted,cnt_Activity=O_DECLINED-COMPLETE,0.03458296786338898,12
+benchmark,bpic2012_accepted,cnt_Activity=A_DECLINED-COMPLETE,0.0332510424545618,13
+benchmark,bpic2012_accepted,cnt_Activity=A_APPROVED-COMPLETE,0.03319006447653317,14
+benchmark,bpic2012_accepted,idx_act_lag1,0.029741120505499135,15
+benchmark,bpic2012_accepted,cnt_Activity=W_Completeren aanvraag-START,0.028255972531545367,16
+benchmark,bpic2012_accepted,month_mean,0.02681754355241468,17
+benchmark,bpic2012_accepted,weekday_min,0.023369507526561247,18
+benchmark,bpic2012_accepted,cnt_Activity=W_Nabellen offertes-COMPLETE,0.023187857923468804,19
+benchmark,bpic2012_accepted,timesincecasestart_max,0.020909948321119528,20

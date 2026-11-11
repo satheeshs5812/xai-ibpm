@@ -1,0 +1,25 @@
+07:22:28 benchmark bpic2012 tasks ['bpic2012_accepted', 'bpic2012_declined', 'bpic2012_cancelled'] K {'bpic2012_accepted': 40, 'bpic2012_declined': 40, 'bpic2012_cancelled': 40} events 186693 cases 4685
+07:22:29 fit (79992, 164)
+07:22:29 val (18714, 164)
+07:22:29 test (30637, 164)
+07:22:30 done bpic2012 2s
+07:22:32 benchmark traffic_fines_1 tasks ['traffic_fines_1'] K {'traffic_fines_1': 10} events 460556 cases 129615
+07:22:34 fit (80000, 246)
+07:22:35 val (50000, 246)
+07:22:35 test (88530, 246)
+07:22:39 done traffic_fines_1 8s
+07:22:42 benchmark bpic2017 tasks ['bpic2017_accepted', 'bpic2017_refused', 'bpic2017_cancelled'] K {'bpic2017_accepted': 20, 'bpic2017_refused': 20, 'bpic2017_cancelled': 20} events 1198366 cases 31413
+07:22:43 fit (79993, 277)
+07:22:44 val (49983, 277)
+07:22:44 test (124815, 277)
+07:22:50 done bpic2017 11s
+07:22:52 strict traffic_fines_1 tasks ['traffic_fines_1'] K {'traffic_fines_1': 10} events 502441 cases 150370
+07:22:54 fit (79998, 246)
+07:22:55 val (50000, 246)
+07:22:55 test (96118, 246)
+07:22:59 done traffic_fines_1 9s
+07:23:02 strict bpic2017_accepted tasks ['bpic2017_accepted'] K {'bpic2017_accepted': 20} events 1057567 cases 31413
+07:23:04 fit (79985, 266)
+07:23:04 val (49998, 266)
+07:23:05 test (121335, 266)
+07:23:07 done bpic2017_accepted 8s

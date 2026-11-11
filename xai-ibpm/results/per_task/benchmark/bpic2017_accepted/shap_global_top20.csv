@@ -1,0 +1,21 @@
+protocol,task,feature,mean_abs_shap,rank
+benchmark,bpic2017_accepted,cnt_Selected=False,0.88937208045182,1
+benchmark,bpic2017_accepted,CreditScore_mean,0.8506699522129811,2
+benchmark,bpic2017_accepted,CreditScore_sum,0.4112882131085641,3
+benchmark,bpic2017_accepted,cnt_Activity=O_Create Offer,0.2651015869225604,4
+benchmark,bpic2017_accepted,static_ApplicationType=New credit,0.16139270272453388,5
+benchmark,bpic2017_accepted,static_ApplicationType=Limit raise,0.12664508960897042,6
+benchmark,bpic2017_accepted,cnt_Selected=True,0.1190371902762959,7
+benchmark,bpic2017_accepted,CreditScore_max,0.11193997643827959,8
+benchmark,bpic2017_accepted,CreditScore_std,0.10133213642842674,9
+benchmark,bpic2017_accepted,cnt_Resource=User_1,0.07512989187962872,10
+benchmark,bpic2017_accepted,static_RequestedAmount,0.07097889885861233,11
+benchmark,bpic2017_accepted,cnt_Accepted=True,0.05027962264794942,12
+benchmark,bpic2017_accepted,cnt_Action=Created,0.02937676622288485,13
+benchmark,bpic2017_accepted,cnt_Activity=W_Handle leads,0.027503932751766665,14
+benchmark,bpic2017_accepted,cnt_EventOrigin=Offer,0.025041398790769036,15
+benchmark,bpic2017_accepted,MonthlyCost_mean,0.02250057162425463,16
+benchmark,bpic2017_accepted,cnt_Activity=O_Created,0.020949157737976846,17
+benchmark,bpic2017_accepted,cnt_Activity=O_Cancelled,0.019416716880118902,18
+benchmark,bpic2017_accepted,cnt_Action=Deleted,0.01787766381111696,19
+benchmark,bpic2017_accepted,OfferedAmount_std,0.017161705362356075,20

@@ -1,0 +1,36 @@
+[benchmark/sepsis_cases_1 07:51:34 +0s] fit (7760, 244) val (1796, 244) test (2493, 244) pos rate fit/val/test 0.159 0.161 0.109
+[benchmark/sepsis_cases_1 07:51:34 +0s] tuning subsample 7760
+[benchmark/sepsis_cases_1 07:51:35 +1s] LGBM encoding agg 0.5759 0.5s
+[benchmark/sepsis_cases_1 07:51:35 +1s] LGBM encoding agg+index 0.6346 0.5s
+[benchmark/sepsis_cases_1 07:51:59 +25s] LGBM tuned 0.6777 {'learning_rate': 0.037956876758156954, 'num_leaves': 15, 'min_child_samples': 28, 'subsample': 0.8061921267797594, 'colsample_bytree': 0.6656510993972007, 'reg_alpha': 0.0056840158989255995, 'reg_lambda': 0.019005431075637874} 24s
+[benchmark/sepsis_cases_1 07:51:59 +25s] LGBM seed 0 test auc 0.4252 iters 3 1s
+[benchmark/sepsis_cases_1 07:52:00 +26s] LGBM seed 1 test auc 0.3334 iters 3 1s
+[benchmark/sepsis_cases_1 07:52:00 +27s] LGBM seed 2 test auc 0.4019 iters 4 1s
+[benchmark/sepsis_cases_1 07:52:01 +27s] LGBM seed 3 test auc 0.3333 iters 4 1s
+[benchmark/sepsis_cases_1 07:52:02 +28s] LGBM seed 4 test auc 0.3224 iters 9 1s
+[benchmark/sepsis_cases_1 07:52:03 +29s] LGBM default test auc 0.3842
+[benchmark/sepsis_cases_1 07:52:03 +29s] XGB encoding agg 0.6359 0.8s
+[benchmark/sepsis_cases_1 07:52:05 +31s] XGB encoding agg+index 0.6308 2.1s
+[benchmark/sepsis_cases_1 07:52:26 +52s] XGB tuned 0.6879 {'learning_rate': 0.13915525651569793, 'max_depth': 5, 'min_child_weight': 46.25028431736428, 'subsample': 0.7778560946635571, 'colsample_bytree': 0.48732984724480377, 'gamma': 1.8944114124089297, 'reg_alpha': 0.001431629507345107, 'reg_lambda': 5.525111958709108} 21s
+[benchmark/sepsis_cases_1 07:52:27 +53s] XGB seed 0 test auc 0.3637 iters 9 1s
+[benchmark/sepsis_cases_1 07:52:27 +54s] XGB seed 1 test auc 0.4421 iters 13 1s
+[benchmark/sepsis_cases_1 07:52:28 +54s] XGB seed 2 test auc 0.4033 iters 7 1s
+[benchmark/sepsis_cases_1 07:52:29 +55s] XGB seed 3 test auc 0.4189 iters 5 1s
+[benchmark/sepsis_cases_1 07:52:30 +56s] XGB seed 4 test auc 0.4491 iters 5 1s
+[benchmark/sepsis_cases_1 07:52:31 +57s] XGB default test auc 0.3837
+[benchmark/sepsis_cases_1 07:52:32 +58s] CatBoost encoding agg 0.6332 1.1s
+[benchmark/sepsis_cases_1 07:52:33 +59s] CatBoost encoding agg+index 0.6131 1.1s
+[benchmark/sepsis_cases_1 07:52:50 +77s] CatBoost tuned 0.7109 {'learning_rate': 0.044975998881523746, 'depth': 7, 'l2_leaf_reg': 11.732814789609199, 'bagging_temperature': 0.809514373408886, 'random_strength': 0.0022497121309591047} 18s
+[benchmark/sepsis_cases_1 07:52:52 +78s] CatBoost seed 0 test auc 0.4687 iters 6 2s
+[benchmark/sepsis_cases_1 07:52:54 +80s] CatBoost seed 1 test auc 0.47 iters 29 2s
+[benchmark/sepsis_cases_1 07:52:56 +82s] CatBoost seed 2 test auc 0.4626 iters 18 2s
+[benchmark/sepsis_cases_1 07:52:58 +84s] CatBoost seed 3 test auc 0.4847 iters 7 2s
+[benchmark/sepsis_cases_1 07:53:00 +86s] CatBoost seed 4 test auc 0.4877 iters 12 2s
+[benchmark/sepsis_cases_1 07:53:01 +87s] CatBoost default test auc 0.4678
+[benchmark/sepsis_cases_1 07:53:02 +88s] LR C 1.0 test auc 0.5037
+[benchmark/sepsis_cases_1 07:53:06 +92s] RF seed 0 0.3482 3s
+[benchmark/sepsis_cases_1 07:53:09 +96s] RF seed 1 0.3608 4s
+[benchmark/sepsis_cases_1 07:53:13 +99s] RF seed 2 0.3608 3s
+[benchmark/sepsis_cases_1 07:53:16 +102s] RF seed 3 0.3833 3s
+[benchmark/sepsis_cases_1 07:53:20 +106s] RF seed 4 0.3828 3s
+[benchmark/sepsis_cases_1 07:53:20 +106s] DONE

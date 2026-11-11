@@ -1,0 +1,25 @@
+protocol,task,model,bin,n,mean_pred,frac_pos
+strict,sepsis_cases_1,LGBM (raw),1,2064,0.15245699050814607,0.11627906976744186
+strict,sepsis_cases_1,LGBM (raw),2,260,0.2469260933307501,0.05
+strict,sepsis_cases_1,Stack: meta-LR output,0,265,0.08063737199881377,0.07547169811320754
+strict,sepsis_cases_1,Stack: meta-LR output,1,1045,0.15145901642299398,0.12344497607655502
+strict,sepsis_cases_1,Stack: meta-LR output,2,664,0.24179325257673237,0.10692771084337349
+strict,sepsis_cases_1,Stack: meta-LR output,3,206,0.3376445907889339,0.06796116504854369
+strict,sepsis_cases_1,Stack: meta-LR output,4,64,0.4411692941917751,0.078125
+strict,sepsis_cases_1,Stack: meta-LR output,5,66,0.5407713724055899,0.21212121212121213
+strict,sepsis_cases_1,"Stack (proposed, calibrated)",0,265,0.08063737199881377,0.07547169811320754
+strict,sepsis_cases_1,"Stack (proposed, calibrated)",1,1045,0.15145901642299398,0.12344497607655502
+strict,sepsis_cases_1,"Stack (proposed, calibrated)",2,664,0.24179325257673237,0.10692771084337349
+strict,sepsis_cases_1,"Stack (proposed, calibrated)",3,206,0.3376445907889339,0.06796116504854369
+strict,sepsis_cases_1,"Stack (proposed, calibrated)",4,64,0.4411692941917751,0.078125
+strict,sepsis_cases_1,"Stack (proposed, calibrated)",5,66,0.5407713724055899,0.21212121212121213
+strict,sepsis_cases_1,LR,0,1156,0.0377530767894461,0.10813148788927336
+strict,sepsis_cases_1,LR,1,650,0.14539003459306862,0.0876923076923077
+strict,sepsis_cases_1,LR,2,307,0.24362364047319182,0.11726384364820847
+strict,sepsis_cases_1,LR,3,113,0.3368807384925606,0.18584070796460178
+strict,sepsis_cases_1,LR,4,64,0.43716741912066936,0.171875
+strict,sepsis_cases_1,LR,5,22,0.5408199429512024,0.13636363636363635
+strict,sepsis_cases_1,Transformer,0,333,0.07921229329732088,0.1831831831831832
+strict,sepsis_cases_1,Transformer,1,1416,0.1471790691448302,0.10734463276836158
+strict,sepsis_cases_1,Transformer,2,449,0.23948100776741393,0.0645879732739421
+strict,sepsis_cases_1,Transformer,3,112,0.3349502278225763,0.08035714285714286

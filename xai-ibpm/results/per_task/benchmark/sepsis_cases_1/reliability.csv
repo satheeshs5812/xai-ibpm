@@ -1,0 +1,32 @@
+protocol,task,model,bin,n,mean_pred,frac_pos
+benchmark,sepsis_cases_1,LGBM (raw),1,2435,0.15843197426144837,0.10595482546201232
+benchmark,sepsis_cases_1,LGBM (raw),2,58,0.215959496282298,0.22413793103448276
+benchmark,sepsis_cases_1,Stack: meta-LR output,0,153,0.0869568737312176,0.17647058823529413
+benchmark,sepsis_cases_1,Stack: meta-LR output,1,812,0.1540940626063258,0.15517241379310345
+benchmark,sepsis_cases_1,Stack: meta-LR output,2,889,0.24815462722947362,0.09448818897637795
+benchmark,sepsis_cases_1,Stack: meta-LR output,3,319,0.3381032755050655,0.03761755485893417
+benchmark,sepsis_cases_1,Stack: meta-LR output,4,140,0.44731820361080166,0.06428571428571428
+benchmark,sepsis_cases_1,Stack: meta-LR output,5,69,0.5579701177966601,0.0
+benchmark,sepsis_cases_1,Stack: meta-LR output,6,30,0.6439154971627694,0.0
+benchmark,sepsis_cases_1,Stack: meta-LR output,7,60,0.747672262944228,0.11666666666666667
+benchmark,sepsis_cases_1,Stack: meta-LR output,8,21,0.8470051909454864,0.2857142857142857
+benchmark,sepsis_cases_1,"Stack (proposed, calibrated)",0,153,0.0869568737312176,0.17647058823529413
+benchmark,sepsis_cases_1,"Stack (proposed, calibrated)",1,812,0.1540940626063258,0.15517241379310345
+benchmark,sepsis_cases_1,"Stack (proposed, calibrated)",2,889,0.24815462722947362,0.09448818897637795
+benchmark,sepsis_cases_1,"Stack (proposed, calibrated)",3,319,0.3381032755050655,0.03761755485893417
+benchmark,sepsis_cases_1,"Stack (proposed, calibrated)",4,140,0.44731820361080166,0.06428571428571428
+benchmark,sepsis_cases_1,"Stack (proposed, calibrated)",5,69,0.5579701177966601,0.0
+benchmark,sepsis_cases_1,"Stack (proposed, calibrated)",6,30,0.6439154971627694,0.0
+benchmark,sepsis_cases_1,"Stack (proposed, calibrated)",7,60,0.747672262944228,0.11666666666666667
+benchmark,sepsis_cases_1,"Stack (proposed, calibrated)",8,21,0.8470051909454864,0.2857142857142857
+benchmark,sepsis_cases_1,LR,0,1247,0.037532561152968574,0.11467522052927025
+benchmark,sepsis_cases_1,LR,1,655,0.1439998493736027,0.08854961832061069
+benchmark,sepsis_cases_1,LR,2,302,0.2459604996225692,0.13245033112582782
+benchmark,sepsis_cases_1,LR,3,175,0.3388528670583453,0.11428571428571428
+benchmark,sepsis_cases_1,LR,4,64,0.4508184236474335,0.109375
+benchmark,sepsis_cases_1,LR,5,30,0.5430375496546428,0.03333333333333333
+benchmark,sepsis_cases_1,Transformer,0,425,0.07938352508579984,0.16470588235294117
+benchmark,sepsis_cases_1,Transformer,1,1416,0.14590190471502515,0.125
+benchmark,sepsis_cases_1,Transformer,2,464,0.23828812184390322,0.023706896551724137
+benchmark,sepsis_cases_1,Transformer,3,124,0.3426880555287484,0.0
+benchmark,sepsis_cases_1,Transformer,4,47,0.43476779854044,0.10638297872340426

@@ -1,0 +1,4 @@
+[eval strict/bpic2012_accepted 09:06:41 +12s] stack calibrators ['none', 'none', 'none', 'none', 'none']
+[eval strict/bpic2012_accepted 09:06:44 +14s] mean test AUC {'Best tuned GBM + isotonic': 0.5649, 'CatBoost': 0.5774, 'CatBoost-default': 0.571, 'LGBM': 0.5694, 'LGBM-default': 0.575, 'LR': 0.5273, 'LSTM': 0.5539, 'RF': 0.5677, 'Stack (proposed)': 0.571, 'Stack of default GBMs (untuned)': 0.5749, 'Stack w/o Transformer': 0.5699, 'Stack w/o post-calibration': 0.571, 'Transformer': 0.5649, 'XGB': 0.5669, 'XGB-default': 0.5731}
+[eval strict/bpic2012_accepted 09:07:02 +32s] best baseline CatBoost delta -0.0226
+[eval strict/bpic2012_accepted 09:07:06 +36s] DONE
